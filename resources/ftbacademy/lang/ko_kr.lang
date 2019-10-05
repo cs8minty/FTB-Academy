@@ -263,23 +263,23 @@ academy.introastralsorcery.desc=Astral Sorcery 알아보기
 academy.introastralsorcery.text=Astral Sorcery는 별빛과 별자리들의 힘을 이용하는 것에 초점을 맞춘 마법 모드이다.
 academy.introastralsorcery.task=Astral Sorcery 구역 입장하기
 
-academy.introstarlight.title=Using Starlight
-academy.introstarlight.desc=Make a Resonating Wand
-academy.introstarlight.text1=A lot of recipes in this mod require Starlight in addition to items. When you're just getting started, the only way to use Starlight is to place a regular Crafting Table near a Floating Crystal.
-academy.introstarlight.text2=The Resonating Wand is used to activate Astral Sorcery blocks. While holding it and running around the Overworld, you can also see the location of Rock Crystal Ore that spawns underground.
-academy.introstarlight.text3=Place the Crafting Table on the Wool block near the Floating Crystal and craft the Resonating Wand in it. You can see the Resonating Wand's recipe by searching for it in JEI, or by clicking the Resonating Wand in the Tasks section of this menu.
+academy.introstarlight.title=별빛 사용
+academy.introstarlight.desc=공명의 완드 만들기
+academy.introstarlight.text1=이 모드의 많은 레시피들은 아이템 외에 별빛도 필요로 한다. 지금 막 시작할 때 별빛을 사용하는 유일한 방법은 플로팅 크리스탈 근처에 일반 제작대를 놓는 것이다.
+academy.introstarlight.text2=공명의 완드는 Astral Sorcery 블럭을 작동시키는 데 사용된다. 그것을 든채 오버월드를 뛰어다니면 지하에 생성되는 락 크리스탈 광물의 위치도 볼 수 있다.
+academy.introstarlight.text3=플로팅 크리스탈 근처의 양털 블럭에 제작대를 놓고 공명의 완드를 제작하세요. 공명의 완드의 레시피는 JEI에서 검색하거나 이 메뉴의 과제 섹션에서 공명의 완드를 클릭하여 볼 수 있다.
 
-academy.introlct.title=Collecting Starlight
-academy.introlct.desc=Make a Luminous Crafting Table
-academy.introlct.text1=The Luminous Crafting Table allows you to get Starlight just from being able to see the night sky, though it will also be powered by a Floating Crystal if one is available.
-academy.introlct.text2=To craft items with the Luminous Crafting Table, you have to give it the items as usual and it must have access to an amount of Starlight depending on the recipe.
-academy.introlct.text3=If the Luminous Crafting Table has the items and Starlight required, right click it with a Resonating Wand to craft the item.
+academy.introlct.title=별빛 수집
+academy.introlct.desc=루미너스 제작대 제작하기
+academy.introlct.text1=루미너스 제작대는 밤 하늘을 보는 것만으로도 별빛을 얻을 수 있지만, 플로팅 크리스탈을 통해서도 공급 받을 수 있다
+academy.introlct.text2=루미너스 제작대로 아이템을 제작하려면 흔히 하듯이 아이템을 제공해야 하며, 레시피에 따라 일정량의 별빛을 받을 수 있어야 한다.
+academy.introlct.text3=루미너스 제작대에 필요한 아이템과 별빛이 충분한 경우 공명의 완드로 제작대를 우클릭하세요.
 
-academy.introilumpowder.title=Crafting Items with Starlight
-academy.introilumpowder.desc=Make Illumination Powder
-academy.introilumpowder.text1=Illumination Powder is just one of the many items you can make with Starlight. You can place it down anywhere and it will act as a light source, and it doesn't take up a block space.
-academy.introilumpowder.text2=Place the Luminous Crafting Table on the Quartz block and craft Illumination Powder according to its crafting recipe.
-academy.introilumpowder.text3=As a reminder, you have to right click the Luminous Crafting Table with the Resonating Wand to craft with it.
+academy.introilumpowder.title=별빛을 이용한 아이템 제작
+academy.introilumpowder.desc=조명 가루 만들기
+academy.introilumpowder.text1=조명 가루는 별빛으로 만들 수 있는 많은 아이템들 중 하나에 불과하다. 어디에든 내려 놓을 수 있고, 그것은 광원 역할을 할 것이며, 공간을 차지하지 않을 것이다.
+academy.introilumpowder.text2=루미너스 제작대를 석영 블럭 위에 놓고 레시피에 따라 조명 가루를 제작하세요.
+academy.introilumpowder.text3=다시 한번 상기시켜드리자면, 공명의 완드를 들고 제작대를 우클릭하여 만들어야 한다.
 
 academy.introbotania.title=Introduction to Botania
 academy.introbotania.desc=Learn about Botania
