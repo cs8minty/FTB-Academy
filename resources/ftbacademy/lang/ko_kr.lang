@@ -1,30 +1,30 @@
 # Chapters
 
 academy.gettingstarted.title=시작하기
-academy.building.title=Building
+academy.building.title=건축
 
-academy.basics.title=Basics
+academy.basics.title=기본
 
-academy.mainmagic.title=Magic
+academy.mainmagic.title=마법
 academy.botania.title=Botania
 academy.twilightforest.title=Twilight Forest
 academy.astralsorcery.title=Astral Sorcery
 
-academy.mainstorage.title=Storage
-academy.storage1.title=Basic Storage
-academy.transportation.title=Transportation
-academy.refinedstorage1.title=Refined Storage - Beginner
-academy.refinedstorage2.title=Refined Storage - Advanced
-academy.refinedstorage3.title=Refined Storage - Expert
+academy.mainstorage.title=스토리지
+academy.storage1.title=기본 스토리지
+academy.transportation.title=수송
+academy.refinedstorage1.title=Refined Storage - 초급
+academy.refinedstorage2.title=Refined Storage - 고급
+academy.refinedstorage3.title=Refined Storage - 전문가
 
-academy.maintechnology.title=Technology
-academy.technology1.title=Technology - Beginner
-academy.technology2.title=Technology - Advanced
-academy.technology3.title=Technology - Expert
+academy.maintechnology.title=기술
+academy.technology1.title=기술 - 초급
+academy.technology2.title=기술 - 고급
+academy.technology3.title=기술 - 전문가
 
-academy.misc.title=Miscellaneous Quests
+academy.misc.title=기타 퀘스트
 
-academy.clickthis.task=Click this
+academy.clickthis.task=클릭하기
 
 
 #Reward Tables
@@ -198,70 +198,70 @@ academy.introfluidstorage.text4=왼쪽의 휴대용 탱크에 우클릭하여 �
 academy.introautomation.title=자동화 소개
 academy.introautomation.desc=자동화에 대해 배우기
 academy.introautomation.text1=단순히 아이템과 액체를 저장하는 것만으로는 충분하지 않다. 적절히 자동화 하여 그것들을 자동으로 옮겨야 한다.
-academy.introautomation.text2=The simplest way to move things around is Ducts. Items are moved through Itemducts and fluids are moved through Fluiducts.
-academy.introautomation.text3=Servos are used to pull from blocks, and items/fluids will automatically go into the nearest block that can store them.
-academy.introautomation.task=Enter the automation room
+academy.introautomation.text2=물건을 움직이는 가장 간단한 방법은 덕트(Ducts)다. 아이템은 아이템덕트를 통해 이동되고 액체는 액체덕트를 통해 이동된다.
+academy.introautomation.text3=서보(Servo)는 블럭으로부터 가져올 때 사용되며, 아이템/액체는 자동으로 그것과 가까운 블럭에 저장된다.
+academy.introautomation.task=자동화 룸에 입장하기
 
-academy.introfilters.title=Filtering
-academy.introfilters.desc=Set some Filters
-academy.introfilters.text1=Filters can be used to specify what is allowed to enter a block through the Duct. You can open it up to set its Whitelist or Blacklist.
-academy.introfilters.text2=Items on a whitelist are the only items allowed to enter, and items on a blacklist are the only items not allowed to enter.
-academy.introfilters.text3=• Set the right filter to be a whitelist of ores.
-academy.introfilters.text4=• Set the middle Filter to be a whitelist of dirt.
-academy.introfilters.text5=• Set the left Filter to be a blacklist of ores and dirt.
-academy.introfilters.text6=Flip the lever to turn on the Servo, and items will be pulled out of the Crate on the left and go into the Crates on the right depending on how the Filters were set.
-academy.introfilters.task1=Set the General Filter
-academy.introfilters.task2=Set the Dirt Filter
-academy.introfilters.task3=Set the Ore Filter
+academy.introfilters.title=필터링
+academy.introfilters.desc=몇 개의 필터 설정하기
+academy.introfilters.text1=필터를 사용하여 덕트를 통해 블럭에 들어갈 수 있는 것을 지정할 수 있다. 필터를 열어 화이트리스트나 블랙리스트를 설정할 수 있다.
+academy.introfilters.text2=화이트리스트는 오직 허용된 아이템만 들어가고, 블랙리스트는 허용되지 않은 아이템만 들어간다.
+academy.introfilters.text3=• 오른쪽의 필터에 광물을 화이트리스트로 설정하세요.
+academy.introfilters.text4=• 중간의 필터에 흙을 화이트리스트로 설정하세요.
+academy.introfilters.text5=• 왼쪽의 필터에 광물과 흙을 블랙리스트로 설정하세요.
+academy.introfilters.text6=레버를 젖혀 서보를 켜면, 왼쪽에 있는 저장 상자에서 아이템을 꺼내 필터 셋팅에 따라 오른쪽에 있는 저장 상자로 들어간다.
+academy.introfilters.task1=일반 필터 설정하기
+academy.introfilters.task2=흙 필터 설정하기
+academy.introfilters.task3=광물 필터 설정하기
 
-academy.introfluidtransfer.title=Fluid Transfer
-academy.introfluidtransfer.desc=Move some Water
-academy.introfluidtransfer.text1=Like Itemducts move items, Fluiducts move fluids.
-academy.introfluidtransfer.text2=Portable Tanks can be set to automatically output to the block underneath. Use the Crescent Hammer on the top Portable Tank to make it move the Water to the Tank beneath it.
-academy.introfluidtransfer.text3=You can set Servos to function when they don't have a Redstone signal by opening it and pressing the Redstone Dust button on the right. Do this here and set the Servo to either Ignore Redstone or Low (which means no signal).
+academy.introfluidtransfer.title=액체 수송
+academy.introfluidtransfer.desc=물 옮기기
+academy.introfluidtransfer.text1=아이템덕트가 아이템을 이동시키는 것과 같이, 액체덕트는 액체를 이동시킨다.
+academy.introfluidtransfer.text2=휴대용 탱크는 자동으로 블럭의 아래로 출력되도록 설정할 수 있다. 크레센트 해머(Crescent Hammer)를 휴대용 탱크 상단부에 사용하여, 물을 탱크아래로 이동시키게 만드세요.
+academy.introfluidtransfer.text3=서보를 열어 오른쪽의 레드스톤 버튼을 눌러 레드스톤 신호가 없을 때 작동하도록 설장할 수 있다. 이 작업을 수행한 후 서보를 레드스톤 무시 또는 Low로 설정하세요.
 
-academy.introtech.title=Introduction to Technology
-academy.introtech.desc=Learn about technology
-academy.introtech.text1=Technology mods play a large part in FTB modpacks. These quests are dedicated to teaching you the basics.
-academy.introtech.task=Enter the technology room
+academy.introtech.title=기술 소개
+academy.introtech.desc=기술에 대해 배우기
+academy.introtech.text1=기술 모드는 FTB 모드팩을 플레이 하는데 큰 역할을 한다. 이 퀘스트들은 당신에게 기본을 가르치는데 주력한다.
+academy.introtech.task=기술 룸에 들어가기
 
-academy.introgen.title=Making Energy
-academy.introgen.desc=Use a Coal Generator
-academy.introgen.text1=Most technology mods use RF, which is essentially just electricity.
-academy.introgen.text2=Generators are machines that make RF. The Coal Generator uses furnace fuel, such as Coal, to generate RF.
-academy.introgen.text3=Place the Coal Generator down on the Block of Iron and give it some Coal to make it generate RF.
-academy.introgen.task=Place generator on the iron block
+academy.introgen.title=에너지 생산
+academy.introgen.desc=석탄 발전기 사용하기
+academy.introgen.text1=대부분의 기술 모드들은 RF를 사용하는데, 그것은 본질적으로 단지 전력일 뿐이다.
+academy.introgen.text2=발전기는 RF를 생산하는 기계다. 석탄 발전기는 RF를 생산하기 위해 석탄과 같은 화로 연료를 사용한다.
+academy.introgen.text3=석탄 발전기를 철 블럭 위에 내려놓고 RF를 생산하기 위해 석탄 몇개를 넣어라.
+academy.introgen.task=철 블럭 위에 발전기 놓기
 
-academy.intropowertransfer.title=Moving Energy
-academy.intropowertransfer.desc=Place Fluxducts
-academy.intropowertransfer.text1=While you can technically get away with having generators directly next to your machines, it's not the best idea.
-academy.intropowertransfer.text2=Fluxducts and other power cables allow you to connect generators to machines at a distance.
-academy.intropowertransfer.text3=Place the Fluxducts down on the Wool.
-academy.intropowertransfer.task=Place the Fluxducts on the Magenta Wool
+academy.intropowertransfer.title=에너지 이동
+academy.intropowertransfer.desc=플럭스덕트 설치하기
+academy.intropowertransfer.text1=기계 바로 옆에 발전기를 두는 것은 기술적으로 피할 수 있지만, 그것은 좋은 생각이 아니다.
+academy.intropowertransfer.text2=플럭스덕트와 다른 전력 케이블을 사용하여 멀리 있는 기계에 발전기를 연결할 수 있다.
+academy.intropowertransfer.text3=플럭스덕트를 양털 위에 놓으세요.
+academy.intropowertransfer.task=자홍색 양털 위에 플럭스덕트 놓기
 
-academy.intromachines.title=Using Energy
-academy.intromachines.desc=Use a Redstone Furnace
-academy.intromachines.text1=Generators make energy, but you also have to use it. There are plenty of machines that use RF to perform a variety of functions.
-academy.intromachines.text2=The Redstone Furnace in particular uses RF to smelt items. It functions almost exactly like a regular Furnace, except it runs on RF instead of Coal.
-academy.intromachines.text3=Place the Redstone Furnace on the Block of Lapis Lazuli and use it to smelt some Pulverized Iron.
-academy.intromachines.task=Place the Redstone Furnace on the Block of Lapis Lazuli
+academy.intromachines.title=에너지 사용
+academy.intromachines.desc=레드스톤 화로 사용하기
+academy.intromachines.text1=발전기는 에너지를 생산하지만, 또한 사용한다. RF를 이용해 다양한 기능을 하는 기계는 얼마든지 있다.
+academy.intromachines.text2=레드스톤 화로는 특히 RF를 사용하여 아이템을 제련한다. 석탄 대신 RF로 작동한다는 점을 제외하면 일반 화로와 거의 똑같이 기능한다.
+academy.intromachines.text3=청금석 블럭에 레드스톤 화로를 놓고 그것을 사용해 몇 개의 Pulverized Iron을 제련하세요.
+academy.intromachines.task=청금석 블럭위에 레드스톤 화로 놓기
 
-academy.introenergystorage.title=Storing Energy
-academy.introenergystorage.desc=Place and configure an Energy Cell
-academy.introenergystorage.text1=Energy Cells store RF. It is best to have them between your generators and machines so the machines have a buffer of energy they can use.
-academy.introenergystorage.text2=Sneak right click the Crescent Hammer on the middle Fluxduct block to break it, and then place the Energy Cell down instead.
-academy.introenergystorage.text3=Open the Energy Cell and click the blue gear button on the right to configure it. There, you can choose which sides are input and which sides are output.
-academy.introenergystorage.text4=Click on the face to toggle between input (blue), output (red), and neither (yellow). You can hold sneak and left click on the front face to set them all to off. Set this one so that it inputs from the generator and ouputs towards the Redstone Furnace.
-academy.introenergystorage.task=Replace the middle Fluxduct with an Energy Cell and configure it
+academy.introenergystorage.title=에너지 저장
+academy.introenergystorage.desc=에너지 셀 설치 및 구성하기
+academy.introenergystorage.text1=에너지 셀은 RF를 저장한다. 발전기와 기계 사이에 그것을 두는 것이 가장 좋다. 그래서 기계들은 그들이 사용할 수 있는 버퍼 에너지를 가지고 있다.
+academy.introenergystorage.text2=중간쪽의 플럭스덕트에 크레센트 해머를 쉬프트 우클릭하여 분해한 다음, 에너지 셀을 대신 배치한다.
+academy.introenergystorage.text3=에너지 셀을 열고 오른쪽의 파란색 기어 모양의 버튼을 클릭하여 구성하세요. 그곳에서, 어떤 면이 입력되고 어떤 면이 출력되는지 선택할 수 있다.
+academy.introenergystorage.text4=면을 클릭하여 입력(파란색), 출력(빨간색) 및 입출력(노란색) 간에 전환하세요. 쉬프트를 누른채 앞 면을 클릭하면 모두 꺼지게 할 수 있다. 발전기로 부터 입력받도록 설정하고 레드스톤 화로로 출력되어 보내게 설정하세요.
+academy.introenergystorage.task=플럭스덕트 중간을 교체하여 에너지 셀을 배치하고 설정하기
 
-academy.introtechlast.title=Smelting with Energy
-academy.introtechlast.desc=Smelt some Iron Ore
-academy.introtechlast.text=Take some Iron Ore out of the ores chest and smelt them in the Redstone Furnace.
+academy.introtechlast.title=에너지와 제련
+academy.introtechlast.desc=몇 개의 철 광석 제련하기
+academy.introtechlast.text=광물 상자에서 몇 개의 철 광석을 꺼내 레드스톤 화로에서 제련하세요.
 
-academy.introastralsorcery.title=Introduction to Astral Sorcery
-academy.introastralsorcery.desc=Learn about Astral Sorcery
-academy.introastralsorcery.text=Astral Sorcery is a magic mod focused around harnessing the powers of starlight and the constellations.
-academy.introastralsorcery.task=Enter the Astral Sorcery area
+academy.introastralsorcery.title=Astral Sorcery 소개
+academy.introastralsorcery.desc=Astral Sorcery 알아보기
+academy.introastralsorcery.text=Astral Sorcery는 별빛과 별자리들의 힘을 이용하는 것에 초점을 맞춘 마법 모드이다.
+academy.introastralsorcery.task=Astral Sorcery 구역 입장하기
 
 academy.introstarlight.title=Using Starlight
 academy.introstarlight.desc=Make a Resonating Wand
