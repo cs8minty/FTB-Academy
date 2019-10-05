@@ -281,13 +281,13 @@ academy.introilumpowder.text1=조명 가루는 별빛으로 만들 수 있는 �
 academy.introilumpowder.text2=루미너스 제작대를 석영 블럭 위에 놓고 레시피에 따라 조명 가루를 제작하세요.
 academy.introilumpowder.text3=다시 한번 상기시켜드리자면, 공명의 완드를 들고 제작대를 우클릭하여 만들어야 한다.
 
-academy.introbotania.title=Introduction to Botania
-academy.introbotania.desc=Learn about Botania
-academy.introbotania.text1=Botania is a tech mod disguised as a magic mod.
-academy.introbotania.text2=With it, you will use flowers to generate and manipulate mana, which can be used to do various things.
-academy.introbotania.task=Enter the Botania area
+academy.introbotania.title=Botania 소개
+academy.introbotania.desc=Botania에 대해 알아보기
+academy.introbotania.text1=Botania는 마법 모드로 위장한 기술 모드이다.
+academy.introbotania.text2=당신은 꽃을 이용해서 마나를 생산하고 조작할 것이다. 마나는 다양한 일을 하는데 사용될 수 있다.
+academy.introbotania.task=Botania 구역에 들어가기
 
-academy.intromanagen.title=Generating Mana
+academy.intromanagen.title=마나 생산
 academy.intromanagen.desc=Make an Endoflame
 academy.intromanagen.text1=Magical flowers are created in the Petal Apothecary. Fill it with Water using a Water Bucket, make and then throw in the petals according to the Endoflame's crafting recipe, and then throw in a seed to craft the flower.
 academy.intromanagen.text2=You can either throw items at the Petal Apothecary or right click with the Petal in hand to place it inside. You can hold sneak and then right click with an empty hand to take the last item back out.
@@ -311,10 +311,10 @@ academy.introelementium.desc=Get some Elementium
 academy.introelementium.text1=Later on in the progression, you will eventually make a Portal to Alfheim. This essentially works the same as crafting with the Mana Pool.
 academy.introelementium.text2=You can throw certain items into the Portal and you will get other items out. Any item you throw in that is not part of a recipe will be lost.
 
-academy.introfinish.title=School's Out!
-academy.introfinish.desc=Go to the Overworld
-academy.introfinish.text=Now that you've completed all of the tutorials, you can head over to the Overworld and start playing for real!
-academy.introfinish.reward=Teleport to the Overworld
+academy.introfinish.title=졸업!
+academy.introfinish.desc=오버월드로 가기
+academy.introfinish.text=이제 모든 튜토리얼을 마쳤으니, 오버월드로 가서 진짜 게임을 시작할 수 있습니다!
+academy.introfinish.reward=오버월드로 텔레포트
 
 #Getting Started
 
