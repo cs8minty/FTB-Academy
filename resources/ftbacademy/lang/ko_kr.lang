@@ -28,9 +28,9 @@ academy.clickthis.task=클릭하기
 
 
 #Reward Tables
-academy.ticonmodifiers.rewards=TiCon Modifiers
-academy.ticonmodifiers.lapisreward=Fortune modifier
-academy.ticonmodifiers.redstonereward=Speed modifier
+academy.ticonmodifiers.rewards=팅커스 수식어
+academy.ticonmodifiers.lapisreward=행운 수식어
+academy.ticonmodifiers.redstonereward=신속 수식어
 
 academy.ores.rewards=Ores
 academy.mysticalpetals.rewards=Mystical Petals
@@ -345,125 +345,125 @@ academy.pickaxe.text2=팅커스 컨스트럭트 곡괭이를 만드려면 어떤
 academy.pickaxe.text3=이 퀘스트는 어떤 부품을 사용해도 완료로 인정합니다.
 academy.pickaxe.task=팅커의 곡괭이 만들기
 
-academy.toolforge.title=Forging Onward
-academy.toolforge.desc=Make a Tool Forge
-academy.toolforge.text1=The Tool Forge can make every Tinkers' Construct tool.
-academy.toolforge.text2=This quest will accept a Tool Forge made of any material.
-academy.toolforge.task=Any Tool Forge
+academy.toolforge.title=도구 나아가기
+academy.toolforge.desc=도구 조립소 만들기
+academy.toolforge.text1=도구 조립소는 모든 팅커스 도구를 만들 수 있습니다.
+academy.toolforge.text2=이 퀘스트는 도구 조립소를 어떤 재료로 만들어도 완료될 것 입니다.
+academy.toolforge.task=아무 도구 조립소
 
-academy.bonsai.title=Happy Little Trees
-academy.bonsai.desc=Make a Bonsai Pot
-academy.bonsai.text1=The Bonsai Pot will grow whatever sapling you put into it over time, granted it has the correct soil under it. Harvest it by right clicking it with an Axe.
-academy.bonsai.text2=You can craft it into a Hopping Bonsai Pot, and it will automatically chop itself and put the drops into the inventory directly beneath it.
+academy.bonsai.title=행복한 작은 나무
+academy.bonsai.desc=분재 화분 만들기
+academy.bonsai.text1=분재 화분은 정확한 토양이 아래에 있다면 시간이 지남에 따라 묘목이 자랄 것 입니다. 도끼로 우클릭하여 수확합니다.
+academy.bonsai.text2=당신은 그것을 깔때기 분재 화분으로 만들 수 있으며 그것은 자동적으로 자라서 아래에 있는 인벤토리로 들어갈 것입니다.
 
-academy.ores.title=Diggy Diggy Hole
-academy.ores.desc=Mine for Ores
-academy.ores.text1=Get 16 ore from Vanilla and Thermal Foundation each.
-academy.ores.text2=You can hold the Excavate key (` by default, to the left of the 1 key) and then mine a block to mine all the surrounding blocks of the same type. This uses durability from the tool as if you'd mined it all one by one and also takes a lot of hunger when you use it.
-academy.ores.text3=The item task will scroll through all items that it accepts, and you need a combined 16 of any of them for the task to complete. You can also click the Task to see what items it accepts.
-academy.ores.text4=Once you've gotten a good amount of materials, you should look towards the Technology quests and guide.
-academy.ores.vanillatask=16x Vanilla ores
-academy.ores.thermaltask=16x Thermal Foundation ores
+academy.ores.title=땅굴
+academy.ores.desc=광석 채굴
+academy.ores.text1=바닐라와 Thermal Foundation의 광물을 각각 16개 얻으세요.
+academy.ores.text2=Excavate 키(기본 `)를 누른 채 블록을 채굴하면 같은 유형의 모든 주변 블록을 채굴할 수 있습니다. 이것은 도구의 내구도를 모두 채굴한 것처럼 사용하고 또한 사용할 때 많은 허기가 소모됩니다.
+academy.ores.text3=과제를 완료하려면 해당 아이템 중 16개를 획득해야 합니다. 과제를 눌러 인정되는 아이템을 볼 수 있습니다.
+academy.ores.text4=일단 많은 양의 재료를 얻었으면, 기술 퀘스트와 가이드를 주목하세요.
+academy.ores.vanillatask=16x 바닐라 광석
+academy.ores.thermaltask=16x Thermal Foundation 광석
 
-academy.seedyplace.title=Agricultural Revolution
-academy.seedyplace.desc=Harvest crops
-academy.seedyplace.task=Advancement: A Seedy Place
-academy.seedyplace.text1=One of the most important parts of a base is a steady source of food. The easiest way to get food is just by growing it!
-academy.seedyplace.text2=You can right click a fully grown crop to harvest it, automatically replanting the seed.
+academy.seedyplace.title=농업 혁명
+academy.seedyplace.desc=농작물 수확
+academy.seedyplace.task=발전 과제: 씨앗이 자라나는 곳
+academy.seedyplace.text1=가장 중요한 부분 중 하나는 꾸준한 음식 공급입니다. 음식을 얻는 가장 쉬운 방법은 그것을 직접 기르는 것입니다.
+academy.seedyplace.text2=다 자란 작물을 우클릭하여 수확할 수 있으며 씨앗을 자동으로 심을 수 있습니다.
 
-academy.beesandbats.title=When a Mommy Mob and a Daddy Mob Love Each Other Very Much
-academy.beesandbats.desc=Breed some mobs
-academy.beesandbats.task=Advancement: The Parrots and the Bats
-academy.beesandbats.text1=Mobs can be a great source of food and other materials.
-academy.beesandbats.text2=There are a lot of ways to automatically breed animals. Mobs will automatically eat food that's been dropped on the ground, so you can automatically breed animals using only a Dispenser.
-academy.beesandbats.text3=You could also make the Automatic Feeder, which will automatically feed mobs in an area around itself using food in its inventory.
+academy.beesandbats.title=엄마와 아빠가 서로 아주 많이 사랑할 때
+academy.beesandbats.desc=동물 기르기
+academy.beesandbats.task=발전 과제: 아기는 어떻게 태어나?
+academy.beesandbats.text1=동물들은 음식과 다른 재료의 훌륭한 원천이 될 수 있습니다.
+academy.beesandbats.text2=동물들을 자동으로 번식시키는 많은 방법들이 있습니다. 동물들은 땅에 떨어진 음식을 자동적으로 먹게 되므로, 당신은 발사기를 사용하여 자동적으로 동물을 번식 시킬 수 있습니다.
+academy.beesandbats.text3=또한 자동 먹이 공급기를 만들 수도 있습니다. 자동 먹이 공급기는 인벤토리에 있는 음식을 사용하여 자동으로 주변의 동물들에게 먹입니다.
 
-academy.chisel.title=Lookin' Good
-academy.chisel.desc=Make a Chisel
-academy.chisel.text1=The Chisel mod adds a ton of decorative versions of blocks.
-academy.chisel.text2=Craft a Chisel, open its menu, and insert a block (like Cobblestone or Dirt) into it to see all the different versions you can make.
-academy.chisel.text3=There are three versions of the Chisel. The Chisel and Diamond Chisel are essentially the same except for the durability. The iChisel is a lot more advanced and has a lot more features.
-academy.chisel.text4=Chisel also adds a bunch of new blocks to decorate your base with. Search JEI for "@Chisel" for a list of them all.
-academy.chisel.task=Any Chisel
+academy.chisel.title=좋아보여
+academy.chisel.desc=끌 만들기
+academy.chisel.text1=Chisel 모드는 많은 장식용 블록을 추가합니다.
+academy.chisel.text2=끌을 만들고, 메뉴를 열어 만들 수 있는 다른 모양을 보기 위해 블록(조약돌 또는 흙)을 그 안에 삽입합니다.
+academy.chisel.text3=끌에는 세 버전이 있습니다. 끌과 다이아몬드 끌은 내구도를 제외하곤 본질적으로 동일합니다. iChisel은 훨씬 더 고급스럽고 더 많은 기능을 가지고 있습니다.
+academy.chisel.text4=끌은 또한 당신의 기지를 장식하기 위해 많은 새로운 블록들을 추가합니다. JEI에서 "@Chisel"을 검색하여 모든 목록을 확인하세요.
+academy.chisel.task=아무 끌
 
-academy.builderswands.title=Better Building
-academy.builderswands.desc=Make a Builder's Wand
-academy.builderswands.text1=Builder's Wands allow you to place multiple blocks at the same time quickly.
-academy.builderswands.text2=Hold one in your hand, look at a block and you can right click to place that block on connected surfaces wherever you see a white outline.
-academy.builderswands.text3=Each tier can place more blocks at a time. The Stone and Iron Wands can only place blocks horizontally, but Diamond and above can place on the top and bottom of blocks too.
-academy.builderswands.task=Any Builder's Wand
+academy.builderswands.title=더 나은 건축
+academy.builderswands.desc=건축가의 완드 제작
+academy.builderswands.text1=건축가의 완드를 사용하면 여러 블록을 동시에 빠르게 배치할 수 있습니다.
+academy.builderswands.text2=손에 들고, 한 블록을 보면 하얀 윤곽이 보이는데 우클릭을 하면 연결된 면에 블록을 배치합니다.
+academy.builderswands.text3=각 티어는 한 번에 더 많은 블록을 배치할 수 있습니다. 돌과 철 완드는 블록을 수평으로만 배치할 수 있지만, 다이아몬드 이상부터는 블록의 상단과 하단에 배치할 수 있습니다.
+academy.builderswands.task=아무 건축가의 완드
 
-academy.naturescompass.title=Location, Location, Location
-academy.naturescompass.desc=Make a Nature's Compass
-academy.naturescompass.text1=Finding a nice spot to settle down is one of the most important parts of building a nice base. The Nature's Compass will help you find a specific biome to live in.
-academy.naturescompass.text2=To select a biome, right click the Nature's Compass and then find and click the biome out of the list. You can click Search to find the nearest instance of that biome or click Info to see information about that biome.
+academy.naturescompass.title=위치, 위치, 위치
+academy.naturescompass.desc=자연의 나침반 만들기
+academy.naturescompass.text1=정착할 좋은 장소를 찾는 것은 멋진 기지를 건설하기 위한 가장 중요한 부분 중 하나입니다. 자연의 나침반은 당신이 살 특정한 바이옴을 찾도록 도와줄 것입니다.
+academy.naturescompass.text2=바이옴을 선택하려면 자연의 나침반을 우클릭하여 목록에서 바이옴을 찾아 클릭하세요. 검색을 눌러 해당 바이옴의 가장 가까운 인스턴스를 찾거나 정보를 눌러 해당 바이옴에 대한 정보를 볼 수 있습니다.
 
-academy.slimesling.title=Like an Eagle Piloting a Blimp
-academy.slimesling.desc=Make a Slime Sling and Slime Boots
-academy.slimesling.text1=When you charge the Slimesling and release while looking at the ground, you will be flung violently in the opposite direction.
-academy.slimesling.text2=You will bounce when landing while wearing Slime Boots, negating all fall damage. This makes them very useful to use in tandem with the Slimesling.
-academy.slimesling.text3=You can sneak to prevent yourself from bouncing, although you will get fall damage as normal.
-academy.slimesling.task2=Any Slimesling
-academy.slimesling.task1=Any Slime Boots
+academy.slimesling.title=독수리처럼 날아서
+academy.slimesling.desc=슬라임슬링과 슬라임 부츠 만들기
+academy.slimesling.text1=슬라임슬링을 충전하여 땅을 바라보고 놓아주면 반대 방향으로 맹렬하게 튕겨납니다.
+academy.slimesling.text2=슬라임 부츠를 신고 착지하면 튕겨져 나가 낙하 피해를 모두 없앨 수 있습니다. 이것은 부츠가 슬라임슬링과 함께 사용하는데 매우 유용하게 만듭니다.
+academy.slimesling.text3=쉬프트를 누르면 튕겨나가는 것을 방지하지만, 평상시처럼 낙하 피해를 입습니다.
+academy.slimesling.task2=아무 슬라임슬링
+academy.slimesling.task1=아무 슬라임 부츠
 
-academy.simplybackpacks.title=Packback
-academy.simplybackpacks.desc=Make a Common Backpack
-academy.simplybackpacks.text1=Backpacks store items in their inventories, each tier holding more than the last.
-academy.simplybackpacks.text2=There's an optional keybind you can set that allows you to open the Backpack from anywhere in your inventory, including the Bauble slot (which you access from the ring button at the top right of your player portrait in your inventory).
-academy.simplybackpacks.text3=There's another optional keybind that you can set that allows you to toggle item auto-pickup; when enabled, items will go straight to the backpack when picked up. You can hold sneak and right click the Backpack to set a whitelist or a blacklist.
-academy.simplybackpacks.task=Any Backpack
+academy.simplybackpacks.title=짐꾸러미
+academy.simplybackpacks.desc=일반 백팩 만들기
+academy.simplybackpacks.text1=백팩은 티어가 오를수록 아이템을 저장할 수 있는 인벤토리가 늘어납니다.
+academy.simplybackpacks.text2=백팩은 버블즈 슬롯(인벤토리에서 플레이어 초상화 오른쪽 상단의 링 버튼으로 접근 가능)을 포함하여 인벤토리의 어디에서나 백팩을 열 수 있는 옵션 키 설정이 있습니다.
+academy.simplybackpacks.text3=아이템을 자동으로 수집할 수 있는 다른 키 설정이 있으며, 이 옵션을 선택하면 아이템이 백팩으로 바로 이동합니다. 쉬프트를 누르고 백팩을 우클릭하여 화이트리스트나 블랙리스트를 설정할 수 있습니다.
+academy.simplybackpacks.task=아무 백팩
 
-academy.claimchunk.title=This Land is My Land
-academy.claimchunk.desc=Claim a chunk
-academy.claimchunk.text1=At the top left of the inventory, click the map button to see a map of the surrounding chunks.
-academy.claimchunk.text2=You can click a chunk to claim it for your team, so anyone from different teams will not be able to place or break blocks in your claimed chunks. Right click to unclaim a chunk.
-academy.claimchunk.text3=You can click a claimed chunk while holding shift to mark it as loaded, which keeps everything in it running even if you're far away or offline.
+academy.claimchunk.title=이 땅은 내 땅
+academy.claimchunk.desc=청크 주장하기
+academy.claimchunk.text1=인벤토리의 왼쪽 상단에서 지도 버튼을 클릭하여 주변 청크 지도를 확인하세요.
+academy.claimchunk.text2=청크를 클릭하면 당신의 팀의 청크를 주장할 수 있으며, 다른 팀의 모든 플레이어는 주장된 청크에 블록을 배치하거나 부술 수 없습니다. 주장된 청크를 제거하려면 우클릭하세요.
+academy.claimchunk.text3=쉬프트를 누른채로 주장된 청크를 클릭하여 청크로드로 표시하면 멀리 있거나 오프라인 상태에서도 해당 청크의 모든 것이 계속 실행될 수 있습니다.
 
 
 
 # Basic Storage
 
-academy.storagedrawers.title=Compact Storage
-academy.storagedrawers.desc=Make any Drawer
-academy.storagedrawers.text1=A Basic Drawer can store 32 stacks of a single item. A 1x2 Drawer stores 16 stacks of two items, and a 2x2 Drawer holds 8 stacks of 4 items. You can add upgrades to them to store more.
-academy.storagedrawers.text2=Read the Guide for more information on Storage Drawers.
-academy.storagedrawers.task=Any Drawer
+academy.storagedrawers.title=작은 스토리지
+academy.storagedrawers.desc=아무 서랍 만들기
+academy.storagedrawers.text1=기본 서랍은 32 묶음의 한 아이템을 저장할 수 있습니다. 1x2 서랍은 16 묶음의 두 아이템을 저장하고, 2x2 서랍은 8 묶음 4개의 아이템을 저장합니다. 업그레이드를 추가하여 더 많이 저장할 수 있습니다.
+academy.storagedrawers.text2=저장 서랍에 대한 자세한 내용은 가이드를 참조하세요.
+academy.storagedrawers.task=아무 서랍
 
-academy.drawercontroller.title=Remote Access
-academy.drawercontroller.desc=Make a Drawer Controller
-academy.drawercontroller.text1=The Drawer Controller allows you to access all connected Drawers with Hoppers, pipes, or any other form of automation.
-academy.drawercontroller.text2=Drawers are connected when they are touching the Drawer Controller, even if there are other Drawers between them.
+academy.drawercontroller.title=원격 접속
+academy.drawercontroller.desc=서랍 제어기 만들기
+academy.drawercontroller.text1=서랍 제어기는 당신이 깔떼기, 파이프 또는 다른 형태의 자동화로 연결된 모든 서랍에 접근할 수 있게 해줍니다.
+academy.drawercontroller.text2=서랍 사이에 다른 서랍이 있더라도 서랍 제어기를 건들면 서랍을 연결합니다.
 
-academy.compactingdrawer.title=Nuggets and Ingots and Blocks, Oh My!
-academy.compactingdrawer.desc=Make a Compacting Drawer
-academy.compactingdrawer.text1=A Compacting Drawer will show items in its ingot, nugget, and block forms.
-academy.compactingdrawer.text2=The maximum storage depends on the block version, so this is really good for storing metals and gems.
+academy.compactingdrawer.title=조각과 주괴와 블록
+academy.compactingdrawer.desc=압축 서랍 만들기
+academy.compactingdrawer.text1=압축 서랍은 주괴, 조각 및 블록 형태로 아이템을 표시합니다.
+academy.compactingdrawer.text2=최대 저장량은 블록에 따라 달라지기 때문에 이것은 금속과 보석을 저장하는데 정말 좋습니다.
 
-academy.ironchests.title=Storage Solution
-academy.ironchests.desc=Make an Iron Chest
-academy.ironchests.text=The mod Iron Chests adds a bunch of new chests that have expanded storage, each tier holding more items.
+academy.ironchests.title=스토리지 솔루션
+academy.ironchests.desc=철 상자 만들기
+academy.ironchests.text=Iron Chests 모드는 스토리지가 확장된 새로운 상자를 추가해주며, 각 티어는 더 많은 아이템을 저장할 수 있습니다.
 
-academy.chestupgrade.title=Deeper Pockets
-academy.chestupgrade.desc=Make an Iron to Gold Chest Upgrade
-academy.chestupgrade.text=Chest Upgrades allow you to upgrade the tier of the Chest without having to break it. Simply right click the Chest Upgrade on the appropriate tier Chest.
+academy.chestupgrade.title=더 깊은 주머니
+academy.chestupgrade.desc=철 상자를 금 상자로 업그레이드 만들기
+academy.chestupgrade.text=상자 업그레이드는 상자를 부수지 않고도 업그레이드 할 수 있습니다. 적절한 티어의 상자에 상자 업그레이드를 우클릭 하기만 하면 됩니다.
 
-academy.endertank.title=Water-Safe
-academy.endertank.desc=Make an Ender Tank
-academy.endertank.text1=Ender Tanks will share their contents with all other Ender Tanks with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.endertank.text2=You can also use a Diamond on the valve to make it a personal Ender Tank. Personal Ender Tanks will only connect to other personal Ender Tanks placed by the same person.
-academy.endertank.text3=Right click the valve with an empty hand to toggle if it will automatically output to the block underneath.
-academy.endertank.text4=Obviously works best in pairs.
+academy.endertank.title=안전한 물
+academy.endertank.desc=엔더 탱크 만들기
+academy.endertank.text1=엔더 탱크는 동일한 색상 조합으로 다른 모든 엔더 탱크와 내용물을 공유합니다. 위에 있는 흰색 점 중 하나에 염료를 사용하여 색을 설정합니다.
+academy.endertank.text2=당신은 또한 밸브에 다이아몬드를 사용하여 개인 엔더 탱크를 만들 수 있습니다. 개인 엔더 탱크는 동일한 사람이 설치한 다른 개인 엔더 탱크에만 연결됩니다.
+academy.endertank.text3=빈 손으로 밸브를 우클릭하여 아래 블록으로 자동으로 출력되게 전환할 수 있습니다.
+academy.endertank.text4=이것은 분명 짝을 짓는 것이 가장 좋습니다.
 
-academy.enderchest.title=Extradimensional
-academy.enderchest.desc=Make an Ender Chest
-academy.enderchest.text1=Ender Chests will share their contents with all other Ender Chests with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.enderchest.text2=You can also use a Diamond on the latch to make it a personal Ender Chest. Personal Ender Chests will only connect to other personal Ender Chests placed by the same person.
-academy.enderchest.text3=Obviously works best in pairs.
+academy.enderchest.title=차원
+academy.enderchest.desc=엔더 상자 만들기
+academy.enderchest.text1=엔더 상자는 동일한 색 조합으로 다른 모든 엔더 상자와 내용물을 공유할 것입니다. 위에 있는 흰색 점 중 하나에 염료를 사용하여 색을 설정합니다.
+academy.enderchest.text2=당신은 또한 걸쇠에 다이아몬드를 사용하여 개인 엔더 상자를 만들 수 있습니다. 개인 엔더 상자는 동일한 사람이 설치한 다른 개인 엔더 상자에만 연결됩니다.
+academy.enderchest.text3=이것은 분명 짝을 짓는 것이 가장 좋습니다.
 
-academy.enderpouch.title=Bag of Holding
-academy.enderpouch.desc=Make an Ender Pouch
-academy.enderpouch.text1=The Ender Pouch will access the same inventory as the Ender Chest color combination it is linked to. Sneak right click the Ender Pouch on an Ender Chest to set the color combination.
-academy.enderpouch.text2=You can have an Ender Chest at your base with the contents automatically going into storage, and carry around an Ender Pouch linked to it to be able to store all your items without having to go back to your base.
+academy.enderpouch.title=쥐는 가방
+academy.enderpouch.desc=엔더 파우치 만들기
+academy.enderpouch.text1=엔더 파우치는 연결된 엔더 상자 색상 조합과 동일한 인벤토리에 접속할 수 있습니다. 엔더 상자에 엔더 파우치를 우클릭하여 색상 조합을 설정하세요.
+academy.enderpouch.text2=당신의 기지에 엔더 상자가 있고, 그것에 연결된 엔더 파우치를 가지고 다니면서 기지로 돌아가지 않고도 당신의 모든 아이템들을 저장할 수 있습니다.
 
 academy.blackholeunit.title=Supermassive Black Hole
 academy.blackholeunit.desc=Make a Black Hole Unit
@@ -482,32 +482,32 @@ academy.blackholelabel.title=Black Hole Drawer
 academy.blackholelabel.desc=Make a Black Hole Label
 academy.blackholelabel.text=You can place a Black Hole Label to make it funciton similar to a Storage Drawer.
 
-academy.storagecrate1.title=""Small""
-academy.storagecrate1.desc=Make a Small Storage Crate
-academy.storagecrate1.text1=A Small Storage Crate has 117 storage slots.
-academy.storagecrate1.text2=If it contains a Storage Crate Keeper, the Crate will hold its contents when destroyed. The Keeper is lost in this process.
+academy.storagecrate1.title=""작은""
+academy.storagecrate1.desc=작은 저장상자 만들기
+academy.storagecrate1.text1=작은 저장상자는 117개의 스토리지 슬롯을 가지고 있습니다.
+academy.storagecrate1.text2=저장상자 지킴이가 상자안에 있는 경우, 상자가 부숴질 때 내용물을 보관합니다. 지킴이는 이 과정에서 사라집니다.
 
-academy.storagecrate2.title=Double Trouble
-academy.storagecrate2.desc=Make a Medium Storage Crate
-academy.storagecrate2.text1=A Medium Storage Crate has 2 pages of 117 slots, for a total of 234 slots.
-academy.storagecrate2.text2=Click on the arrows on either side of the GUI to swap between the pages.
+academy.storagecrate2.title=이중 문제
+academy.storagecrate2.desc=중간 저장상자 만들기
+academy.storagecrate2.text1=중간 저장상자는 총 234개의 슬롯이 있으며, 117개의 슬롯으로 구성된 2개의 페이지가 있습니다.
+academy.storagecrate2.text2=페이지 간 전환하려면 GUI의 양 끝에 있는 화살표를 클릭하세요.
 
-academy.storagecrate3.title=The Ultimate Clutter Storage
-academy.storagecrate3.desc=Make a Large Storage Crate
-academy.storagecrate3.text=A Large Storage Crate has 3 pages of 117 slots, for a total of 351 slots.
+academy.storagecrate3.title=궁극의 잡동사니 스토리지
+academy.storagecrate3.desc=큰 저장상자 만들기
+academy.storagecrate3.text=큰 저장상자는 총 351개의 슬롯이 있으며, 117개의 슬롯으로 구성된 3개의 페이지가 있습니다.
 
-# Going to leave this here just in case we eventually re-add /dank/null/
+# 우리가 결국 /dank/null/을 다시 추가할 경우를 대비해서 이것을 여기에 남겨둡니다.
 # academy.dank.title=/dank/null/
-# academy.dank.desc=Make a /dank/null/
-# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
-# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
-# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
-# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
-# academy.dank.task=Any /dank/null/
+# academy.dank.desc=/dank/null/ 만들기
+# academy.dank.text1=/dank/null/은 많은 양의 아이템을 하나의 슬롯에 저장할 수 있도록 합니다. 그것은 자동으로 당신이 줍는 특정 아이템들을 수집할 것이고, 당신은 그것으로부터 블록을 배치할 수 있습니다. 슬롯이 가득 차면 초과하는 아이템을 삭제합니다.
+# academy.dank.text2=쉬프트 우클릭하여 GUI를 열고 저장할 아이템을 넣으세요.
+# academy.dank.text3=손에 들고 있는 동안, 어떤 아이템을 배치할 것인지를 변경하기 위해 쉬프트를 누른채 스크롤하세요.
+# academy.dank.text4=높은 티어의 /dank/null/은 더 많은 슬롯을 가지고 있으며 슬롯당 더 많이 저장할 수 있습니다.
+# academy.dank.task=아무 /dank/null/
 
-academy.dracchest.title=Dragon Hoard
-academy.dracchest.desc=Make a Draconium Chest
-academy.dracchest.text=The Draconium Chest has 260 slots, 5 upgradable furnace slots, a 3x3 crafting grid, and you can set specific slots to be able to come in and out of specific sides.
+academy.dracchest.title=드래곤 비축물
+academy.dracchest.desc=드라코늄 상자 만들기
+academy.dracchest.text=드라코늄 상자는 260개의 슬롯, 5개의 업그레이드 가능한 화로 슬롯, 3x3 제작 그리드를 갖추고 있으며, 특정 면의 입출력이 가능하도록 설정 할 수 있습니다.
 
 # Transportation
 
