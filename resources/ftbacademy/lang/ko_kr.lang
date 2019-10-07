@@ -354,7 +354,7 @@ academy.toolforge.task=아무 도구 조립소
 academy.bonsai.title=행복한 작은 나무
 academy.bonsai.desc=분재 화분 만들기
 academy.bonsai.text1=분재 화분은 정확한 토양이 아래에 있다면 시간이 지남에 따라 묘목이 자랄 것 입니다. 도끼로 우클릭하여 수확합니다.
-academy.bonsai.text2=당신은 그것을 깔때기 분재 화분으로 만들 수 있으며 그것은 자동적으로 자라서 아래에 있는 인벤토리로 들어갈 것입니다.
+academy.bonsai.text2=당신은 그것을 호퍼 분재 화분으로 만들 수 있으며 그것은 자동적으로 자라서 아래에 있는 인벤토리로 들어갈 것입니다.
 
 academy.ores.title=땅굴
 academy.ores.desc=광석 채굴
@@ -431,7 +431,7 @@ academy.storagedrawers.task=아무 서랍
 
 academy.drawercontroller.title=원격 접속
 academy.drawercontroller.desc=서랍 제어기 만들기
-academy.drawercontroller.text1=서랍 제어기는 당신이 깔떼기, 파이프 또는 다른 형태의 자동화로 연결된 모든 서랍에 접근할 수 있게 해줍니다.
+academy.drawercontroller.text1=서랍 제어기는 당신이 호퍼, 파이프 또는 다른 형태의 자동화로 연결된 모든 서랍에 접근할 수 있게 해줍니다.
 academy.drawercontroller.text2=서랍 사이에 다른 서랍이 있더라도 서랍 제어기를 건들면 서랍을 연결합니다.
 
 academy.compactingdrawer.title=조각과 주괴와 블록
@@ -511,11 +511,11 @@ academy.dracchest.text=드라코늄 상자는 260개의 슬롯, 5개의 업그�
 
 # Transportation
 
-academy.hopper.title=Simple, Elegant, Beautiful
-academy.hopper.desc=Make a Hopper
-academy.hopper.text1=Ah, the Hopper. It takes things out of blocks above it, and inserts them into inventories it's pointing towards. Could there be anything better than this?
+academy.hopper.title=간단하고, 우아하고, 멋지게
+academy.hopper.desc=호퍼 만들기
+academy.hopper.text1=호퍼는 위에 있는 블록에서 아이템을 가져와서 호퍼가 가리키는 블록의 인벤토리에 집어 넣습니다.
 
-academy.basicitemtess.title=Better Than Hoppers
+academy.basicitemtess.title=호퍼보다 좋은 것
 academy.basicitemtess.desc=Make a Basic Item Tesslocator
 academy.basicitemtess.text1=Item Tesslocators allow you to quickly move items over a distance of one block. Place Tesslocators in the same block space on all inventories you want to interact with and open its GUI to change the settings.
 academy.basicitemtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging items or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more than one stack at a time.
