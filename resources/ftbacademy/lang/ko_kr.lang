@@ -1347,12 +1347,12 @@ academy.gaia2.text1=You can challenge the Guardian to a more difficult fight to 
 academy.gaia2.text2=The second fight will be much, much harder. Come prepared for a battle. It drops Loot Dice, which turn into 1 of 6 possible legendary Relics.
 
 #Twilight Forest
-academy.twilightportal.title=A World of Pure Imagination
-academy.twilightportal.desc=Enter the Twilight Forest
-academy.twilightportal.text1=The Twilight Forest is an entirely new dimension to explore.
-academy.twilightportal.text2=It has a strict progression system, so you have to defeat certain bosses before you can enter certain biomes.
-academy.twilightportal.text3=To make the portal, dig a 2x2 in Grass and fill it with Water. Make sure every Grass block has a plant on it like a flower, and then throw a Diamond in.
-academy.twilightportal.task=Enter the Twilight Forest
+academy.twilightportal.title=순수한 가상의 세계
+academy.twilightportal.desc=황혼의 숲 입장하기
+academy.twilightportal.text1=황혼의 숲은 탐험하기 위한 완전히 새로운 차원입니다.
+academy.twilightportal.text2=숲은 엄격한 진행 시스템을 가지고 있기 때문에, 당신은 특정한 보스를 물리쳐야 특정한 바이옴으로 들어갈 수 있습니다.
+academy.twilightportal.text3=포탈을 만드려면, 잔디에 2x2 구덩이을 파고 물을 채우세요. 그리고 구덩이 주변 전체에 잔디에 꽃과 같은 식물이 있는지 확인하고 다이아몬드를 그 안에 던져 넣으세요.
+academy.twilightportal.task=황혼의 숲 입장하기
 
 academy.magicmap.title=I'm the Map!
 academy.magicmap.desc=Make a Magic Map
@@ -1642,10 +1642,10 @@ academy.fysallidic.text=The Fysallidic Prime will suck up all mobs beneath it in
 
 #Miscellaneous
 
-academy.instrumentalmobs.title=Let's Make a Band
-academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
-academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
-academy.instrumentalmobs.task=Anything from Instrumental Mobs
+academy.instrumentalmobs.title=밴드 창설
+academy.instrumentalmobs.desc=악사 몹들로부터 악기 얻기
+academy.instrumentalmobs.text=악사 몹들은 대부분 바닐라 몹의 버전으로 추가되지만, 몹들을 죽이면 음악을 들려줄 것 입니다. 그들의 악기는 당신을 밀어내지만, 피해를 입히지는 않을 것 입니다. 몹들을 죽이면 작은 확률로 악기를 떨어뜨립니다.
+academy.instrumentalmobs.task=악사 몹들로부터 악기 얻기
 
 academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
