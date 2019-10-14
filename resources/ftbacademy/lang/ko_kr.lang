@@ -1257,47 +1257,47 @@ academy.halo.desc=Make a Manufacturing Halo
 academy.halo.text1=The Manufacturing Halo will automatically craft recipes that are set using items in your inventory.
 academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
 
-academy.alchemcat.title=The Law of Equivalent Exchange
-academy.alchemcat.desc=Make an Alchemy Catalyst
-academy.alchemcat.text1=The Alchemy Catalyst is placed under a Mana Pool to change its functionality.
-academy.alchemcat.text2=It adds new recipes to the Mana Pool, so you can throw in an item to get a different item out. Hit U on the Alchemy Catalyst to see all of its recipes.
+academy.alchemcat.title=등가교환
+academy.alchemcat.desc=연금술 촉매 만들기
+academy.alchemcat.text1=연금술 촉매는 마나 웅덩이의 기능을 바꾸기 위해 마나 웅덩이 아래에 위치합니다. 
+academy.alchemcat.text2=이것은 마나 웅덩이에 새로운 레시피를 추가하여 물건을 던져 다른 물건을 얻을 수 있습니다. 모든 레시피를 보려면 JEI 또는 인벤토리에서 연금술 촉매에 마우스를 올리고 U를 입력하세요.
 
-academy.endoflame.title=Smells like Burning
-academy.endoflame.desc=Make an Endoflame
-academy.endoflame.text1=The Endoflame will burn any furnace fuel dropped on the ground nearby and convert it into Mana and put it into a nearby Mana Spreader.
-academy.endoflame.text2=This is a very good early-game source of Mana that works better the more you have, and is very easily automatable.
+academy.endoflame.title=타는 냄새가 나는군
+academy.endoflame.desc=불먹이 꽃 만들기
+academy.endoflame.text1=불먹이 꽃은 주변에 떨어진 화로 연료를 모두 태워 마나로 변환해 인근의 마나 공급기에 공급합니다.
+academy.endoflame.text2=이것은 더 많이 가질수록 더 잘 작동하고, 매우 쉽게 자동화할 수 있는 매우 좋은 초반 게임의 마나 공급원입니다.
 
 academy.runicaltar.title=从卂厶工匚 丂丫从乃口乚丂
-academy.runicaltar.desc=Make a Runic Altar
-academy.runicaltar.text1=The Runic Altar is used to create Runes, as the name implies. Throw the items on top of it according to the recipe and provide it with Mana from a Mana Spreader.
-academy.runicaltar.text2=Once it's full of Mana, throw a Livingrock on it and activate it with a Wand of the Forest to complete the craft.
+academy.runicaltar.desc=신비한 제단 만들기
+academy.runicaltar.text1=신비한 제단(Runic Altar)은 이름이 암시하는 대로 룬을 만드는 데 사용됩니다. 레시피에 따라 위에 물건들을 던지고 마나 공급기로 마나를 제공하세요.
+academy.runicaltar.text2=마나가 가득 차면 위에 생명의 돌을 던지고 숲의 지팡이로 작동시켜 제작품을 완성하세요.
 
 academy.soujourner.title=Beauty Queen on Tour
 academy.soujourner.desc=Make a Soujourner's Sash
 academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
 
-academy.lens.title=Mana Glasses
-academy.lens.desc=Make a Mana Lens
-academy.lens.text=Mana Lenses are applied to Mana Spreaders to change how they work. They can do things like make Mana Bursts faster or hold more Mana, or make it so they explode when they hit a block.
+academy.lens.title=마나 글래스
+academy.lens.desc=마나 렌즈 만들기
+academy.lens.text=마나 렌즈는 마나 공급기에 적용되며 작동 방식을 바꿉니다. 이것은 마나 버스트를 더 빨리 만들거나, 더 많은 마나를 보유하거나, 그것이 한 블록에 부딪혔을 때 폭발하도록 만들 수 있습니다.
 
-academy.botaniamagnet.title=Magnetic Personality
-academy.botaniamagnet.desc=Make a Ring of Magnetization
-academy.botaniamagnet.text=While worn in the Bauble slots, the Ring of Magnetization will draw dropped items towards the player.
+academy.botaniamagnet.title=자석인간
+academy.botaniamagnet.desc=자력의 반지 만들기
+academy.botaniamagnet.text=버블즈 슬롯에 장착하는 동안, 자력의 반지는 떨어진 물건들을 플레이어를 향해 끌어 올 것입니다.
 
-academy.botaniarods.title=Magic Wand
-academy.botaniarods.desc=Make any Rod
-academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+academy.botaniarods.title=마법 지팡이
+academy.botaniarods.desc=마법 지팡이 만들기
+academy.botaniarods.text=지팡이들은 인벤토리에 있는 마나를 이용하여 조약돌이나 흙을 놓거나, 공중을 날아다니거나 블록을 제련하는 것과 같은 특정한 행동을 할 수 있게 해줍니다.
 
-academy.terrasteel.title=Dancing Lights
-academy.terrasteel.desc=Make some Terrasteel
-academy.terrasteel.text1=The Terrestrial Agglomeration Plate is where you make Terrasteel.
-academy.terrasteel.text2=Throw a Manasteel Ingot, a Mana Diamond, and a Mana Pearl on the Plate and give it a couple metric butt-tons of Mana from a Mana Pool connected with Sparks.
-academy.terrasteel.text3=Some lights will dance around for a bit before converging on the items, turning them into a single Terrasteel Ingot.
+academy.terrasteel.title=춤추는 빛
+academy.terrasteel.desc=테라스틸 만들기
+academy.terrasteel.text1=테라스틸 집성판은 테라스틸을 만드는 곳입니다.
+academy.terrasteel.text2=마나합금 주괴, 마나 다이아몬드, 마나 진주를 판 위에 던져 놓고 스파크와 연결된 마나 웅덩이에서 몇 개의 신호를 줍니다.
+academy.terrasteel.text3=어떤 빛들은 그 물건들에 모여들기 전에 잠시 춤을 추게 될 것이며, 그것들은 하나의 테라스틸 주괴로 변하게 될 것입니다.
 
-academy.elven.title=Link Start!
-academy.elven.desc=Make a portal to Alfheim
-academy.elven.text1=The portal to Alfheim is a multiblock that allows you to trade with elves (it's essentially another crafting mechanic). Throw an item into it and they'll throw the elven version back out.
-academy.elven.text2=The Lexica Botania has a building guide for the portal.
+academy.elven.title=연결 시작!
+academy.elven.desc=알프하임으로 향하는 포탈 만들기
+academy.elven.text1=알프하임으로 가는 포탈은 엘프들과 거래할 수 있게 해주는 멀티블럭입니다. 아이템을 던져주면 엘프 버전으로 다시 돌려 줍니다.
+academy.elven.text2=렉시카 보타니아는 이 포탈을 위한 건축 가이드를 가지고 있습니다.
 
 academy.laputa.title=Castle in the Sky
 academy.laputa.desc=Make a max size Shard of Laputa
@@ -1310,10 +1310,10 @@ academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. Wh
 academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
 academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
 
-academy.lexica2.title=It's Lucky They Understand English
-academy.lexica2.desc=Get the elven Lexica Botania
-academy.lexica2.text1=If you throw the Lexica Botania into the portal to Alfheim, they'll write down all their Elven knowledge for you to read.
-academy.lexica2.text2=Elven knowledge will be green.
+academy.lexica2.title=의사소통
+academy.lexica2.desc=엘프의 렉시카 보타니아 얻기
+academy.lexica2.text1=렉시카 보타니아를 알프하임 포탈에 던지면, 그들은 당신이 읽을 수 있도록 엘프의 모든 지식을 적어 놓을 것입니다.
+academy.lexica2.text2=엘프의 지식은 녹색으로 표시될 것입니다.
 
 academy.farreach.title=Top Shelf
 academy.farreach.desc=Make a Ring of Far Reach
