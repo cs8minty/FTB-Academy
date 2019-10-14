@@ -354,7 +354,7 @@ academy.toolforge.task=아무 도구 조립소
 academy.bonsai.title=행복한 작은 나무
 academy.bonsai.desc=분재 화분 만들기
 academy.bonsai.text1=분재 화분은 정확한 토양이 아래에 있다면 시간이 지남에 따라 묘목이 자랄 것 입니다. 도끼로 우클릭하여 수확합니다.
-academy.bonsai.text2=당신은 그것을 깔때기 분재 화분으로 만들 수 있으며 그것은 자동적으로 자라서 아래에 있는 인벤토리로 들어갈 것입니다.
+academy.bonsai.text2=당신은 그것을 호퍼 분재 화분으로 만들 수 있으며 그것은 자동적으로 자라서 아래에 있는 인벤토리로 들어갈 것입니다.
 
 academy.ores.title=땅굴
 academy.ores.desc=광석 채굴
@@ -431,7 +431,7 @@ academy.storagedrawers.task=아무 서랍
 
 academy.drawercontroller.title=원격 접속
 academy.drawercontroller.desc=서랍 제어기 만들기
-academy.drawercontroller.text1=서랍 제어기는 당신이 깔떼기, 파이프 또는 다른 형태의 자동화로 연결된 모든 서랍에 접근할 수 있게 해줍니다.
+academy.drawercontroller.text1=서랍 제어기는 당신이 호퍼, 파이프 또는 다른 형태의 자동화로 연결된 모든 서랍에 접근할 수 있게 해줍니다.
 academy.drawercontroller.text2=서랍 사이에 다른 서랍이 있더라도 서랍 제어기를 건들면 서랍을 연결합니다.
 
 academy.compactingdrawer.title=조각과 주괴와 블록
@@ -822,38 +822,38 @@ academy.fluxducts2.desc=Make Hardened Fluxducts
 academy.fluxducts2.text1=Hardened Fluxducts can transfer 4,000 RF/t per connection.
 academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
 
-academy.basicenergytess.title=Worse Than Pipes
-academy.basicenergytess.desc=Make Basic Energy Tesslocators
-academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
-academy.basicenergytess.text2=Basic Energy Tesslocators can transfer 2048 RF/t, and can store up to 32,000 RF.
+academy.basicenergytess.title=파이프 보다 안좋은
+academy.basicenergytess.desc=기본 에너지 테슬로케이터 만들기
+academy.basicenergytess.text1=기본 에너지 테슬로케이터는 한 블록의 거리로 RF를 이동시킬 수 있게 해줍니다. 에너지를 이동할 모든 블록의 동일한 블록 공간에 테슬로케이터를 배치한 다음 우클릭하여 입력과 출력을 전환하세요.
+academy.basicenergytess.text2=기본 에너지 테슬로케이터는 2,048 RF/t를 전송할 수 있으며, 최대 32,000 RF를 저장할 수 있습니다.
 
-academy.advenergytess.title=Way Better Than Pipes
-academy.advenergytess.desc=Make Advanced Energy Tesslocators
-academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
-academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
-academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
+academy.advenergytess.title=파이프 보다 나은
+academy.advenergytess.desc=고급 에너지 테슬로케이터 만들기
+academy.advenergytess.text1=고급 에너지 테슬로케이터는 같은 블록 공간에 있을 필요가 없다는 점을 제외하면 기본 테슬로케이터처럼 작동합니다. 이것은 무선으로 어떤 거리나, 차원 사이에서도 전송할 수 있게 해줍니다.
+academy.advenergytess.text2=고급 에너지 테슬로케이터 각각의 손에 염료를 쥐고 테슬로케이터를 우클릭하는 방식으로 설정할 수 있습니다. 입력 모드와 출력 모드를 전환하려면 테슬로케이터에서 빈 손으로 쉬프트를 누른 상태로 우클릭 하세요.
+academy.advenergytess.text3=고급 에너지 테슬로케이터는 40,000,000 RF를 저장할 수 있으며, 틱당 동일한 양을 이동시킬 수 있습니다.
 
 academy.plasticmaking.title=Flubber
 academy.plasticmaking.desc=Make some Plastic
 academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
 academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
 
-academy.energycell.title=Saved for a Rainy Day
-academy.energycell.desc=Make an Energy Cell
-academy.energycell.text1=Energy Cells are used to store RF. Like all other Thermal Expansion machines, it comes in six tiers.
-academy.energycell.text2=The first tier can store 2,000,000 RF, and then the highest can store 50,000,000 RF.
+academy.energycell.title=비 오는 날을 위한 저장
+academy.energycell.desc=에너지 셀 만들기
+academy.energycell.text1=에너지 셀은 RF를 저장하는 데 사용됩니다. 다른 모든 써멀 익스펜션 기계들과 마찬가지로, 이것은 6 티어로 되어 있습니다.
+academy.energycell.text2=첫 번째 티어는 2,000,000 RF를 저장할 수 있고, 가장 높은 티어는 50,000,000 RF를 저장할 수 있습니다.
 
-academy.AAbook.title=Actually Information
-academy.AAbook.desc=Make the Actually Additions Manual
-academy.AAbook.text=The Actually Additions Manual has all the information on blocks and items added by the mod.
+academy.AAbook.title=실제 정보
+academy.AAbook.desc=Actually Additions 메뉴얼 만들기
+academy.AAbook.text=Actually Additions 메뉴얼은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
-academy.IFbook.title=IF You Wish Upon a Star
-academy.IFbook.desc=Make Industrial Foregoing's Manual
-academy.IFbook.text=The Industrial Foregoing's Manual has all the information on blocks and items added by the mod.
+academy.IFbook.title=진보의 꿈
+academy.IFbook.desc=Industrial Foregoing의 메뉴얼 만들기
+academy.IFbook.text=Industrial Foregoing의 메뉴얼은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
-academy.DEinfotab.title=We Made a Guide for Their Guide
-academy.DEinfotab.desc=Make the Draconic Evolution Information Tablet
-academy.DEinfotab.text=The Draconic Evolution Information Tablet has all the information on blocks and items added by the mod.
+academy.DEinfotab.title=우리는 가이드를 위한 가이드를 만들었다.
+academy.DEinfotab.desc=드라코닉 에볼루션 정보 태블릿 만들기
+academy.DEinfotab.text=드라코닉 에볼루션 정보 태블릿은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
 academy.autobreaker.desc=Make an Auto-Breaker
 academy.autobreaker.text1=The Auto-Breaker automatically breaks the block it is facing, inserting the drops into its internal inventory.
@@ -1215,89 +1215,89 @@ academy.draconicreactor.text1=The Draconic is the single most dangerous block in
 academy.draconicreactor.text2=It is very complicated to run. Definitely too complicated to explain here, so read the Draconic Evolution Information Tablet to see more information.
 
 # Botania
-academy.lexica.title=Reading Rainbow
-academy.lexica.desc=Craft the Lexica Botania
-academy.lexica.text=The Lexica Botania is a really good guide for Botania. When you open it for the first time you have the option to go through a tutorial. We recommend going through that and using these quests to supplement it.
-academy.lexica.text2=When the Lexica Botania is in your hotbar, you can hold control while hovering over items from Botania in your inventory to see the page on that item.
+academy.lexica.title=무지개 읽기
+academy.lexica.desc=렉시카 보타니아 만들기
+academy.lexica.text=렉시카 보타니아는 보타니아의 정말 좋은 안내서입니다. 처음 열 때 튜토리얼을 수행할 수 있는 옵션이 있습니다. 튜토리얼을 진행하고 그것을 보충하기 위해 이 퀘스트를 이용할 것을 권고합니다.
+academy.lexica.text2=렉시카 보타니아가 당신의 퀵슬롯에 있을 때, 컨트롤 키를 누른채 아이템위에 올리면 해당 아이템의 페이지를 볼 수 있습니다.
 
-academy.apothecary.title=Bird Bath
-academy.apothecary.desc=Make a Petal Apothecary
-academy.apothecary.text1=The Petal Apothecary is used to make magical flowers. Fill it with water, throw in Mystical Petals as dictated by the recipe, then throw in seeds to complete it.
-academy.apothecary.text2=You can plant Mystical Petals in the ground and grow them with Bone Meal to make Tall Mystical Flowers that can be harvested with Shears. This lets you farm Mystical Petals.
+academy.apothecary.title=새들의 욕조
+academy.apothecary.desc=꽃잎 연금술기 만들기
+academy.apothecary.text1=꽃잎 연금술기는 마법의 꽃을 만드는데 사용됩니다. 연금술기에 물을 채우고, 레시피를 따라 신비로운 꽃잎을 넣은 다음, 씨앗을 넣어 완성합니다.
+academy.apothecary.text2=신비로운 꽃잎을 땅에 심고 뼛가루를 뿌리면 가위로 수확할 수 있는 키 큰 신비로운 꽃을 만들 수 있습니다. 이것으로 신비로운 꽃잎을 수확할 수 있습니다.
 
-academy.pouch.desc=Make a Flower Pouch
-academy.pouch.text=The Flower Pouch will store up to a stack of each Mystical Flower. When one is picked up, it will automatically be stored in the Flower Pouch if there is room.
+academy.pouch.desc=꽃 주머니 만들기
+academy.pouch.text=꽃 주머니는 각 신비로운 꽃을 한 뭉치까지 저장합니다. 꽃을 획득하였을 때, 공간이 있다면 자동적으로 꽃 주머니에 보관됩니다.
 
-academy.forestwand.title=Nature Magic
-academy.forestwand.desc=Make a Wand of the Forest
-academy.forestwand.text=The Wand of the Forest is a bit of an all-in-one tool for Botania. It allows you to activate and manipulate certain blocks in the mod.
+academy.forestwand.title=자연의 마법
+academy.forestwand.desc=숲의 지팡이 만들기
+academy.forestwand.text=숲의 지팡이는 보타니아에게 있어 약간의 올인원 도구입니다. 이것은 모드의 특정 블록을 활성화하고 조작할 수 있게 해줍니다.
 
-academy.daisy.title=Purification in Progress
-academy.daisy.desc=Make a Pure Daisy
-academy.daisy.text1=The Pure Daisy is a very important flower. It will convert Stone and Wood into Livingrock and Livingwood if they are within a 3x3 area surrounding it.
-academy.daisy.text2=Livingrock and Livingwood are used extremely often, so it would be a good idea to find a way to automate this.
+academy.daisy.title=정화 진행 중
+academy.daisy.desc=정화의 데이지 만들기
+academy.daisy.text1=정화의 데이지는 매우 중요한 꽃입니다. 돌과 나무가 꽃 주변의 3x3 영역 내에 있으면 생명의 돌과 생명의 나무로 변환됩니다.
+academy.daisy.text2=생명의 돌과 생명의 나무는 매우 자주 사용되므로 이것을 자동화할 방법을 찾는 것이 좋을 것입니다.
 
-academy.mana.title=Mana Jacuzzi
-academy.mana.desc=Make a Mana Pool and Mana Spreader
-academy.mana.text1=The Mana Pool is used to store Mana created by flowers. You can bind other flowers to it so they can use the Mana it holds.
-academy.mana.text2=Place the Mana Spreader next to a source of Mana, like a Mana Pool, and point it at something else that can accept Mana using a Wand of the Forest. It will start to shoot Mana Bursts in that direction, emptying the Mana source.
-academy.mana.text3=You can also throw things into the Mana Pool to change them, either transmuting or charging them.
+academy.mana.title=마나 욕조
+academy.mana.desc=마나 웅덩이와 마나 공급기 만들기
+academy.mana.text1=마나 웅덩이는 꽃에 의해 생성된 마나를 저장하는 데 사용됩니다. 다른 꽃들을 여기에 묶어서 꽃들이 가지고 있는 마나를 사용할 수 있습니다.
+academy.mana.text2=마나 공급기는 마나 웅덩이처럼 마나의 원천 옆에 놓고 숲의 지팡이를 이용해 마나를 받아들일 곳을 가리키돌독 합니다. 이것은 마나의 원천을 비우면서 해당 방향으로 마나 빔을 쏘기 시작할 것 입니다.
+academy.mana.text3=또한 물건들을 변화시키기 위해 마나 웅덩이에 던질 수도 있습니다. 어떤 아이템은 충전을 할 수도 있습니다.
 
-academy.manaitems.title=Just Stick "Mana" in Front of It!
-academy.manaitems.desc=Make Manasteel, a Mana Pearl, and a Mana Diamond
-academy.manaitems.text=Manasteel, Mana Diamonds, and Mana Pearls are used in a lot of crafting recipes.
+academy.manaitems.title=그냥 "마나"를 앞에 붙여!
+academy.manaitems.desc=마나합금, 마나 진주 그리고 마나 다이아몬드 만들기
+academy.manaitems.text=마나합금, 마나 다이아몬드, 마나 진주는 보타니아의 제작 레시피에 많이 사용됩니다.
 
-academy.manatablet.title=Mana Battery
-academy.manatablet.desc=Make a Mana Tablet
-academy.manatablet.text1=The Mana Tablet can be used to carry around Mana without a Mana Spreader, and also fuels any items in your inventory that need Mana.
-academy.manatablet.text2=To charge or discharge a Mana Tablet, throw it on a Mana Pool. Activate the Pool with a Wand of the Forest to switch between emptying and filling.
+academy.manatablet.title=마나 배터리
+academy.manatablet.desc=마나 타블렛 만들기
+academy.manatablet.text1=마나 타블렛은 마나 공급기 없이 마나를 운반하는 데 사용할 수 있으며, 마나가 필요한 아이템에 마나를 공급하기도 합니다.
+academy.manatablet.text2=마나 타블렛을 충전하거나 비우려면 마나 웅덩이에 던집니다. 숲의 지팡이로 웅덩이를 채우는 것과 비우는 것을 전환할 수 있습니다.
 
 academy.halo.title=Manafactory Halo
 academy.halo.desc=Make a Manufacturing Halo
 academy.halo.text1=The Manufacturing Halo will automatically craft recipes that are set using items in your inventory.
 academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
 
-academy.alchemcat.title=The Law of Equivalent Exchange
-academy.alchemcat.desc=Make an Alchemy Catalyst
-academy.alchemcat.text1=The Alchemy Catalyst is placed under a Mana Pool to change its functionality.
-academy.alchemcat.text2=It adds new recipes to the Mana Pool, so you can throw in an item to get a different item out. Hit U on the Alchemy Catalyst to see all of its recipes.
+academy.alchemcat.title=등가교환
+academy.alchemcat.desc=연금술 촉매 만들기
+academy.alchemcat.text1=연금술 촉매는 마나 웅덩이의 기능을 바꾸기 위해 마나 웅덩이 아래에 위치합니다. 
+academy.alchemcat.text2=이것은 마나 웅덩이에 새로운 레시피를 추가하여 물건을 던져 다른 물건을 얻을 수 있습니다. 모든 레시피를 보려면 JEI 또는 인벤토리에서 연금술 촉매에 마우스를 올리고 U를 입력하세요.
 
-academy.endoflame.title=Smells like Burning
-academy.endoflame.desc=Make an Endoflame
-academy.endoflame.text1=The Endoflame will burn any furnace fuel dropped on the ground nearby and convert it into Mana and put it into a nearby Mana Spreader.
-academy.endoflame.text2=This is a very good early-game source of Mana that works better the more you have, and is very easily automatable.
+academy.endoflame.title=타는 냄새가 나는군
+academy.endoflame.desc=불먹이 꽃 만들기
+academy.endoflame.text1=불먹이 꽃은 주변에 떨어진 화로 연료를 모두 태워 마나로 변환해 인근의 마나 공급기에 공급합니다.
+academy.endoflame.text2=이것은 더 많이 가질수록 더 잘 작동하고, 매우 쉽게 자동화할 수 있는 매우 좋은 초반 게임의 마나 공급원입니다.
 
 academy.runicaltar.title=从卂厶工匚 丂丫从乃口乚丂
-academy.runicaltar.desc=Make a Runic Altar
-academy.runicaltar.text1=The Runic Altar is used to create Runes, as the name implies. Throw the items on top of it according to the recipe and provide it with Mana from a Mana Spreader.
-academy.runicaltar.text2=Once it's full of Mana, throw a Livingrock on it and activate it with a Wand of the Forest to complete the craft.
+academy.runicaltar.desc=신비한 제단 만들기
+academy.runicaltar.text1=신비한 제단(Runic Altar)은 이름이 암시하는 대로 룬을 만드는 데 사용됩니다. 레시피에 따라 위에 물건들을 던지고 마나 공급기로 마나를 제공하세요.
+academy.runicaltar.text2=마나가 가득 차면 위에 생명의 돌을 던지고 숲의 지팡이로 작동시켜 제작품을 완성하세요.
 
 academy.soujourner.title=Beauty Queen on Tour
 academy.soujourner.desc=Make a Soujourner's Sash
 academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
 
-academy.lens.title=Mana Glasses
-academy.lens.desc=Make a Mana Lens
-academy.lens.text=Mana Lenses are applied to Mana Spreaders to change how they work. They can do things like make Mana Bursts faster or hold more Mana, or make it so they explode when they hit a block.
+academy.lens.title=마나 글래스
+academy.lens.desc=마나 렌즈 만들기
+academy.lens.text=마나 렌즈는 마나 공급기에 적용되며 작동 방식을 바꿉니다. 이것은 마나 버스트를 더 빨리 만들거나, 더 많은 마나를 보유하거나, 그것이 한 블록에 부딪혔을 때 폭발하도록 만들 수 있습니다.
 
-academy.botaniamagnet.title=Magnetic Personality
-academy.botaniamagnet.desc=Make a Ring of Magnetization
-academy.botaniamagnet.text=While worn in the Bauble slots, the Ring of Magnetization will draw dropped items towards the player.
+academy.botaniamagnet.title=자석인간
+academy.botaniamagnet.desc=자력의 반지 만들기
+academy.botaniamagnet.text=버블즈 슬롯에 장착하는 동안, 자력의 반지는 떨어진 물건들을 플레이어를 향해 끌어 올 것입니다.
 
-academy.botaniarods.title=Magic Wand
-academy.botaniarods.desc=Make any Rod
-academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+academy.botaniarods.title=마법 지팡이
+academy.botaniarods.desc=마법 지팡이 만들기
+academy.botaniarods.text=지팡이들은 인벤토리에 있는 마나를 이용하여 조약돌이나 흙을 놓거나, 공중을 날아다니거나 블록을 제련하는 것과 같은 특정한 행동을 할 수 있게 해줍니다.
 
-academy.terrasteel.title=Dancing Lights
-academy.terrasteel.desc=Make some Terrasteel
-academy.terrasteel.text1=The Terrestrial Agglomeration Plate is where you make Terrasteel.
-academy.terrasteel.text2=Throw a Manasteel Ingot, a Mana Diamond, and a Mana Pearl on the Plate and give it a couple metric butt-tons of Mana from a Mana Pool connected with Sparks.
-academy.terrasteel.text3=Some lights will dance around for a bit before converging on the items, turning them into a single Terrasteel Ingot.
+academy.terrasteel.title=춤추는 빛
+academy.terrasteel.desc=테라스틸 만들기
+academy.terrasteel.text1=테라스틸 집성판은 테라스틸을 만드는 곳입니다.
+academy.terrasteel.text2=마나합금 주괴, 마나 다이아몬드, 마나 진주를 판 위에 던져 놓고 스파크와 연결된 마나 웅덩이에서 몇 개의 신호를 줍니다.
+academy.terrasteel.text3=어떤 빛들은 그 물건들에 모여들기 전에 잠시 춤을 추게 될 것이며, 그것들은 하나의 테라스틸 주괴로 변하게 될 것입니다.
 
-academy.elven.title=Link Start!
-academy.elven.desc=Make a portal to Alfheim
-academy.elven.text1=The portal to Alfheim is a multiblock that allows you to trade with elves (it's essentially another crafting mechanic). Throw an item into it and they'll throw the elven version back out.
-academy.elven.text2=The Lexica Botania has a building guide for the portal.
+academy.elven.title=연결 시작!
+academy.elven.desc=알프하임으로 향하는 포탈 만들기
+academy.elven.text1=알프하임으로 가는 포탈은 엘프들과 거래할 수 있게 해주는 멀티블럭입니다. 아이템을 던져주면 엘프 버전으로 다시 돌려 줍니다.
+academy.elven.text2=렉시카 보타니아는 이 포탈을 위한 건축 가이드를 가지고 있습니다.
 
 academy.laputa.title=Castle in the Sky
 academy.laputa.desc=Make a max size Shard of Laputa
@@ -1310,10 +1310,10 @@ academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. Wh
 academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
 academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
 
-academy.lexica2.title=It's Lucky They Understand English
-academy.lexica2.desc=Get the elven Lexica Botania
-academy.lexica2.text1=If you throw the Lexica Botania into the portal to Alfheim, they'll write down all their Elven knowledge for you to read.
-academy.lexica2.text2=Elven knowledge will be green.
+academy.lexica2.title=의사소통
+academy.lexica2.desc=엘프의 렉시카 보타니아 얻기
+academy.lexica2.text1=렉시카 보타니아를 알프하임 포탈에 던지면, 그들은 당신이 읽을 수 있도록 엘프의 모든 지식을 적어 놓을 것입니다.
+academy.lexica2.text2=엘프의 지식은 녹색으로 표시될 것입니다.
 
 academy.farreach.title=Top Shelf
 academy.farreach.desc=Make a Ring of Far Reach
@@ -1347,12 +1347,12 @@ academy.gaia2.text1=You can challenge the Guardian to a more difficult fight to 
 academy.gaia2.text2=The second fight will be much, much harder. Come prepared for a battle. It drops Loot Dice, which turn into 1 of 6 possible legendary Relics.
 
 #Twilight Forest
-academy.twilightportal.title=A World of Pure Imagination
-academy.twilightportal.desc=Enter the Twilight Forest
-academy.twilightportal.text1=The Twilight Forest is an entirely new dimension to explore.
-academy.twilightportal.text2=It has a strict progression system, so you have to defeat certain bosses before you can enter certain biomes.
-academy.twilightportal.text3=To make the portal, dig a 2x2 in Grass and fill it with Water. Make sure every Grass block has a plant on it like a flower, and then throw a Diamond in.
-academy.twilightportal.task=Enter the Twilight Forest
+academy.twilightportal.title=순수한 가상의 세계
+academy.twilightportal.desc=황혼의 숲 입장하기
+academy.twilightportal.text1=황혼의 숲은 탐험하기 위한 완전히 새로운 차원입니다.
+academy.twilightportal.text2=숲은 엄격한 진행 시스템을 가지고 있기 때문에, 당신은 특정한 보스를 물리쳐야 특정한 바이옴으로 들어갈 수 있습니다.
+academy.twilightportal.text3=포탈을 만드려면, 잔디에 2x2 구덩이을 파고 물을 채우세요. 그리고 구덩이 주변 전체에 잔디에 꽃과 같은 식물이 있는지 확인하고 다이아몬드를 그 안에 던져 넣으세요.
+academy.twilightportal.task=황혼의 숲 입장하기
 
 academy.magicmap.title=I'm the Map!
 academy.magicmap.desc=Make a Magic Map
@@ -1642,20 +1642,20 @@ academy.fysallidic.text=The Fysallidic Prime will suck up all mobs beneath it in
 
 #Miscellaneous
 
-academy.instrumentalmobs.title=Let's Make a Band
-academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
-academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
-academy.instrumentalmobs.task=Anything from Instrumental Mobs
+academy.instrumentalmobs.title=밴드 창설
+academy.instrumentalmobs.desc=악사 몹들로부터 악기 얻기
+academy.instrumentalmobs.text=악사 몹들은 대부분 바닐라 몹의 버전으로 추가되지만, 몹들을 죽이면 음악을 들려줄 것 입니다. 그들의 악기는 당신을 밀어내지만, 피해를 입히지는 않을 것 입니다. 몹들을 죽이면 작은 확률로 악기를 떨어뜨립니다.
+academy.instrumentalmobs.task=악사 몹들로부터 악기 얻기
 
 academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
 academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
 academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
 
-academy.elevator.title=Going Up
-academy.elevator.desc=Make an Elevator
-academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
-academy.elevator.task=Any Elevator
+academy.elevator.title=올라가
+academy.elevator.desc=엘리베이터 만들기
+academy.elevator.text=엘리베이터에서 점프를 하면, 위의 엘리베이터로 순간이동 됩니다. 마찬가지로 엘리베이터를 쉬프트를 누르면 아래에 있는 엘리베이터로 순간이동 됩니다. 색상은 중요하지 않습니다.
+academy.elevator.task=엘리베이터
 
 academy.exchanging.title=This to That
 academy.exchanging.desc=Make an Exchanging Gadget
@@ -1673,10 +1673,10 @@ academy.buildinggadget.title=9x9s Made Easy
 academy.buildinggadget.desc=Make a Building Gadget
 academy.buildinggadget.text=The Bulding Gadget allows you to quickly build simple structures like walls and stairs.
 
-academy.wateringcan.title=Not Watering Can't
-academy.wateringcan.desc=Make a Watering Can
-academy.wateringcan.text1=Watering Cans speed up plant growth in an area when used, which takes Water. You can fill the Watering Can up by sneak right clicking on a Water source block.
-academy.wateringcan.text2=Higher tier Watering Cans can store more water, have a higher maximum area, and have a higher chance of growing plants.
+academy.wateringcan.title=물을 줄 수가 없어
+academy.wateringcan.desc=물 뿌리개 만들기
+academy.wateringcan.text1=물 뿌리개를 사용하면 일정 영역의 작물의 성장을 가속화 합니다. 이것은 물을 필요로 하고, 물에 쉬프트 우클릭하면 채울 수 있습니다.
+academy.wateringcan.text2=높은 티어의 물 뿌리개는 더 많은 물을 저장할 수 있고, 효과 영역이 넓어지며, 식물이 성장할 확률이 더 높습니다.
 
 academy.slimechannel.title=Gelatinous
 academy.slimechannel.desc=Make a Slime Channel
@@ -1684,18 +1684,18 @@ academy.slimechannel.text1=Slime Channels will push all entities (items and mobs
 academy.slimechannel.text2=They don't block mobs from spawning, so they work great in mob grinders.
 academy.slimechannel.task=Any Slime Channel
 
-academy.craftingtableonastick.title=Crafting Table + Stick = ?
-academy.craftingtableonastick.desc=Make a Crafting Table on a Stick
-academy.craftingtableonastick.text=The Crafting Table on a Stick is exactly what it sounds like. Right click it to open a 3x3 crafting menu.
+academy.craftingtableonastick.title=제작대 + 막대기 = ?
+academy.craftingtableonastick.desc=제작막대 만들기
+academy.craftingtableonastick.text=제작막대는 이름과 정확히 같아 보입니다. 3x3 제작 메뉴를 열려면 우클릭하세요.
 
-academy.tinytorch.title=Light of my Life
-academy.tinytorch.desc=Make a Tiny Torch
-academy.tinytorch.text=The Tiny Torch is a cheaper alternative to the regular Torch. However, it only has a light level of 12 compared to the Torch's 14.
+academy.tinytorch.title=내 삶의 빛
+academy.tinytorch.desc=작은 횃불 만들기
+academy.tinytorch.text=작은 횃불은 일반 횃불보다 더 저렴한 대체제입니다. 그러나 밝기 수준이 횃불의 14와 비교하면 12 밖에 되지 않습니다.
 
-academy.foodxl.title=Variety is the Spice of Life
-academy.foodxl.desc=Get something from XL Food Mod
-academy.foodxl.text=XL Food Mod adds a huge variety of food items. Everything from Cheeseburgers to Spaghetti!
-academy.foodxl.task=Anything from XL Food Mod
+academy.foodxl.title=변화가 인생을 즐겁게 한다.
+academy.foodxl.desc=XL Food 모드의 아이템 얻기
+academy.foodxl.text=XL Food 모드는 매우 다양한 음식 아이템들을 추가합니다. 치즈버거부터 스파게티까지 다양하게!
+academy.foodxl.task=XL Food 모드의 아무 음식
 
 academy.mobgrindingutils.title=Mobs Made Easy
 academy.mobgrindingutils.desc=Make a Mob Masher and Fan
