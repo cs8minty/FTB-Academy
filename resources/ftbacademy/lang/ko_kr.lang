@@ -511,19 +511,19 @@ academy.dracchest.text=드라코늄 상자는 260개의 슬롯, 5개의 업그�
 
 # Transportation
 
-academy.hopper.title=Simple, Elegant, Beautiful
-academy.hopper.desc=Make a Hopper
-academy.hopper.text1=Ah, the Hopper. It takes things out of blocks above it, and inserts them into inventories it's pointing towards. Could there be anything better than this?
+academy.hopper.title=간단하고, 편하고, 멋진것
+academy.hopper.desc=호퍼 만들기
+academy.hopper.text1=호퍼는 위에 있는 아이템을 꺼내서, 호퍼가 가리키는 인벤토리에 집어 넣습니다.
 
-academy.basicitemtess.title=Better Than Hoppers
-academy.basicitemtess.desc=Make a Basic Item Tesslocator
-academy.basicitemtess.text1=Item Tesslocators allow you to quickly move items over a distance of one block. Place Tesslocators in the same block space on all inventories you want to interact with and open its GUI to change the settings.
-academy.basicitemtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging items or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more than one stack at a time.
+academy.basicitemtess.title=호퍼보다 나은
+academy.basicitemtess.desc=기본 아이템 테슬로케이터 만들기
+academy.basicitemtess.text1=아이템 테슬로케이터는 한 블록 거리에 있는 아이템들을 빠르게 이동할 수 있게 해줍니다. 상호작용할 모든 인벤토리의 동일한 블록 공간에 테슬로케이터를 배치하고 GUI를 열어 설정을 변경하세요.
+academy.basicitemtess.text2=가운데 버튼을 사용하여 입력, 출력 및 입/출력 모드 사이를 변경할 수 있습니다. 왼쪽 슬롯은 아이템이나 아이템 필터를 끌어 입력 및 출력 필터를 설정할 수 있으며, 오른쪽 슬롯은 발광석을 추가하여 더 빨라지게 만들며, 다이아 몬드를 추가하여 한 번에 두 개 이상의 묶음이 이동되도록 할 수 있습니다.
 
-academy.basicfluidtess.title=Fluid Hopper
-academy.basicfluidtess.desc=Make a Basic Fluid Tesslocator
-academy.basicfluidtess.text1=Fluid Tesslocators allow you to quickly move fluids over a distance of one block. Place Tesslocators in the same block space on all blocks you want to interact with and open its GUI to change the settings.
-academy.basicfluidtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging filled Buckets or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more at a time.
+academy.basicfluidtess.title=액체 호퍼
+academy.basicfluidtess.desc=기본 액체 테슬로케이터 만들기
+academy.basicfluidtess.text1=액체 테슬로케이터는 한 블록의 거리에서 빠르게 액체를 옮길 수 있게 해줍니다. 상호작용할 모든 인벤토리의 동일한 블록 공간에 테슬로케이터를 배치하고 GUI를 열어 설정을 변경하세요.
+academy.basicfluidtess.text2=가운데 버튼을 사용하여 입력, 출력 및 입/출력 모드 사이를 변경할 수 있습니다. 왼쪽 슬롯은 가득찬 양동이나 아이템 필터를 끌어 입력 및 출력 필터를 설정할 수 있으며, 오른쪽 슬롯은 발광석을 추가하여 더 빨라지게 만들며, 다이아 몬드를 추가하여 한 번에 더 많이 이동되도록 할 수 있습니다.
 
 academy.itemducts.title=Latest Innovation in Moving Items
 academy.itemducts.desc=Make Itemducts
@@ -531,23 +531,23 @@ academy.itemducts.text1=Itemducts move items along their path, in all directions
 academy.itemducts.text2=Opaque Itemducts work exactly the same, except you can't see items flow through them. This can help prevent lag.
 academy.itemducts.task=Itemduct
 
-academy.basicfluiducts.title=Aqueduct
-academy.basicfluiducts.desc=Make Basic Fluiducts
-academy.basicfluiducts.text1=Fluiducts are used to transfer fluids. Basic Fluiducts can only transfer fluids that aren't extremely temperate, like Lava or Gelid Cryotheum.
-academy.basicfluiducts.text2=Opaque Fluiducts work exactly the same, except you can't see Fluids flow through them. This can help prevent lag.
-academy.basicfluiducts.task=Fluiduct
+academy.basicfluiducts.title=액체덕트
+academy.basicfluiducts.desc=액체덕트 만들기
+academy.basicfluiducts.text1=액체덕트는 액체를 전달하는 데 사용됩니다. 기본 액체덕트는 용암이나 크리오시움처럼 온도가 극심하지 않은 액체만 옮길 수 있습니다.
+academy.basicfluiducts.text2=불투명한 액체덕트는 정확히 동일하게 작동하지만, 액체가 액체덕트를 통해 흐르는 것을 볼 수 없습니다. 이것은 렉을 예방하는 데 도움이 될 수 있습니다.
+academy.basicfluiducts.task=액체덕트
 
 academy.hardenedfluiducts.title=Lavaduct
 academy.hardenedfluiducts.desc=Make Hardened Fluiducts
 academy.hardenedfluiducts.text=Hardened Fluiducts can transfer any fluid.
 academy.hardenedfluiducts.task=Hardened Fluiduct
 
-academy.servo.title=Make it Work
-academy.servo.desc=Make a Servo
-academy.servo.text1=A Servo is used to extract items or fluids from an inventory or tank and move them to Itemducts or Fluiducts. Place the Servo on the connection and provide it with a Redstone signal (or set it to not need Redstone) and it will begin to extract items/fluids.
-academy.servo.text2=Items only extract if there is somewhere for them to go, but fluids will be extracted regardless.
-academy.servo.text3=Items will try to go to the nearest inventory it can enter, while fluids will just fill anything it can.
-academy.servo.task=Any Servo
+academy.servo.title=작업 시작하기
+academy.servo.desc=서보 만들기
+academy.servo.text1=서보는 인벤토리나 탱크에서 아이템이나 액체를 추출하여 덕트로 옮기는 데 사용됩니다. 서보를 연결부에 놓고 레드스톤 신호를 제공(또는 신호 무시 설정)하면 아이템/액체 추출이 시작됩니다.
+academy.servo.text2=아이템은 갈 곳이 있을 때만 추출되지만, 액체는 그것과 무관하게 추출됩니다.
+academy.servo.text3=아이템은 들어갈 수 있는 가장 가까운 인벤토리로 들어가려고 하는 반면, 액체는 가능한 모든 것을 채울 것입니다.
+academy.servo.task=모든 서보
 
 academy.signalumfluiduct.title=Electrolyte Rich
 academy.signalumfluiduct.desc=Make a Signalum-Plated Fluiduct
@@ -658,52 +658,52 @@ academy.xpteleporter.text3=Teleporters will display the coordinates of the linke
 
 # Refined Storage - Beginner
 
-academy.controller.title=Think Tank
-academy.controller.desc=Make a Controller
-academy.controller.text1=The Controller is the heart and brain of a Refined Storage system.
-academy.controller.text2=Every block in the system must be connected to the Controller in some way, either with Cables or just touching it directly.
-academy.controller.text3=The Refined Storage system is powered using RF by piping it into the Controller.
-academy.controller.text4=You can only have one Controller per system.
+academy.controller.title=두뇌 집단
+academy.controller.desc=컨트롤러 만들기
+academy.controller.text1=컨트롤러는 Refined Storage 시스템의 두뇌와 심장입니다.
+academy.controller.text2=해당 시스템의 모든 블록은 어떤 방법으로든 케이블 또는 직접 컨트롤러에 연결되어야 합니다.
+academy.controller.text3=Refined Storage 시스템은 RF를 사용하여 컨트롤러에 파이프를 통해 전력을 공급합니다.
+academy.controller.text4=시스템 당 하나의 컨트롤러만 존재할 수 있습니다.
 
-academy.diskdrive.desc=Make a Disk Drive
-academy.diskdrive.text=Disk Drives store Storage Disks, which store items. You can have up to 10 Storage Disks in the Disk Drive.
+academy.diskdrive.desc=디스크 드라이브 만들기
+academy.diskdrive.text=디스크 드라이브는 아이템을 저장하는 저장 디스크를 수납합니다. 한 디스크 드라이브 당 최대 10개의 저장 디스크를 사용할 수 있습니다.
 
-academy.storagedisk.title=Don't Copy That Floppy
-academy.storagedisk.desc=Make a Storage Disk
-academy.storagedisk.text1=Storage Disks digitally store more items. Higher tiers store more items.
-academy.storagedisk.text2=The 1k Storage Disk can hold 1,000 items, the 4K Storage Disk can hold 4,000 items, and so on.
-academy.storagedisk.task=Any Storage Disk
+academy.storagedisk.title=플로피에 복사하지 마
+academy.storagedisk.desc=저장 디스크 만들기
+academy.storagedisk.text1=저장 디스크는 더 많은 아이템을 디지털로 저장합니다. 높은 티어는 더 많은 아이템을 저장합니다.
+academy.storagedisk.text2=1k 저장 디스크는 1,000개, 4K 저장 디스크는 4,0000개를 저장할 수 있습니다.
+academy.storagedisk.task=모든 저장 디스크
 
-academy.fluiddisk.title=Waterproof
-academy.fluiddisk.desc=Make a Fluid Storage Disk
-academy.fluiddisk.text1=Fluid Storage Disks work like regular Storage Disks, but they store fluids instead of items.
-academy.fluiddisk.text2=A 64k Fluid Storage Disk can store 64,000mB of fluid, a 256k Fluid Storage Disk can store 256,000mB of fluid, and so on.
-academy.fluiddisk.task=Any Fluid Storage Disk
+academy.fluiddisk.title=방수
+academy.fluiddisk.desc=액체 저장 디스크 만들기
+academy.fluiddisk.text1=액체 저장 디스크는 일반 저장 디스크처럼 작동하지만 아이템 대신 액체를 저장합니다.
+academy.fluiddisk.text2=64k 액체 저장 디스크는 64,000mB의 액체를 저장할 수 있고, 256k 액체 저장 디스크는 256,000mB의 액체를 저장할 수 있습니다.
+academy.fluiddisk.task=모든 액체 저장 디스크
 
-academy.grid.title=Enter the Grid
-academy.grid.desc=Make a Grid
-academy.grid.text=The Grid is where you can manually interact with your storage system. Connect it to the system and give it power, and you can use it like you would any other chest.
+academy.grid.title=그리드에 접속하라
+academy.grid.desc=그리드 만들기
+academy.grid.text=그리드는 스토리지 시스템과 수동으로 상호작용할 수 있습니다. 시스템에 연결하고 전력이 공급되면 다른 상자들처럼 사용할 수 있습니다.
 
-academy.craftinggrid.desc=Make a Crafting Grid
-academy.craftinggrid.text=The Crafting Grid is an upgraded version of the Grid. It works exactly the same, except it has a 3x3 crafting table built in to it.
+academy.craftinggrid.desc=조합 그리드 만들기
+academy.craftinggrid.text=조합 그리드는 그리드의 업그레이드된 버전입니다. 3x3 제작대가 내장되어 있다는 점을 제외하면 정확히 같은 기능을 합니다.
 
-academy.fluidgrid.desc=Make a Fluid Grid
-academy.fluidgrid.text1=The Fluid Grid works like a normal Grid, except it shows fluids instead of items.
-academy.fluidgrid.text2=Drag and drop a full fluid container (like a Bucket) into the menu to empty it into the system. You can also click it while holding sneak.
-academy.fluidgrid.text3=Click a fluid in the system while you have an empty Bucket in your inventory or the system to fill it with that fluid.
+academy.fluidgrid.desc=액체 그리드
+academy.fluidgrid.text1=액체 그리드는 아이템 대신 액체가 표시된다는 점을 제외하면 일반 그리드처럼 작동합니다.
+academy.fluidgrid.text2=가득찬 액체 용기(양동이 같은)를 메뉴로 끌어다 놓아 시스템에 넣으세요. 쉬프트 클릭을 해도됩니다.
+academy.fluidgrid.text3=인벤토리에 빈 양동이가 있다면 시스템에서 액체를 클릭하여 해당 액체로 채울 수 있습니다.
 
-academy.cable.desc=Make Cables
-academy.cable.text=Cables are used to connect devices to the Controller.
+academy.cable.desc=케이블 만들기
+academy.cable.text=케이블은 컨트롤러에 장치들을 연결하는 데 사용됩니다.
 
-academy.io.title=I/O
-academy.io.desc=Make an Importer and an Exporter
-academy.io.text1=An Importer will pull items from the inventory it is placed on and insert them into the RS system.
-academy.io.text2=An Exporter will push specified items into the inventory it is placed on from the RS system.
+academy.io.title=입출력
+academy.io.desc=입력/출력 포트 만들기
+academy.io.text1=입력 포트는 인벤토리로 부터 아이템을 가져와 RS 시스템에 넣습니다.
+academy.io.text2=출력 포트는 RS 시스템에서 지정한 아이템을 인벤토리로 빼냅니다.
 
-academy.extstorage.title=Backwards Compatible
-academy.extstorage.desc=Make an External Storage
-academy.extstorage.text1=Place the External Storage on an inventory and its contents will appear in the system.
-academy.extstorage.text2=If the External Storage has a higher priority than other storage blocks, like the Disk Drive, items will try to go into that inventory first.
+academy.extstorage.title=호환성
+academy.extstorage.desc=외부 스토리지 만들기
+academy.extstorage.text1=외부 스토리지를 인벤토리에 배치하면 해당 내용물이 시스템에 나타납니다.
+academy.extstorage.text2=외장 스토리지가 디스크 드라이브와 같은 다른 스토리지 블록보다 우선순위가 높을 경우 아이템이 먼저 해당 인벤토리로 이동할 것 입니다.
 
 # Refined Storage - Advanced
 
@@ -751,20 +751,20 @@ academy.wirelessfluidgrid.text2=To bind it to the system, sneak right click it o
 
 # Technology - Beginner
 
-academy.magmatic.title=The Core
-academy.magmatic.desc=Make a Magmatic Dynamo
-academy.magmatic.text1=The Magmatic Dynamo generates RF using hot fluids.
-academy.magmatic.text2=One bucket of Lava generates 120,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.magmatic.title=코어
+academy.magmatic.desc=용암 발전기 만들기
+academy.magmatic.text1=용암 발전기는 뜨거운 액체를 사용하여 RF를 생산합니다.
+academy.magmatic.text2=용암 양동이 하나로 120,000의 RF를 생산합니다. JEI를 사용하여 발전기의 용도를 확인해 다른 연료의 생산량을 확인할 수 있습니다.
 
-academy.steam.title=Steam Powered
-academy.steam.desc=Make a Steam Dynamo
-academy.steam.text1=The Steam Dynamo generates RF using solid fuel and water.
-academy.steam.text2=One Coal generates 24,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.steam.title=스팀 파워
+academy.steam.desc=스팀 발전기 만들기
+academy.steam.text1=스팀 발전기는 고체 연료와 물을 사용하여 RF를 생산합니다.
+academy.steam.text2=석탄 한 개로 24,000의 RF를 생산합니다. JEI를 사용하여 발전기의 용도를 확인하여 다른 연료의 생산량을 볼 수 있습니다.
 
-academy.coalgen.title=Old King Coal
-academy.coalgen.desc=Make a Coal Generator
-academy.coalgen.text1=The Coal Generator makes RF from Coal and other furnace fuel.
-academy.coalgen.text2=One Coal generates 48,000 RF.
+academy.coalgen.title=오래된 왕, 석탄
+academy.coalgen.desc=연료 발전기 만들기
+academy.coalgen.text1=연료 발전기는 석탄 또는 다른 화로 연료로 RF를 생산합니다.
+academy.coalgen.text2=석탄 한 개로 48,000의 RF를 생산합니다.
 
 academy.pitifulgen.title=Just Sad
 academy.pitifulgen.desc=Make a Pitiful Fuel Generator
@@ -776,16 +776,16 @@ academy.petrifiedgen.desc=Make a Petrified Fuel Generator
 academy.petrifiedgen.text1=The Petrified Fuel Generator generates RF by burning any furnace fuel.
 academy.petrifiedgen.text2=One Coal generates 60,000 RF.
 
-academy.pulverizer.title=Dust to Dust
-academy.pulverizer.desc=Make a Pulverizer
-academy.pulverizer.text1=The Pulverizer uses RF to crush items like Stone and Ores.
-academy.pulverizer.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output.
-academy.pulverizer.text3=The Pulverizer can be upgraded and augmented to work faster or change the way it functions.
+academy.pulverizer.title=가루에서 가루로
+academy.pulverizer.desc=분쇄기 만들기
+academy.pulverizer.text1=분쇄기는 RF를 소모하여 돌과 광물같은 것을 부숩니다.
+academy.pulverizer.text2=광물은 각각 두개의 가루로 부셔질 것이며, 이 가루들은 주괴로 제련될 것입니다. 또한 2차 산출물을 얻을 가능성도 있습니다.
+academy.pulverizer.text3=분쇄기는 더 빨리 동작하거나 동작 방식을 변경할 수 있도록 업그레이드 등을 할 수 있습니다.
 
-academy.redstonefurnace.title=Microwave
-academy.redstonefurnace.desc=Make a Redstone Furnace
-academy.redstonefurnace.text1=The Redstone Furnace uses RF to smelt items.
-academy.redstonefurnace.text2=It really doesn't do much more than that, but upgrades and augments can make it a lot faster.
+academy.redstonefurnace.title=전자레인지
+academy.redstonefurnace.desc=레드스톤 화로 만들기
+academy.redstonefurnace.text1=레드스톤 화로는 RF를 사용하여 아이템을 제련합니다.
+academy.redstonefurnace.text2=이것은 일반 화로보다 더 효과가 좋은건 아니지만, 업그레이드 등을 하면 훨씬 빠르게 만들 수 있습니다.
 
 academy.resourcefulfurnace.title=Experienced Cook
 academy.resourcefulfurnace.desc=Make a Resourceful Furnace
@@ -812,10 +812,10 @@ academy.poweredfurnace.desc=Make a Powered Furnace
 academy.poweredfurnace.text1=The Powered Furnace uses RF to smelt items.
 academy.poweredfurnace.text2=It has 2 input slots, so you can smelt 2 stacks at once. You can also set it to split the input over both slots, making it effectively work twice as fast.
 
-academy.fluxducts1.title=Plug it In!
-academy.fluxducts1.desc=Make Leadstone Fluxducts
-academy.fluxducts1.text1=Fluxducts are used to transfer RF. Higher tiers can transfer RF faster.
-academy.fluxducts1.text2=Leadstone Fluxducts can transfer 1,000 RF/t per connection.
+academy.fluxducts1.title=플러그를 꽂아!
+academy.fluxducts1.desc=납 플럭스덕트 만들기
+academy.fluxducts1.text1=RF를 전송하는데 플럭스덕트가 사용됩니다. 높은 티어는 RF를 더 빨리 전송할 수 있습니다.
+academy.fluxducts1.text2=납 플럭스덕트는 연결당 1,000 RF/t를 전송할 수 있습니다.
 
 academy.fluxducts2.title=Better, Harder
 academy.fluxducts2.desc=Make Hardened Fluxducts
@@ -913,19 +913,19 @@ academy.stabilizedspawner.text2=You can right click a Stabilized Spawner with a 
 academy.stabilizedspawner.text3=Each tier is better than the last, spawning more mobs at a time and doing it more often. Higher tiers also have less restrictions for how to spawn mobs. See the Draconic Evolution Information Tablet for more details.
 academy.stabilizedspawner.task=Any Stabilized Spawner
 
-academy.DEsouls.title=Soul Eater
-academy.DEsouls.desc=Collect a Soul
-academy.DEsouls.text1=Mob Souls have a chance of dropping when using a Draconic Evolution weapons and/or the Reaper enchantment. If you are using neither, Mob Souls will never drop.
-academy.DEsouls.text2=A Mob Soul's main use is to be inserted into Stabilized Spawners to set it to spawn that mob, however you can sneak right click them on the ground to spawn the mob (which will use up the Soul).
-academy.DEsouls.task=Any Soul
+academy.DEsouls.title=소울이터
+academy.DEsouls.desc=영혼 수집하기
+academy.DEsouls.text1=몹의 영혼은 Draconic Evolution의 무기를 사용하거나 리퍼 인챈트를 할때 획득할 수 있는 확률이 있습니다. 만약 둘 다 사용하지 않는다면, 몹 영혼은 절대 획득할 수 없습니다.
+academy.DEsouls.text2=몹의 영혼의 주 용도는 안정된 스포너에 첨가하여 몹을 생성되도록 하는 것이지만, 땅 위에 쉬프트 우클릭하여 몹을 생성시킬 수 있습니다.
+academy.DEsouls.task=모든 영혼
 
-academy.celestialmanipulator.title=Weather Report
-academy.celestialmanipulator.desc=Make a Celestial Manipulator
-academy.celestialmanipulator.text=The Celestial Manipulator uses RF to allow you to change the current time and weather.
+academy.celestialmanipulator.title=날씨 보고서
+academy.celestialmanipulator.desc=행성 조작기 만들기
+academy.celestialmanipulator.text=행성 조작기는 RF를 사용하여 현재 시간과 날씨를 바꿀 수 있습니다.
 
-academy.disenchanter.title=elbaT tnemtnahcnE
-academy.disenchanter.desc=Make a Disenchanter
-academy.disenchanter.text=The Disenchanter allows you to move enchantments from tools to books.
+academy.disenchanter.title=반인챈트
+academy.disenchanter.desc=반인챈트기 만들기
+academy.disenchanter.text=반인챈트기는 인챈트를 도구에서 책으로 옮길 수 있게 해줍니다.
 
 # Technology - Intermediate
 
