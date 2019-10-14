@@ -838,22 +838,22 @@ academy.plasticmaking.desc=Make some Plastic
 academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
 academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
 
-academy.energycell.title=Saved for a Rainy Day
-academy.energycell.desc=Make an Energy Cell
-academy.energycell.text1=Energy Cells are used to store RF. Like all other Thermal Expansion machines, it comes in six tiers.
-academy.energycell.text2=The first tier can store 2,000,000 RF, and then the highest can store 50,000,000 RF.
+academy.energycell.title=비 오는 날을 위한 저장
+academy.energycell.desc=에너지 셀 만들기
+academy.energycell.text1=에너지 셀은 RF를 저장하는 데 사용됩니다. 다른 모든 써멀 익스펜션 기계들과 마찬가지로, 이것은 6 티어로 되어 있습니다.
+academy.energycell.text2=첫 번째 티어는 2,000,000 RF를 저장할 수 있고, 가장 높은 티어는 50,000,000 RF를 저장할 수 있습니다.
 
-academy.AAbook.title=Actually Information
-academy.AAbook.desc=Make the Actually Additions Manual
-academy.AAbook.text=The Actually Additions Manual has all the information on blocks and items added by the mod.
+academy.AAbook.title=실제 정보
+academy.AAbook.desc=Actually Additions 메뉴얼 만들기
+academy.AAbook.text=Actually Additions 메뉴얼은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
-academy.IFbook.title=IF You Wish Upon a Star
-academy.IFbook.desc=Make Industrial Foregoing's Manual
-academy.IFbook.text=The Industrial Foregoing's Manual has all the information on blocks and items added by the mod.
+academy.IFbook.title=진보의 꿈
+academy.IFbook.desc=Industrial Foregoing의 메뉴얼 만들기
+academy.IFbook.text=Industrial Foregoing의 메뉴얼은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
-academy.DEinfotab.title=We Made a Guide for Their Guide
-academy.DEinfotab.desc=Make the Draconic Evolution Information Tablet
-academy.DEinfotab.text=The Draconic Evolution Information Tablet has all the information on blocks and items added by the mod.
+academy.DEinfotab.title=우리는 가이드를 위한 가이드를 만들었다.
+academy.DEinfotab.desc=드라코닉 에볼루션 정보 태블릿 만들기
+academy.DEinfotab.text=드라코닉 에볼루션 정보 태블릿은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
 academy.autobreaker.desc=Make an Auto-Breaker
 academy.autobreaker.text1=The Auto-Breaker automatically breaks the block it is facing, inserting the drops into its internal inventory.
