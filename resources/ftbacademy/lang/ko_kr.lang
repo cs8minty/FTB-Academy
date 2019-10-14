@@ -822,16 +822,16 @@ academy.fluxducts2.desc=Make Hardened Fluxducts
 academy.fluxducts2.text1=Hardened Fluxducts can transfer 4,000 RF/t per connection.
 academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
 
-academy.basicenergytess.title=Worse Than Pipes
-academy.basicenergytess.desc=Make Basic Energy Tesslocators
-academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
-academy.basicenergytess.text2=Basic Energy Tesslocators can transfer 2048 RF/t, and can store up to 32,000 RF.
+academy.basicenergytess.title=파이프 보다 안좋은
+academy.basicenergytess.desc=기본 에너지 테슬로케이터 만들기
+academy.basicenergytess.text1=기본 에너지 테슬로케이터는 한 블록의 거리로 RF를 이동시킬 수 있게 해줍니다. 에너지를 이동할 모든 블록의 동일한 블록 공간에 테슬로케이터를 배치한 다음 우클릭하여 입력과 출력을 전환하세요.
+academy.basicenergytess.text2=기본 에너지 테슬로케이터는 2,048 RF/t를 전송할 수 있으며, 최대 32,000 RF를 저장할 수 있습니다.
 
-academy.advenergytess.title=Way Better Than Pipes
-academy.advenergytess.desc=Make Advanced Energy Tesslocators
-academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
-academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
-academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
+academy.advenergytess.title=파이프 보다 나은
+academy.advenergytess.desc=고급 에너지 테슬로케이터 만들기
+academy.advenergytess.text1=고급 에너지 테슬로케이터는 같은 블록 공간에 있을 필요가 없다는 점을 제외하면 기본 테슬로케이터처럼 작동합니다. 이것은 무선으로 어떤 거리나, 차원 사이에서도 전송할 수 있게 해줍니다.
+academy.advenergytess.text2=고급 에너지 테슬로케이터 각각의 손에 염료를 쥐고 테슬로케이터를 우클릭하는 방식으로 설정할 수 있습니다. 입력 모드와 출력 모드를 전환하려면 테슬로케이터에서 빈 손으로 쉬프트를 누른 상태로 우클릭 하세요.
+academy.advenergytess.text3=고급 에너지 테슬로케이터는 40,000,000 RF를 저장할 수 있으며, 틱당 동일한 양을 이동시킬 수 있습니다.
 
 academy.plasticmaking.title=Flubber
 academy.plasticmaking.desc=Make some Plastic
