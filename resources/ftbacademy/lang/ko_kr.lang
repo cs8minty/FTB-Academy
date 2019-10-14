@@ -1215,42 +1215,42 @@ academy.draconicreactor.text1=The Draconic is the single most dangerous block in
 academy.draconicreactor.text2=It is very complicated to run. Definitely too complicated to explain here, so read the Draconic Evolution Information Tablet to see more information.
 
 # Botania
-academy.lexica.title=Reading Rainbow
-academy.lexica.desc=Craft the Lexica Botania
-academy.lexica.text=The Lexica Botania is a really good guide for Botania. When you open it for the first time you have the option to go through a tutorial. We recommend going through that and using these quests to supplement it.
-academy.lexica.text2=When the Lexica Botania is in your hotbar, you can hold control while hovering over items from Botania in your inventory to see the page on that item.
+academy.lexica.title=무지개 읽기
+academy.lexica.desc=렉시카 보타니아 만들기
+academy.lexica.text=렉시카 보타니아는 보타니아의 정말 좋은 안내서입니다. 처음 열 때 튜토리얼을 수행할 수 있는 옵션이 있습니다. 튜토리얼을 진행하고 그것을 보충하기 위해 이 퀘스트를 이용할 것을 권고합니다.
+academy.lexica.text2=렉시카 보타니아가 당신의 퀵슬롯에 있을 때, 컨트롤 키를 누른채 아이템위에 올리면 해당 아이템의 페이지를 볼 수 있습니다.
 
-academy.apothecary.title=Bird Bath
-academy.apothecary.desc=Make a Petal Apothecary
-academy.apothecary.text1=The Petal Apothecary is used to make magical flowers. Fill it with water, throw in Mystical Petals as dictated by the recipe, then throw in seeds to complete it.
-academy.apothecary.text2=You can plant Mystical Petals in the ground and grow them with Bone Meal to make Tall Mystical Flowers that can be harvested with Shears. This lets you farm Mystical Petals.
+academy.apothecary.title=새들의 욕조
+academy.apothecary.desc=꽃잎 연금술기 만들기
+academy.apothecary.text1=꽃잎 연금술기는 마법의 꽃을 만드는데 사용됩니다. 연금술기에 물을 채우고, 레시피를 따라 신비로운 꽃잎을 넣은 다음, 씨앗을 넣어 완성합니다.
+academy.apothecary.text2=신비로운 꽃잎을 땅에 심고 뼛가루를 뿌리면 가위로 수확할 수 있는 키 큰 신비로운 꽃을 만들 수 있습니다. 이것으로 신비로운 꽃잎을 수확할 수 있습니다.
 
-academy.pouch.desc=Make a Flower Pouch
-academy.pouch.text=The Flower Pouch will store up to a stack of each Mystical Flower. When one is picked up, it will automatically be stored in the Flower Pouch if there is room.
+academy.pouch.desc=꽃 주머니 만들기
+academy.pouch.text=꽃 주머니는 각 신비로운 꽃을 한 뭉치까지 저장합니다. 꽃을 획득하였을 때, 공간이 있다면 자동적으로 꽃 주머니에 보관됩니다.
 
-academy.forestwand.title=Nature Magic
-academy.forestwand.desc=Make a Wand of the Forest
-academy.forestwand.text=The Wand of the Forest is a bit of an all-in-one tool for Botania. It allows you to activate and manipulate certain blocks in the mod.
+academy.forestwand.title=자연의 마법
+academy.forestwand.desc=숲의 지팡이 만들기
+academy.forestwand.text=숲의 지팡이는 보타니아에게 있어 약간의 올인원 도구입니다. 이것은 모드의 특정 블록을 활성화하고 조작할 수 있게 해줍니다.
 
-academy.daisy.title=Purification in Progress
-academy.daisy.desc=Make a Pure Daisy
-academy.daisy.text1=The Pure Daisy is a very important flower. It will convert Stone and Wood into Livingrock and Livingwood if they are within a 3x3 area surrounding it.
-academy.daisy.text2=Livingrock and Livingwood are used extremely often, so it would be a good idea to find a way to automate this.
+academy.daisy.title=정화 진행 중
+academy.daisy.desc=정화의 데이지 만들기
+academy.daisy.text1=정화의 데이지는 매우 중요한 꽃입니다. 돌과 나무가 꽃 주변의 3x3 영역 내에 있으면 생명의 돌과 생명의 나무로 변환됩니다.
+academy.daisy.text2=생명의 돌과 생명의 나무는 매우 자주 사용되므로 이것을 자동화할 방법을 찾는 것이 좋을 것입니다.
 
-academy.mana.title=Mana Jacuzzi
-academy.mana.desc=Make a Mana Pool and Mana Spreader
-academy.mana.text1=The Mana Pool is used to store Mana created by flowers. You can bind other flowers to it so they can use the Mana it holds.
-academy.mana.text2=Place the Mana Spreader next to a source of Mana, like a Mana Pool, and point it at something else that can accept Mana using a Wand of the Forest. It will start to shoot Mana Bursts in that direction, emptying the Mana source.
-academy.mana.text3=You can also throw things into the Mana Pool to change them, either transmuting or charging them.
+academy.mana.title=마나 욕조
+academy.mana.desc=마나 웅덩이와 마나 공급기 만들기
+academy.mana.text1=마나 웅덩이는 꽃에 의해 생성된 마나를 저장하는 데 사용됩니다. 다른 꽃들을 여기에 묶어서 꽃들이 가지고 있는 마나를 사용할 수 있습니다.
+academy.mana.text2=마나 공급기는 마나 웅덩이처럼 마나의 원천 옆에 놓고 숲의 지팡이를 이용해 마나를 받아들일 곳을 가리키돌독 합니다. 이것은 마나의 원천을 비우면서 해당 방향으로 마나 빔을 쏘기 시작할 것 입니다.
+academy.mana.text3=또한 물건들을 변화시키기 위해 마나 웅덩이에 던질 수도 있습니다. 어떤 아이템은 충전을 할 수도 있습니다.
 
-academy.manaitems.title=Just Stick "Mana" in Front of It!
-academy.manaitems.desc=Make Manasteel, a Mana Pearl, and a Mana Diamond
-academy.manaitems.text=Manasteel, Mana Diamonds, and Mana Pearls are used in a lot of crafting recipes.
+academy.manaitems.title=그냥 "마나"를 앞에 붙여!
+academy.manaitems.desc=마나합금, 마나 진주 그리고 마나 다이아몬드 만들기
+academy.manaitems.text=마나합금, 마나 다이아몬드, 마나 진주는 보타니아의 제작 레시피에 많이 사용됩니다.
 
-academy.manatablet.title=Mana Battery
-academy.manatablet.desc=Make a Mana Tablet
-academy.manatablet.text1=The Mana Tablet can be used to carry around Mana without a Mana Spreader, and also fuels any items in your inventory that need Mana.
-academy.manatablet.text2=To charge or discharge a Mana Tablet, throw it on a Mana Pool. Activate the Pool with a Wand of the Forest to switch between emptying and filling.
+academy.manatablet.title=마나 배터리
+academy.manatablet.desc=마나 타블렛 만들기
+academy.manatablet.text1=마나 타블렛은 마나 공급기 없이 마나를 운반하는 데 사용할 수 있으며, 마나가 필요한 아이템에 마나를 공급하기도 합니다.
+academy.manatablet.text2=마나 타블렛을 충전하거나 비우려면 마나 웅덩이에 던집니다. 숲의 지팡이로 웅덩이를 채우는 것과 비우는 것을 전환할 수 있습니다.
 
 academy.halo.title=Manafactory Halo
 academy.halo.desc=Make a Manufacturing Halo
@@ -1652,10 +1652,10 @@ academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
 academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
 academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
 
-academy.elevator.title=Going Up
-academy.elevator.desc=Make an Elevator
-academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
-academy.elevator.task=Any Elevator
+academy.elevator.title=올라가
+academy.elevator.desc=엘리베이터 만들기
+academy.elevator.text=엘리베이터에서 점프를 하면, 위의 엘리베이터로 순간이동 됩니다. 마찬가지로 엘리베이터를 쉬프트를 누르면 아래에 있는 엘리베이터로 순간이동 됩니다. 색상은 중요하지 않습니다.
+academy.elevator.task=엘리베이터
 
 academy.exchanging.title=This to That
 academy.exchanging.desc=Make an Exchanging Gadget
@@ -1688,14 +1688,14 @@ academy.craftingtableonastick.title=제작대 + 막대기 = ?
 academy.craftingtableonastick.desc=제작막대 만들기
 academy.craftingtableonastick.text=제작막대는 이름과 정확히 같아 보입니다. 3x3 제작 메뉴를 열려면 우클릭하세요.
 
-academy.tinytorch.title=Light of my Life
-academy.tinytorch.desc=Make a Tiny Torch
-academy.tinytorch.text=The Tiny Torch is a cheaper alternative to the regular Torch. However, it only has a light level of 12 compared to the Torch's 14.
+academy.tinytorch.title=내 삶의 빛
+academy.tinytorch.desc=작은 횃불 만들기
+academy.tinytorch.text=작은 횃불은 일반 횃불보다 더 저렴한 대체제입니다. 그러나 밝기 수준이 횃불의 14와 비교하면 12 밖에 되지 않습니다.
 
-academy.foodxl.title=Variety is the Spice of Life
-academy.foodxl.desc=Get something from XL Food Mod
-academy.foodxl.text=XL Food Mod adds a huge variety of food items. Everything from Cheeseburgers to Spaghetti!
-academy.foodxl.task=Anything from XL Food Mod
+academy.foodxl.title=변화가 인생을 즐겁게 한다.
+academy.foodxl.desc=XL Food 모드의 아이템 얻기
+academy.foodxl.text=XL Food 모드는 매우 다양한 음식 아이템들을 추가합니다. 치즈버거부터 스파게티까지 다양하게!
+academy.foodxl.task=XL Food 모드의 아무 음식
 
 academy.mobgrindingutils.title=Mobs Made Easy
 academy.mobgrindingutils.desc=Make a Mob Masher and Fan
