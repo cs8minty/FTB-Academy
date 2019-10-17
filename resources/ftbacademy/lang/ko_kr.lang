@@ -6,9 +6,9 @@ academy.building.title=건축
 academy.basics.title=기본
 
 academy.mainmagic.title=마법
-academy.botania.title=Botania
-academy.twilightforest.title=Twilight Forest
-academy.astralsorcery.title=Astral Sorcery
+academy.botania.title=보타니아
+academy.twilightforest.title=황혼의 숲
+academy.astralsorcery.title=아스트랄 소서리
 
 academy.mainstorage.title=스토리지
 academy.storage1.title=기본 스토리지
@@ -28,21 +28,21 @@ academy.clickthis.task=클릭하기
 
 
 #Reward Tables
-academy.ticonmodifiers.rewards=팅커스 수식어
+academy.ticonmodifiers.rewards=팅커 수식어
 academy.ticonmodifiers.lapisreward=행운 수식어
 academy.ticonmodifiers.redstonereward=신속 수식어
 
-academy.ores.rewards=Ores
-academy.mysticalpetals.rewards=Mystical Petals
+academy.ores.rewards=광물
+academy.mysticalpetals.rewards=신비로운 꽃잎
 academy.mobmasher.rewards=Mob Masher Modifiers
-academy.manamats.rewards=Mana Materials
-academy.elfmats.rewards=Elven Materials
-academy.ingots.rewards=Ingots
+academy.manamats.rewards=마나 재료
+academy.elfmats.rewards=엘프 재료
+academy.ingots.rewards=주괴
 academy.scepters.rewards=Scepters
 academy.TFfirethings.rewards=Fire Thingies
-academy.fluiducts.rewards=Fluiducts
-academy.itemducts.rewards=Itemducts
-academy.iflenses.rewards=Laser Lenses
+academy.fluiducts.rewards=플루이드덕트
+academy.itemducts.rewards=아이템덕트
+academy.iflenses.rewards=레이저 렌즈
 academy.passivemobs.rewards=Passive Mobs
 academy.impulseitemducts.rewards=Impulse Itemducts
 academy.signalumitemducts.rewards=Signalum-Plated Itemducts
@@ -50,64 +50,64 @@ academy.signalumimpulse.rewards=Signalum-Plated Impulse Itemducts
 academy.hardenedfluiducts.rewards=Hardened Fluiducts
 academy.signalumfluiducts.rewards=Signalum-Plated Fluiducts
 academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
-academy.elevators.rewards=Elevators
-academy.meats.rewards=Meats
-academy.rangeaddons.rewards=Range Addons
+academy.elevators.rewards=엘리베이터
+academy.meats.rewards=고기
+academy.rangeaddons.rewards=범위 애드온
 academy.drillaugments.rewards=Drill Augments
 
-academy.swordenchants1.rewards=Sword Enchants 1
-academy.looting1.reward=Looting II
-academy.sharpness1.reward=Sharpness III
-academy.reaper1.reward=Reaper II
+academy.swordenchants1.rewards=검 인첸트1
+academy.looting1.reward=약탈 II
+academy.sharpness1.reward=날카로움 III
+academy.reaper1.reward=수확 II
 
-academy.swordenchants2.rewards=Sword Enchants 2
-academy.looting2.reward=Looting IV
-academy.sharpness2.reward=Sharpness VI
-academy.reaper2.reward=Reaper V
+academy.swordenchants2.rewards=검 인챈트 2
+academy.looting2.reward=약탈 IV
+academy.sharpness2.reward=날카로움 VI
+academy.reaper2.reward=수확 V
 
-academy.bowenchants1.rewards=Bow Enchants 1
-academy.power1.reward=Power III
-academy.punch1.reward=Punch I
+academy.bowenchants1.rewards=활 인챈트 1
+academy.power1.reward=힘 III
+academy.punch1.reward=밀어내기 I
 
-academy.bowenchants2.rewards=Bow Enchants 2
-academy.power2.reward=Power VI
-academy.punch2.reward=Punch III
+academy.bowenchants2.rewards=활 인챈트 2
+academy.power2.reward=힘 VI
+academy.punch2.reward=밀어내기 III
 
-academy.helmenchants.rewards=Helmet Enchants
-academy.chestenchants.rewards=Chestplate Enchants
-academy.legenchants.rewards=Legging Enchants
-academy.bootenchants.rewards=Boot Enchants
+academy.helmenchants.rewards=투구 인챈트
+academy.chestenchants.rewards=갑옷 인챈트
+academy.legenchants.rewards=바지 인챈트
+academy.bootenchants.rewards=신발 인챈트
 
-academy.depthstr1.reward=Depth Strider II
-academy.feathfall1.reward=Feather Falling IV
-academy.frostwalk1.reward=Frost Walker
+academy.depthstr1.reward=물갈퀴 II
+academy.feathfall1.reward=가벼운 착지 IV
+academy.frostwalk1.reward=차가운 발걸음
 
-academy.aquaaffin1.reward=Aqua Affinity
-academy.resp1.reward=Respiration II
+academy.aquaaffin1.reward=친수성
+academy.resp1.reward=호흡 II
 
-academy.prot1.reward=Protection II
-academy.fireprot1.reward=Fire Protection III
-academy.blastprot1.reward=Blast Protection III
-academy.projprot1.reward=Projectile Protection III
-academy.thorns1.reward=Thorns II
+academy.prot1.reward=보호 II
+academy.fireprot1.reward=화염으로부터 보호n III
+academy.blastprot1.reward=폭발으로부터 보호 III
+academy.projprot1.reward=투사체로부터 보호 III
+academy.thorns1.reward=가시 II
 
-academy.prot2.reward=Protection IV
-academy.fireprot2.reward=Fire Protection V
-academy.blastprot2.reward=Blast Protection V
-academy.projprot2.reward=Projectile Protection V
-academy.thorns2.reward=Thorns IV
+academy.prot2.reward=보호 IV
+academy.fireprot2.reward=화염으로부터 보호 V
+academy.blastprot2.reward=폭발으로부터 보호 V
+academy.projprot2.reward=투사체로부터 보호 V
+academy.thorns2.reward=가시 IV
 
-academy.depthstr2.reward=Depth Strider IV
-academy.frostwalk2.reward=Frost Walker III
+academy.depthstr2.reward=물갈퀴 IV
+academy.frostwalk2.reward=차가운 발걸음 III
 
-academy.brightconstellations.rewards=Bright Constellations
+academy.brightconstellations.rewards=밝은 별자리
 academy.discidia.reward=Discidia
 academy.armara.reward=Armara
 academy.vicio.reward=Vicio
 academy.aevitas.reward=Aevitas
 academy.evorsio.reward=Evorsio
 
-academy.dimconstellations.rewards=Dim Constellations
+academy.dimconstellations.rewards=어둑한 별자리
 academy.bootes.reward=Bootes
 academy.fornax.reward=Fornax
 academy.horologium.reward=Horologium
@@ -116,20 +116,20 @@ academy.mineralis.reward=Mineralis
 academy.octans.reward=Octans
 academy.pelotrio.reward=Pelotrio
 
-academy.faintconstellations.rewards=Faint Constellations
+academy.faintconstellations.rewards=희미한 별자리
 academy.alcara.reward=Alcara
 academy.gelu.reward=Gelu
 academy.ulteria.reward=Ulteria
 academy.vorux.reward=Vorux
 
-academy.coloredlenses.rewards=Colored Lenses
-academy.orangelens.reward=Ignition
-academy.yellowlens.reward=Break
-academy.greenlens.reward=Growth
-academy.redlens.reward=Damage
-academy.pinklens.reward=Regeneration
-academy.bluelens.reward=Push
-academy.purplelens.reward=Spectral
+academy.coloredlenses.rewards=컬러 렌즈
+academy.orangelens.reward=점화
+academy.yellowlens.reward=파괴
+academy.greenlens.reward=성장
+academy.redlens.reward=데미지
+academy.pinklens.reward=재생
+academy.bluelens.reward=밀쳐내기
+academy.purplelens.reward=스펙트럼
 
 
 #Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
@@ -191,15 +191,15 @@ academy.introdigitalstorage.task2=제작 그리드 열기
 academy.introfluidstorage.title=액체 스토리지
 academy.introfluidstorage.desc=물 양동이 비우기
 academy.introfluidstorage.text1=아이템을 저장하는 방법이 있듯이, 액체를 저장하는 방법이 있다.
-academy.introfluidstorage.text2=액체를 저장하는 블럭은 보통 이름에 탱크(Tank)라는 단어가 들어가 있기 떄문에 JEI에서 "탱크(Tank)"를 검색하기만 하면 모두 찾을 수 있다.
+academy.introfluidstorage.text2=액체를 저장하는 블럭은 보통 이름에 탱크라는 단어가 들어가 있기 떄문에 JEI에서 "탱크(Tank)"를 검색하기만 하면 모두 찾을 수 있다.
 academy.introfluidstorage.text3=휴대용 탱크는 더 많은 액체를 저장할 수 있는 여러 개의 티어를 가지고 있다.
 academy.introfluidstorage.text4=왼쪽의 휴대용 탱크에 우클릭하여 약간의 물을 꺼낸 다음, 오른쪽의 탱크에 물을 채우려면 우클릭 하세요.
 
 academy.introautomation.title=자동화 소개
 academy.introautomation.desc=자동화에 대해 배우기
 academy.introautomation.text1=단순히 아이템과 액체를 저장하는 것만으로는 충분하지 않다. 적절히 자동화 하여 그것들을 자동으로 옮겨야 한다.
-academy.introautomation.text2=물건을 움직이는 가장 간단한 방법은 덕트(Ducts)다. 아이템은 아이템덕트를 통해 이동되고 액체는 액체덕트를 통해 이동된다.
-academy.introautomation.text3=서보(Servo)는 블럭으로부터 가져올 때 사용되며, 아이템/액체는 자동으로 그것과 가까운 블럭에 저장된다.
+academy.introautomation.text2=물건을 움직이는 가장 간단한 방법은 덕트다. 아이템은 아이템덕트를 통해 이동되고 액체는 플루이드덕트를 통해 이동된다.
+academy.introautomation.text3=서보는 블럭으로부터 가져올 때 사용되며, 아이템/액체는 자동으로 그것과 가까운 블럭에 저장된다.
 academy.introautomation.task=자동화 룸에 입장하기
 
 academy.introfilters.title=필터링
@@ -216,7 +216,7 @@ academy.introfilters.task3=광물 필터 설정하기
 
 academy.introfluidtransfer.title=액체 수송
 academy.introfluidtransfer.desc=물 옮기기
-academy.introfluidtransfer.text1=아이템덕트가 아이템을 이동시키는 것과 같이, 액체덕트는 액체를 이동시킨다.
+academy.introfluidtransfer.text1=아이템덕트가 아이템을 이동시키는 것과 같이, 플루이드덕트는 액체를 이동시킨다.
 academy.introfluidtransfer.text2=휴대용 탱크는 자동으로 블럭의 아래로 출력되도록 설정할 수 있다. 크레센트 해머(Crescent Hammer)를 휴대용 탱크 상단부에 사용하여, 물을 탱크아래로 이동시키게 만드세요.
 academy.introfluidtransfer.text3=서보를 열어 오른쪽의 레드스톤 버튼을 눌러 레드스톤 신호가 없을 때 작동하도록 설장할 수 있다. 이 작업을 수행한 후 서보를 레드스톤 무시 또는 Low로 설정하세요.
 
@@ -258,15 +258,15 @@ academy.introtechlast.title=에너지와 제련
 academy.introtechlast.desc=몇 개의 철 광석 제련하기
 academy.introtechlast.text=광물 상자에서 몇 개의 철 광석을 꺼내 레드스톤 화로에서 제련하세요.
 
-academy.introastralsorcery.title=Astral Sorcery 소개
-academy.introastralsorcery.desc=Astral Sorcery 알아보기
-academy.introastralsorcery.text=Astral Sorcery는 별빛과 별자리들의 힘을 이용하는 것에 초점을 맞춘 마법 모드이다.
-academy.introastralsorcery.task=Astral Sorcery 구역 입장하기
+academy.introastralsorcery.title=아스트랄 소서리 소개
+academy.introastralsorcery.desc=아스트랄 소서리 알아보기
+academy.introastralsorcery.text=아스트랄 소서리는 별빛과 별자리들의 힘을 이용하는 것에 초점을 맞춘 마법 모드이다.
+academy.introastralsorcery.task=아스트랄 소서리 구역 입장하기
 
 academy.introstarlight.title=별빛 사용
 academy.introstarlight.desc=공명의 완드 만들기
 academy.introstarlight.text1=이 모드의 많은 레시피들은 아이템 외에 별빛도 필요로 한다. 지금 막 시작할 때 별빛을 사용하는 유일한 방법은 플로팅 크리스탈 근처에 일반 제작대를 놓는 것이다.
-academy.introstarlight.text2=공명의 완드는 Astral Sorcery 블럭을 작동시키는 데 사용된다. 그것을 든채 오버월드를 뛰어다니면 지하에 생성되는 락 크리스탈 광물의 위치도 볼 수 있다.
+academy.introstarlight.text2=공명의 완드는 아스트랄 소서리 블럭을 작동시키는 데 사용된다. 그것을 든채 오버월드를 뛰어다니면 지하에 생성되는 락 크리스탈 광물의 위치도 볼 수 있다.
 academy.introstarlight.text3=플로팅 크리스탈 근처의 양털 블럭에 제작대를 놓고 공명의 완드를 제작하세요. 공명의 완드의 레시피는 JEI에서 검색하거나 이 메뉴의 과제 섹션에서 공명의 완드를 클릭하여 볼 수 있다.
 
 academy.introlct.title=별빛 수집
@@ -281,11 +281,11 @@ academy.introilumpowder.text1=조명 가루는 별빛으로 만들 수 있는 �
 academy.introilumpowder.text2=루미너스 제작대를 석영 블럭 위에 놓고 레시피에 따라 조명 가루를 제작하세요.
 academy.introilumpowder.text3=다시 한번 상기시켜드리자면, 공명의 완드를 들고 제작대를 우클릭하여 만들어야 한다.
 
-academy.introbotania.title=Botania 소개
-academy.introbotania.desc=Botania에 대해 알아보기
-academy.introbotania.text1=Botania는 마법 모드로 위장한 기술 모드이다.
+academy.introbotania.title=보타니아 소개
+academy.introbotania.desc=보타니아에 대해 알아보기
+academy.introbotania.text1=보타니아는 마법 모드로 위장한 기술 모드이다.
 academy.introbotania.text2=당신은 꽃을 이용해서 마나를 생산하고 조작할 것이다. 마나는 다양한 일을 하는데 사용될 수 있다.
-academy.introbotania.task=Botania 구역에 들어가기
+academy.introbotania.task=보타니아 구역에 들어가기
 
 academy.intromanagen.title=마나 생산
 academy.intromanagen.desc=불먹이 꽃 만들기
@@ -339,15 +339,15 @@ academy.smeltery.text1=제련소는 금속 도구 부품, 블록, 주괴, 그리
 academy.smeltery.text2=이 블록들은 9개의 내부 블록을 가진 제련소를 만들기 위해 필요합니다. 과제를 완료하려면 18개의 그을린 벽돌과 제련소 부속 부품을 인벤토리에 가지고 있어야 합니다.
 
 academy.pickaxe.title=광부의 시간
-academy.pickaxe.desc=팅커스 컨스트럭트의 곡괭이 만들기
-academy.pickaxe.text1=팅커스 컨스트럭트의 곡괭이는 초반에 만드는 것이 가장 좋다. 왜냐하면 그것들을 사용할수록 더 많은 수식어를 사용할 수 있는 경험치를 얻기 떄문이다.
-academy.pickaxe.text2=팅커스 컨스트럭트 곡괭이를 만드려면 어떤 재료로든 곡괭이 머리, 도구 막대, 그리고 조임쇠를 만들고 (어떻게 하는지 보려면 가이드를 읽어보세요) 도구 조립대에서 결합하세요.
+academy.pickaxe.desc=팅커 곡괭이 만들기
+academy.pickaxe.text1=팅커 곡괭이는 초반에 만드는 것이 가장 좋다. 왜냐하면 그것들을 사용할수록 더 많은 수식어를 사용할 수 있는 경험치를 얻기 떄문이다.
+academy.pickaxe.text2=팅커 곡괭이를 만드려면 어떤 재료로든 곡괭이 머리, 도구 막대, 그리고 조임쇠를 만들고 (어떻게 하는지 보려면 가이드를 읽어보세요) 도구 조립대에서 결합하세요.
 academy.pickaxe.text3=이 퀘스트는 어떤 부품을 사용해도 완료로 인정합니다.
 academy.pickaxe.task=팅커의 곡괭이 만들기
 
 academy.toolforge.title=도구 나아가기
 academy.toolforge.desc=도구 조립소 만들기
-academy.toolforge.text1=도구 조립소는 모든 팅커스 도구를 만들 수 있습니다.
+academy.toolforge.text1=도구 조립소는 모든 팅커 도구를 만들 수 있습니다.
 academy.toolforge.text2=이 퀘스트는 도구 조립소를 어떤 재료로 만들어도 완료될 것 입니다.
 academy.toolforge.task=아무 도구 조립소
 
@@ -1276,7 +1276,7 @@ academy.soujourner.title=Beauty Queen on Tour
 academy.soujourner.desc=Make a Soujourner's Sash
 academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
 
-academy.lens.title=마나 글래스
+academy.lens.title=마나 안경
 academy.lens.desc=마나 렌즈 만들기
 academy.lens.text=마나 렌즈는 마나 공급기에 적용되며 작동 방식을 바꿉니다. 이것은 마나 버스트를 더 빨리 만들거나, 더 많은 마나를 보유하거나, 그것이 한 블록에 부딪혔을 때 폭발하도록 만들 수 있습니다.
 
@@ -1853,8 +1853,8 @@ academy.overlay.tech.11=자홍색 양털에 납 플럭스덕트를 설치하세�
 academy.overlay.tech.12=청금석 블록에 레드스톤 화로를 설치하세요
 academy.overlay.tech.13=광물 상자에서 철광석 4개를 가져와서 레드스톤 화로에서 제련하세요
 
-academy.overlay.as.title=Astral Sorcery
-academy.overlay.as.1=Astral Sorcery 구역으로 가기
+academy.overlay.as.title=아스트랄 소서리
+academy.overlay.as.1=아스트랄 소서리 구역으로 가기
 academy.overlay.as.2=상자에서 아이템을 꺼내세요
 academy.overlay.as.3=하얀색 양털 위에 제작대를 놓으세요
 academy.overlay.as.4=공명의 지팡이 제작하기 (레시피는 JEI를 참조)
@@ -1863,8 +1863,8 @@ academy.overlay.as.6=조각된 석영 블록 위에 루미너스 제작대를 �
 academy.overlay.as.7=조광 가루 몇 개 만들기 (레시피는 JEI를 참조)
 academy.overlay.as.8=공명의 지팡이로 루미너스 제작대를 우클릭하여 제작 과정을 시작하세요
 
-academy.overlay.botania.title=Botania
-academy.overlay.botania.1=Botania 구역으로 가기
+academy.overlay.botania.title=보타니아
+academy.overlay.botania.1=보타니아 구역으로 가기
 academy.overlay.botania.2=상자에서 아이템을 꺼내세요
 academy.overlay.botania.3=꽃들을 꽃잎으로 만드세요 (레시피는 JEI를 참조)
 academy.overlay.botania.4=꽃잎 연금술기를 물 양동이로 채우세요
