@@ -511,55 +511,55 @@ academy.dracchest.text=드라코늄 상자는 260개의 슬롯, 5개의 업그�
 
 # Transportation
 
-academy.hopper.title=간단하고, 우아하고, 멋지게
+academy.hopper.title=간단하고, 편하고, 멋진것
 academy.hopper.desc=호퍼 만들기
-academy.hopper.text1=호퍼는 위에 있는 블록에서 아이템을 가져와서 호퍼가 가리키는 블록의 인벤토리에 집어 넣습니다.
+academy.hopper.text1=호퍼는 위에 있는 아이템을 꺼내서, 호퍼가 가리키는 인벤토리에 집어 넣습니다.
 
-academy.basicitemtess.title=호퍼보다 좋은 것
-academy.basicitemtess.desc=Make a Basic Item Tesslocator
-academy.basicitemtess.text1=Item Tesslocators allow you to quickly move items over a distance of one block. Place Tesslocators in the same block space on all inventories you want to interact with and open its GUI to change the settings.
-academy.basicitemtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging items or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more than one stack at a time.
+academy.basicitemtess.title=호퍼보다 나은
+academy.basicitemtess.desc=기본 아이템 테슬로케이터 만들기
+academy.basicitemtess.text1=아이템 테슬로케이터는 한 블록 거리에 있는 아이템들을 빠르게 이동할 수 있게 해줍니다. 상호작용할 모든 인벤토리의 동일한 블록 공간에 테슬로케이터를 배치하고 GUI를 열어 설정을 변경하세요.
+academy.basicitemtess.text2=가운데 버튼을 사용하여 입력, 출력 및 입/출력 모드 사이를 변경할 수 있습니다. 왼쪽 슬롯은 아이템이나 아이템 필터를 끌어 입력 및 출력 필터를 설정할 수 있으며, 오른쪽 슬롯은 발광석을 추가하여 더 빨라지게 만들며, 다이아 몬드를 추가하여 한 번에 두 개 이상의 묶음이 이동되도록 할 수 있습니다.
 
-academy.basicfluidtess.title=Fluid Hopper
-academy.basicfluidtess.desc=Make a Basic Fluid Tesslocator
-academy.basicfluidtess.text1=Fluid Tesslocators allow you to quickly move fluids over a distance of one block. Place Tesslocators in the same block space on all blocks you want to interact with and open its GUI to change the settings.
-academy.basicfluidtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging filled Buckets or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more at a time.
+academy.basicfluidtess.title=액체 호퍼
+academy.basicfluidtess.desc=기본 액체 테슬로케이터 만들기
+academy.basicfluidtess.text1=액체 테슬로케이터는 한 블록의 거리에서 빠르게 액체를 옮길 수 있게 해줍니다. 상호작용할 모든 인벤토리의 동일한 블록 공간에 테슬로케이터를 배치하고 GUI를 열어 설정을 변경하세요.
+academy.basicfluidtess.text2=가운데 버튼을 사용하여 입력, 출력 및 입/출력 모드 사이를 변경할 수 있습니다. 왼쪽 슬롯은 가득찬 양동이나 아이템 필터를 끌어 입력 및 출력 필터를 설정할 수 있으며, 오른쪽 슬롯은 발광석을 추가하여 더 빨라지게 만들며, 다이아 몬드를 추가하여 한 번에 더 많이 이동되도록 할 수 있습니다.
 
-academy.itemducts.title=Latest Innovation in Moving Items
-academy.itemducts.desc=Make Itemducts
-academy.itemducts.text1=Itemducts move items along their path, in all directions. Items move through them at 1 block per second.
-academy.itemducts.text2=Opaque Itemducts work exactly the same, except you can't see items flow through them. This can help prevent lag.
-academy.itemducts.task=Itemduct
+academy.itemducts.title=아이템 이동의 혁신
+academy.itemducts.desc=아이템덕트 만들기
+academy.itemducts.text1=아이템덕트는 모든 방향으로 아이템을 이동시킵니다. 아이템은 초당 1블록씩 이동합니다.
+academy.itemducts.text2=불투명한 아이템덕트는 동일하게 작동하지만, 아이템덕트를 통해 흐르는 것을 볼 수 없습니다. 이것은 렉을 예방하는 데 도움이 될 수 있습니다.
+academy.itemducts.task=아이템덕트
 
-academy.basicfluiducts.title=Aqueduct
-academy.basicfluiducts.desc=Make Basic Fluiducts
-academy.basicfluiducts.text1=Fluiducts are used to transfer fluids. Basic Fluiducts can only transfer fluids that aren't extremely temperate, like Lava or Gelid Cryotheum.
-academy.basicfluiducts.text2=Opaque Fluiducts work exactly the same, except you can't see Fluids flow through them. This can help prevent lag.
-academy.basicfluiducts.task=Fluiduct
+academy.basicfluiducts.title=액체덕트
+academy.basicfluiducts.desc=액체덕트 만들기
+academy.basicfluiducts.text1=액체덕트는 액체를 전달하는 데 사용됩니다. 기본 액체덕트는 용암이나 크리오시움처럼 온도가 극심하지 않은 액체만 옮길 수 있습니다.
+academy.basicfluiducts.text2=불투명한 액체덕트는 정확히 동일하게 작동하지만, 액체가 액체덕트를 통해 흐르는 것을 볼 수 없습니다. 이것은 렉을 예방하는 데 도움이 될 수 있습니다.
+academy.basicfluiducts.task=액체덕트
 
-academy.hardenedfluiducts.title=Lavaduct
-academy.hardenedfluiducts.desc=Make Hardened Fluiducts
-academy.hardenedfluiducts.text=Hardened Fluiducts can transfer any fluid.
-academy.hardenedfluiducts.task=Hardened Fluiduct
+academy.hardenedfluiducts.title=라바덕트
+academy.hardenedfluiducts.desc=경화 액체덕트 만들기
+academy.hardenedfluiducts.text=경화 액체덕트는 모든 액체를 옮길 수 있습니다.
+academy.hardenedfluiducts.task=경화 액체덕트
 
-academy.servo.title=Make it Work
-academy.servo.desc=Make a Servo
-academy.servo.text1=A Servo is used to extract items or fluids from an inventory or tank and move them to Itemducts or Fluiducts. Place the Servo on the connection and provide it with a Redstone signal (or set it to not need Redstone) and it will begin to extract items/fluids.
-academy.servo.text2=Items only extract if there is somewhere for them to go, but fluids will be extracted regardless.
-academy.servo.text3=Items will try to go to the nearest inventory it can enter, while fluids will just fill anything it can.
-academy.servo.task=Any Servo
+academy.servo.title=작업 시작하기
+academy.servo.desc=서보 만들기
+academy.servo.text1=서보는 인벤토리나 탱크에서 아이템이나 액체를 추출하여 덕트로 옮기는 데 사용됩니다. 서보를 연결부에 놓고 레드스톤 신호를 제공(또는 신호 무시 설정)하면 아이템/액체 추출이 시작됩니다.
+academy.servo.text2=아이템은 갈 곳이 있을 때만 추출되지만, 액체는 그것과 무관하게 추출됩니다.
+academy.servo.text3=아이템은 들어갈 수 있는 가장 가까운 인벤토리로 들어가려고 하는 반면, 액체는 가능한 모든 것을 채울 것입니다.
+academy.servo.task=모든 서보
 
 academy.signalumfluiduct.title=Electrolyte Rich
 academy.signalumfluiduct.desc=Make a Signalum-Plated Fluiduct
 academy.signalumfluiduct.text=Signalum-Plated Fluiducts work just like Hardened Fluiducts, except they can also transfer 4,000 RF/t per connection.
 academy.signalumfluiduct.task=Signalum-Plated Fluiduct
 
-academy.laminar.title=Under Pressure
-academy.laminar.desc=Make a Super-Laminar Fluiduct
-academy.laminar.text1=Super-Laminar Fluiducts can transfer at hundreds of buckets per second when fully pressurized.
-academy.laminar.text2=It takes a couple seconds to pressureize, during which the transfer rate speeds up.
-academy.laminar.text3=They work best when fluid is being pushed into it by the source rather than being pulled out with a Servo.
-academy.laminar.task=Super-Laminar Fluiduct
+academy.laminar.title=압력 아래에
+academy.laminar.desc=초증류 액체덕트 만들기
+academy.laminar.text1=초증류 액체덕트는 완전히 압력이 차게되면 초당 수백개의 양동이를 옮길 수 있습니다.
+academy.laminar.text2=압력을 가하는 데 몇 초가 걸리는데, 그 동안 전송 속도가 빨라집니다.
+academy.laminar.text3=이것은 서보로 뽑아내기 보다는 액체가 액체 원천에 의해 밀려날 때 가장 잘 작용합니다.
+academy.laminar.task=초증류 액체덕트
 
 academy.signalumitemduct.title=Item Energyducts
 academy.signalumitemduct.desc=Make Signalum-Plated Itemducts
@@ -650,60 +650,60 @@ academy.phantomblocks.text1=Phantom Energyfaces and Liquidfaces work exactly lik
 academy.phantomblocks.text2=Phantom Redstonefaces only work in one direction. That is, if the connected block has a Redstone signal, it will power the Phantom Redstoneface.
 academy.phantomblocks.task=Advanced Phantomface blocks
 
-academy.xpteleporter.desc=Make an XPTeleporter
-academy.xpteleporter.text1=Place down two XPTeleporters and link them with an XPT Link Card by right clicking it on both of them. Sneaking on one will teleport you to the other.
-academy.xpteleporter.text2=The further away the two XPTeleporters are, the more XP it costs.
-academy.xpteleporter.text3=Teleporters will display the coordinates of the linked teleporter above them. If you rename the XPTeleporter in an Anvil, it will display that instead.
+academy.xpteleporter.desc=XP 텔레포터 만들기
+academy.xpteleporter.text1=XP 텔레포터 두개를 내려놓고 두 개 모두에 우클릭 하여 XP 링크 카드와 연결하세요. 한쪽에서 쉬프트를 누르면 다른 쪽으로 텔레포트가 됩니다.
+academy.xpteleporter.text2=두 XP 텔레포터가 멀리 떨어져 있을수록 더 많은 경험치가 소모됩니다.
+academy.xpteleporter.text3=텔레포터는 위에 링크된 텔레포터의 좌표를 표시합니다. 모루에서 XP 텔레포터의 이름을 바꾸면 대신 바꾼 이름이 표시됩니다.
 
 
 # Refined Storage - Beginner
 
-academy.controller.title=Think Tank
-academy.controller.desc=Make a Controller
-academy.controller.text1=The Controller is the heart and brain of a Refined Storage system.
-academy.controller.text2=Every block in the system must be connected to the Controller in some way, either with Cables or just touching it directly.
-academy.controller.text3=The Refined Storage system is powered using RF by piping it into the Controller.
-academy.controller.text4=You can only have one Controller per system.
+academy.controller.title=두뇌 집단
+academy.controller.desc=컨트롤러 만들기
+academy.controller.text1=컨트롤러는 Refined Storage 시스템의 두뇌와 심장입니다.
+academy.controller.text2=해당 시스템의 모든 블록은 어떤 방법으로든 케이블 또는 직접 컨트롤러에 연결되어야 합니다.
+academy.controller.text3=Refined Storage 시스템은 RF를 사용하여 컨트롤러에 파이프를 통해 전력을 공급합니다.
+academy.controller.text4=시스템 당 하나의 컨트롤러만 존재할 수 있습니다.
 
-academy.diskdrive.desc=Make a Disk Drive
-academy.diskdrive.text=Disk Drives store Storage Disks, which store items. You can have up to 10 Storage Disks in the Disk Drive.
+academy.diskdrive.desc=디스크 드라이브 만들기
+academy.diskdrive.text=디스크 드라이브는 아이템을 저장하는 저장 디스크를 수납합니다. 한 디스크 드라이브 당 최대 10개의 저장 디스크를 사용할 수 있습니다.
 
-academy.storagedisk.title=Don't Copy That Floppy
-academy.storagedisk.desc=Make a Storage Disk
-academy.storagedisk.text1=Storage Disks digitally store more items. Higher tiers store more items.
-academy.storagedisk.text2=The 1k Storage Disk can hold 1,000 items, the 4K Storage Disk can hold 4,000 items, and so on.
-academy.storagedisk.task=Any Storage Disk
+academy.storagedisk.title=플로피에 복사하지 마
+academy.storagedisk.desc=저장 디스크 만들기
+academy.storagedisk.text1=저장 디스크는 더 많은 아이템을 디지털로 저장합니다. 높은 티어는 더 많은 아이템을 저장합니다.
+academy.storagedisk.text2=1k 저장 디스크는 1,000개, 4K 저장 디스크는 4,0000개를 저장할 수 있습니다.
+academy.storagedisk.task=모든 저장 디스크
 
-academy.fluiddisk.title=Waterproof
-academy.fluiddisk.desc=Make a Fluid Storage Disk
-academy.fluiddisk.text1=Fluid Storage Disks work like regular Storage Disks, but they store fluids instead of items.
-academy.fluiddisk.text2=A 64k Fluid Storage Disk can store 64,000mB of fluid, a 256k Fluid Storage Disk can store 256,000mB of fluid, and so on.
-academy.fluiddisk.task=Any Fluid Storage Disk
+academy.fluiddisk.title=방수
+academy.fluiddisk.desc=액체 저장 디스크 만들기
+academy.fluiddisk.text1=액체 저장 디스크는 일반 저장 디스크처럼 작동하지만 아이템 대신 액체를 저장합니다.
+academy.fluiddisk.text2=64k 액체 저장 디스크는 64,000mB의 액체를 저장할 수 있고, 256k 액체 저장 디스크는 256,000mB의 액체를 저장할 수 있습니다.
+academy.fluiddisk.task=모든 액체 저장 디스크
 
-academy.grid.title=Enter the Grid
-academy.grid.desc=Make a Grid
-academy.grid.text=The Grid is where you can manually interact with your storage system. Connect it to the system and give it power, and you can use it like you would any other chest.
+academy.grid.title=그리드에 접속하라
+academy.grid.desc=그리드 만들기
+academy.grid.text=그리드는 스토리지 시스템과 수동으로 상호작용할 수 있습니다. 시스템에 연결하고 전력이 공급되면 다른 상자들처럼 사용할 수 있습니다.
 
-academy.craftinggrid.desc=Make a Crafting Grid
-academy.craftinggrid.text=The Crafting Grid is an upgraded version of the Grid. It works exactly the same, except it has a 3x3 crafting table built in to it.
+academy.craftinggrid.desc=조합 그리드 만들기
+academy.craftinggrid.text=조합 그리드는 그리드의 업그레이드된 버전입니다. 3x3 제작대가 내장되어 있다는 점을 제외하면 정확히 같은 기능을 합니다.
 
-academy.fluidgrid.desc=Make a Fluid Grid
-academy.fluidgrid.text1=The Fluid Grid works like a normal Grid, except it shows fluids instead of items.
-academy.fluidgrid.text2=Drag and drop a full fluid container (like a Bucket) into the menu to empty it into the system. You can also click it while holding sneak.
-academy.fluidgrid.text3=Click a fluid in the system while you have an empty Bucket in your inventory or the system to fill it with that fluid.
+academy.fluidgrid.desc=액체 그리드
+academy.fluidgrid.text1=액체 그리드는 아이템 대신 액체가 표시된다는 점을 제외하면 일반 그리드처럼 작동합니다.
+academy.fluidgrid.text2=가득찬 액체 용기(양동이 같은)를 메뉴로 끌어다 놓아 시스템에 넣으세요. 쉬프트 클릭을 해도됩니다.
+academy.fluidgrid.text3=인벤토리에 빈 양동이가 있다면 시스템에서 액체를 클릭하여 해당 액체로 채울 수 있습니다.
 
-academy.cable.desc=Make Cables
-academy.cable.text=Cables are used to connect devices to the Controller.
+academy.cable.desc=케이블 만들기
+academy.cable.text=케이블은 컨트롤러에 장치들을 연결하는 데 사용됩니다.
 
-academy.io.title=I/O
-academy.io.desc=Make an Importer and an Exporter
-academy.io.text1=An Importer will pull items from the inventory it is placed on and insert them into the RS system.
-academy.io.text2=An Exporter will push specified items into the inventory it is placed on from the RS system.
+academy.io.title=입출력
+academy.io.desc=입력/출력 포트 만들기
+academy.io.text1=입력 포트는 인벤토리로 부터 아이템을 가져와 RS 시스템에 넣습니다.
+academy.io.text2=출력 포트는 RS 시스템에서 지정한 아이템을 인벤토리로 빼냅니다.
 
-academy.extstorage.title=Backwards Compatible
-academy.extstorage.desc=Make an External Storage
-academy.extstorage.text1=Place the External Storage on an inventory and its contents will appear in the system.
-academy.extstorage.text2=If the External Storage has a higher priority than other storage blocks, like the Disk Drive, items will try to go into that inventory first.
+academy.extstorage.title=호환성
+academy.extstorage.desc=외부 스토리지 만들기
+academy.extstorage.text1=외부 스토리지를 인벤토리에 배치하면 해당 내용물이 시스템에 나타납니다.
+academy.extstorage.text2=외장 스토리지가 디스크 드라이브와 같은 다른 스토리지 블록보다 우선순위가 높을 경우 아이템이 먼저 해당 인벤토리로 이동할 것 입니다.
 
 # Refined Storage - Advanced
 
@@ -751,20 +751,20 @@ academy.wirelessfluidgrid.text2=To bind it to the system, sneak right click it o
 
 # Technology - Beginner
 
-academy.magmatic.title=The Core
-academy.magmatic.desc=Make a Magmatic Dynamo
-academy.magmatic.text1=The Magmatic Dynamo generates RF using hot fluids.
-academy.magmatic.text2=One bucket of Lava generates 120,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.magmatic.title=코어
+academy.magmatic.desc=용암 발전기 만들기
+academy.magmatic.text1=용암 발전기는 뜨거운 액체를 사용하여 RF를 생산합니다.
+academy.magmatic.text2=용암 양동이 하나로 120,000의 RF를 생산합니다. JEI를 사용하여 발전기의 용도를 확인해 다른 연료의 생산량을 확인할 수 있습니다.
 
-academy.steam.title=Steam Powered
-academy.steam.desc=Make a Steam Dynamo
-academy.steam.text1=The Steam Dynamo generates RF using solid fuel and water.
-academy.steam.text2=One Coal generates 24,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.steam.title=스팀 파워
+academy.steam.desc=스팀 발전기 만들기
+academy.steam.text1=스팀 발전기는 고체 연료와 물을 사용하여 RF를 생산합니다.
+academy.steam.text2=석탄 한 개로 24,000의 RF를 생산합니다. JEI를 사용하여 발전기의 용도를 확인하여 다른 연료의 생산량을 볼 수 있습니다.
 
-academy.coalgen.title=Old King Coal
-academy.coalgen.desc=Make a Coal Generator
-academy.coalgen.text1=The Coal Generator makes RF from Coal and other furnace fuel.
-academy.coalgen.text2=One Coal generates 48,000 RF.
+academy.coalgen.title=오래된 왕, 석탄
+academy.coalgen.desc=연료 발전기 만들기
+academy.coalgen.text1=연료 발전기는 석탄 또는 다른 화로 연료로 RF를 생산합니다.
+academy.coalgen.text2=석탄 한 개로 48,000의 RF를 생산합니다.
 
 academy.pitifulgen.title=Just Sad
 academy.pitifulgen.desc=Make a Pitiful Fuel Generator
@@ -776,26 +776,26 @@ academy.petrifiedgen.desc=Make a Petrified Fuel Generator
 academy.petrifiedgen.text1=The Petrified Fuel Generator generates RF by burning any furnace fuel.
 academy.petrifiedgen.text2=One Coal generates 60,000 RF.
 
-academy.pulverizer.title=Dust to Dust
-academy.pulverizer.desc=Make a Pulverizer
-academy.pulverizer.text1=The Pulverizer uses RF to crush items like Stone and Ores.
-academy.pulverizer.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output.
-academy.pulverizer.text3=The Pulverizer can be upgraded and augmented to work faster or change the way it functions.
+academy.pulverizer.title=가루에서 가루로
+academy.pulverizer.desc=분쇄기 만들기
+academy.pulverizer.text1=분쇄기는 RF를 소모하여 돌과 광물같은 것을 부숩니다.
+academy.pulverizer.text2=광물은 각각 두개의 가루로 부셔질 것이며, 이 가루들은 주괴로 제련될 것입니다. 또한 2차 산출물을 얻을 가능성도 있습니다.
+academy.pulverizer.text3=분쇄기는 더 빨리 동작하거나 동작 방식을 변경할 수 있도록 업그레이드 등을 할 수 있습니다.
 
-academy.redstonefurnace.title=Microwave
-academy.redstonefurnace.desc=Make a Redstone Furnace
-academy.redstonefurnace.text1=The Redstone Furnace uses RF to smelt items.
-academy.redstonefurnace.text2=It really doesn't do much more than that, but upgrades and augments can make it a lot faster.
+academy.redstonefurnace.title=전자레인지
+academy.redstonefurnace.desc=레드스톤 화로 만들기
+academy.redstonefurnace.text1=레드스톤 화로는 RF를 사용하여 아이템을 제련합니다.
+academy.redstonefurnace.text2=이것은 일반 화로보다 더 효과가 좋은건 아니지만, 업그레이드 등을 하면 훨씬 빠르게 만들 수 있습니다.
 
 academy.resourcefulfurnace.title=Experienced Cook
 academy.resourcefulfurnace.desc=Make a Resourceful Furnace
 academy.resourcefulfurnace.text1=The Resourceful Furnace uses RF to smelt items.
 academy.resourcefulfurnace.text2=It has 3 input slots, so you can smelt 3 stacks at once. It also generates a small amount of Essence when it's used, which can be turned into Experience.
 
-academy.atomicreconstructor.title=Technological Transmutation
-academy.atomicreconstructor.desc=Make an Atomic Reconstructor
-academy.atomicreconstructor.text1=The Atomic Reconstructor is a machine that uses RF to convert items into other items. It will shoot a laser that converts items on the ground around where it hits.
-academy.atomicreconstructor.text2=By default it will shoot whenever it has the power to. You can right click it with a Redstone Torch to make it only trigger when given a Redstone Signal.
+academy.atomicreconstructor.title=변환 기술
+academy.atomicreconstructor.desc=원자 재조합기 만들기
+academy.atomicreconstructor.text1=원자 재조합기는 RF를 사용하여 아이템을 다른 아이템으로 변환하는 기계입니다. 땅에 떨어진 아이템에 변환시키는 레이저를 쏘게 됩니다.
+academy.atomicreconstructor.text2=기본적으로 에너지가 있을 때마다 쏘게 됩니다. 레드스톤 횃불로 우클릭하면 레드스톤 신호가 주어졌을 때만 레이저를 쏘도록 전환할 수 있습니다.
 
 academy.crusher.title=The Crushinator
 academy.crusher.desc=Make a Crusher
@@ -812,10 +812,10 @@ academy.poweredfurnace.desc=Make a Powered Furnace
 academy.poweredfurnace.text1=The Powered Furnace uses RF to smelt items.
 academy.poweredfurnace.text2=It has 2 input slots, so you can smelt 2 stacks at once. You can also set it to split the input over both slots, making it effectively work twice as fast.
 
-academy.fluxducts1.title=Plug it In!
-academy.fluxducts1.desc=Make Leadstone Fluxducts
-academy.fluxducts1.text1=Fluxducts are used to transfer RF. Higher tiers can transfer RF faster.
-academy.fluxducts1.text2=Leadstone Fluxducts can transfer 1,000 RF/t per connection.
+academy.fluxducts1.title=플러그를 꽂아!
+academy.fluxducts1.desc=납 플럭스덕트 만들기
+academy.fluxducts1.text1=RF를 전송하는데 플럭스덕트가 사용됩니다. 높은 티어는 RF를 더 빨리 전송할 수 있습니다.
+academy.fluxducts1.text2=납 플럭스덕트는 연결당 1,000 RF/t를 전송할 수 있습니다.
 
 academy.fluxducts2.title=Better, Harder
 academy.fluxducts2.desc=Make Hardened Fluxducts
@@ -833,10 +833,10 @@ academy.advenergytess.text1=고급 에너지 테슬로케이터는 같은 블록
 academy.advenergytess.text2=고급 에너지 테슬로케이터 각각의 손에 염료를 쥐고 테슬로케이터를 우클릭하는 방식으로 설정할 수 있습니다. 입력 모드와 출력 모드를 전환하려면 테슬로케이터에서 빈 손으로 쉬프트를 누른 상태로 우클릭 하세요.
 academy.advenergytess.text3=고급 에너지 테슬로케이터는 40,000,000 RF를 저장할 수 있으며, 틱당 동일한 양을 이동시킬 수 있습니다.
 
-academy.plasticmaking.title=Flubber
-academy.plasticmaking.desc=Make some Plastic
-academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
-academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
+academy.plasticmaking.title=목유
+academy.plasticmaking.desc=플라스틱 만들기
+academy.plasticmaking.text1=목유 추출기는 앞에 나무 블록이 있으면 라텍스를 생산합니다. Dynamic Trees모드의 나무에서는 작동하지 않으므로 일반 나무를 배치해야 합니다. 나무는 부숴질 때까지 서서히 소모되며, 다 소모된다면 교체해야 할 것입니다.
+academy.plasticmaking.text2=라텍스 생산 유닛은 라텍스 75mB와 물 1000mB를 작은 마른 고무로 만듭니다. 제작대에서 작은 마른 고무를 9개 사용하여 플리스틱을 만들기 위한 마른 고무를 얻을 수 있습니다.
 
 academy.energycell.title=비 오는 날을 위한 저장
 academy.energycell.desc=에너지 셀 만들기
@@ -852,25 +852,25 @@ academy.IFbook.desc=Industrial Foregoing의 메뉴얼 만들기
 academy.IFbook.text=Industrial Foregoing의 메뉴얼은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
 academy.DEinfotab.title=우리는 가이드를 위한 가이드를 만들었다.
-academy.DEinfotab.desc=드라코닉 에볼루션 정보 태블릿 만들기
-academy.DEinfotab.text=드라코닉 에볼루션 정보 태블릿은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
+academy.DEinfotab.desc=드라코닉 에볼루션 안내책자 만들기
+academy.DEinfotab.text=드라코닉 에볼루션 안내책자는 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
-academy.autobreaker.desc=Make an Auto-Breaker
-academy.autobreaker.text1=The Auto-Breaker automatically breaks the block it is facing, inserting the drops into its internal inventory.
-academy.autobreaker.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+academy.autobreaker.desc=자동 파괴기 만들기
+academy.autobreaker.text1=자동 파괴기는 자동으로 마주하고 있는 블록을 부수고, 드롭된 아이템을 내부 인벤토리에 저장합니다.
+academy.autobreaker.text2=기본적으로 이것은 잦은 빈도로 작동됩니다. 레드스톤 횃불로 우클릭하면 레드스톤 신호가 주어졌을 때만 작동하도록 설정할 수 있습니다.
 
-academy.autoplacer.desc=Make an Auto-Placer
-academy.autoplacer.text1=The Auto-Placer automatically places blocks from its inventory in the direction it is facing.
-academy.autoplacer.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+academy.autoplacer.desc=자동 설치기 만들기
+academy.autoplacer.text1=자동 설치기는 자동으로 마주보는 방향으로 내부 인벤토리의 아이템을 배치합니다.
+academy.autoplacer.text2=기본적으로 이것은 잦은 빈도로 작동됩니다. 레드스톤 횃불로 우클릭하면 레드스톤 신호가 주어졌을 때만 작동하도록 설정할 수 있습니다.
 
-academy.aafarmer.title=Factory Farming
-academy.aafarmer.desc=Make a Farmer
-academy.aafarmer.text=The Farmer will till dirt in a 9x9 area in front of it and attempt to plant seeds of any type from the left slots in its inventory. It will also harvest fully grown crops from the area, replanting the seeds and putting the crops in the right slots.
+academy.aafarmer.title=농사 공장
+academy.aafarmer.desc=농사 관리기 만들기
+academy.aafarmer.text=농사 관리기는 앞쪽 9x9 구역의 농경지에 내부 인벤토리의 왼쪽 슬롯에 있는 씨앗을 심으려고 할 것입니다. 또한 해당 구역에서 완전히 재배된 농작물을 수확할 것이며, 씨앗을 심고 농작물을 적당한 곳에 둡니다.
 
-academy.rangedcollector.title=Pick-Me-Up
-academy.rangedcollector.desc=Make a Ranged Collector
-academy.rangedcollector.text1=The Ranged Collector will collect items dropped within 6 blocks of itself, according to its filter.
-academy.rangedcollector.text2=Open it up and set the filter in the 12 slots on the left. You can set if it is a whitelist or a blacklist, if it matches metadata and NBT, and all that other good stuff that filters usually have.
+academy.rangedcollector.title=픽미 업
+academy.rangedcollector.desc=장거리 수집기 만들기
+academy.rangedcollector.text1=장거리 수집기는 필터에 따라 6블록 내에 떨어진 아이템을 수집합니다.
+academy.rangedcollector.text2=이것을 열고 왼쪽에 있는 12개의 슬롯에 필터를 설정합니다. 화이트리스트인지 블랙리스트인지, 메타데이터와 NBT가 일치하는지, 그리고 필터가 일반적으로 가지고 있는 다른 모든 좋은 물건들과 일치하는지 설정할 수 있습니다.
 
 academy.aalens.title=Technomancic Refraction
 academy.aalens.desc=Make any Lens for the Atomic Reconstructor
@@ -894,9 +894,9 @@ academy.rangeaddon.desc=Make a Range Addon
 academy.rangeaddon.text=By default, all Industrial Foregoings have a range of 1 block. Range Addons are used to increase this. A Range +2 Addon adds 2 to the range, so it would be 3x3.
 academy.rangeaddon.task=Any Range Addon
 
-academy.DEgrinder.title=Kill-Box
-academy.DEgrinder.desc=Make a Mob Grinder
-academy.DEgrinder.text=The Mob Grinder uses RF to instantly kill every non-player mob in a 7x7 area in front of it, including Withers. Items and experience will drop as normal, and will not be collected.
+academy.DEgrinder.title=킬 박스
+academy.DEgrinder.desc=몹 분쇄기 만들기
+academy.DEgrinder.text=몹 분쇄기는 RF를 사용하여 위더를 포함한 앞에 있는 7x7 크기의 영역의 모든 비-플레이어 몹들을 즉사 시킵니다. 아이템과 경험치는 평소와 같이 떨어질 것이며, 수집되지 않을겁니다.
 
 academy.DEbasic.title=Basically
 academy.DEbasic.desc=Make Basic Energy Crystals
@@ -913,29 +913,29 @@ academy.stabilizedspawner.text2=You can right click a Stabilized Spawner with a 
 academy.stabilizedspawner.text3=Each tier is better than the last, spawning more mobs at a time and doing it more often. Higher tiers also have less restrictions for how to spawn mobs. See the Draconic Evolution Information Tablet for more details.
 academy.stabilizedspawner.task=Any Stabilized Spawner
 
-academy.DEsouls.title=Soul Eater
-academy.DEsouls.desc=Collect a Soul
-academy.DEsouls.text1=Mob Souls have a chance of dropping when using a Draconic Evolution weapons and/or the Reaper enchantment. If you are using neither, Mob Souls will never drop.
-academy.DEsouls.text2=A Mob Soul's main use is to be inserted into Stabilized Spawners to set it to spawn that mob, however you can sneak right click them on the ground to spawn the mob (which will use up the Soul).
-academy.DEsouls.task=Any Soul
+academy.DEsouls.title=소울이터
+academy.DEsouls.desc=영혼 수집하기
+academy.DEsouls.text1=몹의 영혼은 Draconic Evolution의 무기를 사용하거나 리퍼 인챈트를 할때 획득할 수 있는 확률이 있습니다. 만약 둘 다 사용하지 않는다면, 몹 영혼은 절대 획득할 수 없습니다.
+academy.DEsouls.text2=몹의 영혼의 주 용도는 안정된 스포너에 첨가하여 몹을 생성되도록 하는 것이지만, 땅 위에 쉬프트 우클릭하여 몹을 생성시킬 수 있습니다.
+academy.DEsouls.task=모든 영혼
 
-academy.celestialmanipulator.title=Weather Report
-academy.celestialmanipulator.desc=Make a Celestial Manipulator
-academy.celestialmanipulator.text=The Celestial Manipulator uses RF to allow you to change the current time and weather.
+academy.celestialmanipulator.title=날씨 보고서
+academy.celestialmanipulator.desc=행성 조작기 만들기
+academy.celestialmanipulator.text=행성 조작기는 RF를 사용하여 현재 시간과 날씨를 바꿀 수 있습니다.
 
-academy.disenchanter.title=elbaT tnemtnahcnE
-academy.disenchanter.desc=Make a Disenchanter
-academy.disenchanter.text=The Disenchanter allows you to move enchantments from tools to books.
+academy.disenchanter.title=반인챈트
+academy.disenchanter.desc=반인챈트기 만들기
+academy.disenchanter.text=반인챈트기는 인챈트를 도구에서 책으로 옮길 수 있게 해줍니다.
 
 # Technology - Intermediate
 
-academy.magmacrucible.title=Meltdown
-academy.magmacrucible.desc=Make a Magma Crucible
-academy.magmacrucible.text=The Magma Crucible is a machine that melts blocks and items into fluids.
+academy.magmacrucible.title=녹여
+academy.magmacrucible.desc=마그마 도가니 만들기
+academy.magmacrucible.text=마그마 도가니는 블록과 아이템들을 액체로 녹이는 기계입니다.
 
-academy.fluidtransposer.title=Bucket Filler
-academy.fluidtransposer.desc=Make a Fluid Transposer
-academy.fluidtransposer.text=The Fluid Transposer combines fluids and items.
+academy.fluidtransposer.title=양동이 가득 채우기
+academy.fluidtransposer.desc=유체 수송기 만들기
+academy.fluidtransposer.text=유체 수송기는 액체와 아이템을 결합합니다.
 
 academy.fluxducts3.desc=Make Redstone Energy Fluxducts
 academy.fluxducts3.text=Redstone Energy Fluxducts can transfer 9,000 RF/t per connection.
@@ -954,12 +954,12 @@ academy.empowerer.desc=Make an Empowerer
 academy.empowerer.text1=The Empowerer is used to upgrade crystals.
 academy.empowerer.text2=Place the Empowerer down and then place a Display Stand in all 4 directions with 2 blocks between it and the Empowerer, and then provide them power.
 
-academy.powerfiller.title=Filled with Power
-academy.powerfiller.desc=Make a machine that can fill items with RF
-academy.powerfiller.text1=The Energizer simply uses the RF it is given to power the item inside it.
-academy.powerfiller.text2=The Energetic Infuser does the same, but it can be upgraded and augmented to fill items at roughly 1,000,000 RF per second.
-academy.powerfiller.text3=The Energy Infuser is much more expensive, but it can fill items at up to 1,000,000 RF/t (which is 20,000,000 RF per second).
-academy.powerfiller.task=Make any of these machines
+academy.powerfiller.title=전력 충전
+academy.powerfiller.desc=아이템에 RF를 충전할 수 있는 기계 만들기
+academy.powerfiller.text1=충전장치는 단순히 주어진 RF를 사용하여 내부의 아이템에 전력을 공급합니다.
+academy.powerfiller.text2=써멀 익스펜션의 에너지 주입기는 동일한 작업을 수행하지만, 초당 약 1,000,000 RF로 아이템을 충전할 수 있도록 업그레이드 및 늘리기를 설치할 수 있습니다.
+academy.powerfiller.text3=에너지 주입기는 훨씬 더 비싸지만 최대 1,000,000 RF/t로 아이템을 충전할 수 있습니다.(초당 20,000,000 RF)
+academy.powerfiller.task=해당 기계들 중 아무거나 만들기
 
 academy.inventorybatteries.title=Portable Charger
 academy.inventorybatteries.desc=Make an item that can store RF
@@ -1102,28 +1102,28 @@ academy.upgradekeys.text2=Upgrade Keys have multiple recipes as they have multip
 academy.upgradekeys.text3=Upgrade Keys are not destroyed when used, so you will only ever need to make each once.
 academy.upgradekeys.task=Any Upgrade Key
 
-academy.hardenedupgrade.desc=Make a Hardened Upgrade Kit
-academy.hardenedupgrade.text1=Upgrade Kits are used to increase the tier of a Thermal Expansion machine or dynamo. Simply right click the block with the Upgrade Kit to set it to that tier, as long as the machine is already the previous tier.
-academy.hardenedupgrade.text2=The order of tiers is:
-academy.hardenedupgrade.text3=•Basic
-academy.hardenedupgrade.text4=•Hardened
-academy.hardenedupgrade.text5=•Reinforced
-academy.hardenedupgrade.text6=•Signalum
-academy.hardenedupgrade.text7=•Resonant
+academy.hardenedupgrade.desc=경화 업그레이드 키트 만들기
+academy.hardenedupgrade.text1=업그레이드 키트는 써멀 익스펜션의 기계 또는 발전기의 티어를 올리는 데 사용됩니다. 업그레이드 키트를 사용하여 블록을 우클릭하여 해당 티어로 설정하세요. 단, 기계가 이미 이전 티어인 경우에는 해당 티어로 설정하세요.
+academy.hardenedupgrade.text2=티어 순서:
+academy.hardenedupgrade.text3=•일반
+academy.hardenedupgrade.text4=•경화
+academy.hardenedupgrade.text5=•강화
+academy.hardenedupgrade.text6=•시그날륨
+academy.hardenedupgrade.text7=•공명
 
-academy.reinforcedupgrade.desc=Make a Reinforced Upgrade Kit
-academy.reinforcedupgrade.text1=Reinforced machines are the second tier, and have room for 2 Augments.
-academy.reinforcedupgrade.text2=You can craft Upgrade Kits together to create a Conversion Kit, which will apply all the upgrades at once.
+academy.reinforcedupgrade.desc=강화 업그레이드 키트 만들기
+academy.reinforcedupgrade.text1=강화 기계는 두 번째 티어이며, 늘리기 설치 슬롯이 2개로 늘어납니다.
+academy.reinforcedupgrade.text2=업그레이드 키트로 모든 업그레이드를 한 번에 적용할 수 있는 전환 키트를 만들 수 있습니다.
 
-academy.regularaugments.desc=Make a regular Augment
-academy.regularaugments.text1=Augments can be installed on machines and dynamos to upgrade them in some way. The amount of slots they have depends on the tier of the machine.
-academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
-academy.regularaugments.task=Regular Augments
+academy.regularaugments.desc=일반 늘리기 만들기
+academy.regularaugments.text1=기계와 발전기에 늘리기를 설치하여 어떤 식으로든 업그레이드 할 수 있습니다. 슬롯의 양은 기계의 티어에 따라 달라집니다.
+academy.regularaugments.text2=효과를 늘리기 위해 늘리기를 여러개 설치할 수 있습니다.
+academy.regularaugments.task=일반 늘리기
 
-academy.specializationaugments.desc=Make a Specialization Augment.
-academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
-academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
-academy.specializationaugments.task=Specialization Augments
+academy.specializationaugments.desc=전문 늘리기 만들기
+academy.specializationaugments.text1=전문 늘리기는 기계나 발전기의 기능을 근본적으로 바꿉니다.
+academy.specializationaugments.text2=오직 기계당 하나의 전문 늘리기만 가질 수 있습니다.
+academy.specializationaugments.task=전문 늘리기
 
 
 # Technology - Advanced
@@ -1252,10 +1252,10 @@ academy.manatablet.desc=마나 타블렛 만들기
 academy.manatablet.text1=마나 타블렛은 마나 공급기 없이 마나를 운반하는 데 사용할 수 있으며, 마나가 필요한 아이템에 마나를 공급하기도 합니다.
 academy.manatablet.text2=마나 타블렛을 충전하거나 비우려면 마나 웅덩이에 던집니다. 숲의 지팡이로 웅덩이를 채우는 것과 비우는 것을 전환할 수 있습니다.
 
-academy.halo.title=Manafactory Halo
-academy.halo.desc=Make a Manufacturing Halo
-academy.halo.text1=The Manufacturing Halo will automatically craft recipes that are set using items in your inventory.
-academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
+academy.halo.title=제조 광륜
+academy.halo.desc=제조 광륜 만들기
+academy.halo.text1=제조 광륜은 자동으로 당신의 인벤토리의 아이템들을 사용하여 정해진 레시피를 만들 것입니다.
+academy.halo.text2=인터페이스가 나타나는 것을 보려면 제조 광륜을 손에 들고 있어야 합니다. 제작대를 사용할 수 있고, 다른 부분을 클릭해 광륜을 설정하여 해당 레시피를 자동으로 만들 수 있습니다.
 
 academy.alchemcat.title=등가교환
 academy.alchemcat.desc=연금술 촉매 만들기
@@ -1272,9 +1272,9 @@ academy.runicaltar.desc=신비한 제단 만들기
 academy.runicaltar.text1=신비한 제단(Runic Altar)은 이름이 암시하는 대로 룬을 만드는 데 사용됩니다. 레시피에 따라 위에 물건들을 던지고 마나 공급기로 마나를 제공하세요.
 academy.runicaltar.text2=마나가 가득 차면 위에 생명의 돌을 던지고 숲의 지팡이로 작동시켜 제작품을 완성하세요.
 
-academy.soujourner.title=Beauty Queen on Tour
-academy.soujourner.desc=Make a Soujourner's Sash
-academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
+academy.soujourner.title=마법사의 여행
+academy.soujourner.desc=마법사의 띠 만들기
+academy.soujourner.text=버블즈의 벨트 슬롯에 착용하고 마나를 제공하면, 마법사의 띠는 착용자의 민첩성을 크게 높여 줄 것입니다.
 
 academy.lens.title=마나 안경
 academy.lens.desc=마나 렌즈 만들기
@@ -1299,30 +1299,29 @@ academy.elven.desc=알프하임으로 향하는 포탈 만들기
 academy.elven.text1=알프하임으로 가는 포탈은 엘프들과 거래할 수 있게 해주는 멀티블럭입니다. 아이템을 던져주면 엘프 버전으로 다시 돌려 줍니다.
 academy.elven.text2=렉시카 보타니아는 이 포탈을 위한 건축 가이드를 가지고 있습니다.
 
-academy.laputa.title=Castle in the Sky
-academy.laputa.desc=Make a max size Shard of Laputa
-academy.laputa.text1=The Shard of Laputa will take blocks on the ground and move them up in the air, giving you a really cool floating island!
-academy.laputa.text2=The higher tiers create bigger islands.
+academy.laputa.title=천공의 성
+academy.laputa.desc=최대 크기의 라퓨타의 조각 만들기
+academy.laputa.text1=라퓨타의 조각은 땅 위에 쌓은 블록을 공중으로 이동시켜, 정말 멋진 떠다니는 섬을 만들어 줄 것입니다.
 
-academy.flugel.title=It's Called an Umlaut
-academy.flugel.desc=Make a Flügal Tiara
-academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
-academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
-academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
+academy.flugel.title=이것은 움라우트라고 불린다
+academy.flugel.desc=플뤼겔 티아라 만들기
+academy.flugel.text=플뤼겔 티아라는 일정 시간동안 비행할 수 있게 해줍니다. 이것을 입었을 때, 배고픔 바 위에 남은 시간을 볼 수 있습니다.
+academy.flugel.text2=또한 공중에서 앞으로 돌진하기 위해 질주를 할 수 있습니다. 이것은 쿨다운이 있습니다.
+academy.flugel.text3=외모를 바꿀 수 있는 몇 가지 플뤼겔 티아라를 만들 수 있습니다.
 
 academy.lexica2.title=의사소통
 academy.lexica2.desc=엘프의 렉시카 보타니아 얻기
 academy.lexica2.text1=렉시카 보타니아를 알프하임 포탈에 던지면, 그들은 당신이 읽을 수 있도록 엘프의 모든 지식을 적어 놓을 것입니다.
 academy.lexica2.text2=엘프의 지식은 녹색으로 표시될 것입니다.
 
-academy.farreach.title=Top Shelf
-academy.farreach.desc=Make a Ring of Far Reach
-academy.farreach.text=The Ring of Far Reach, as the name implies, extends the reach of the wearer.
+academy.farreach.title=맨 위의 선반
+academy.farreach.desc=장거리의 반지 만들기
+academy.farreach.text=이름이 암시하는 바와 같이 장거리의 반지는 착용자의 범위를 넓힙니다.
 
-academy.luminizer.title=Walking on Sunshine
-academy.luminizer.desc=Make a Luminizer
-academy.luminizer.text1=Luminizers can move players and mobs between each other by having them ride on trails of light.
-academy.luminizer.text2=Place two Luminizers within 20 blocks of each other. Sneak right click the Luminizers with a Wand of the Forest to make a one-way connection. Right click the first Luminizer to go to the other one, and if that one is connected to another you will be sent to that one as well.
+academy.luminizer.title=햇살 위를 걷다
+academy.luminizer.desc=루미나이저 만들기
+academy.luminizer.text1=루미나이저는 플레이어와 몹들을 빛의 궤도에 태워 서로 움직이게 할 수 있습니다.
+academy.luminizer.text2=두 개의 루미나이저를 서로 20블록 이내에 두세요. 숲의 지팡이로 루미나이저를 쉬프트 우클릭하여 단방향 연결을 만듭니다. 첫 번째 루미나이저를 우클릭하여 다른 루미나이저로 이동하여 다른 루미나이저와 연결되면 해당 루미나이저도 함께 전송됩니다.
 
 academy.conjuration.desc=Make a Conjuration Catalyst
 academy.conjuration.text1=The Conjuration Catalyst is placed under the Mana Pool to allow it to duplicate certain items using Mana.
@@ -1430,27 +1429,27 @@ academy.castle.text2=The mod is not done, so the Final Castle is almost complete
 
 # Astral Sorcery
 
-academy.astraltome.title=The More You Know
-academy.astraltome.desc=Make an Astral Tome
-academy.astraltome.text1=The Astral Tome is the best source of information on Astral Sorcery. It has multiple chapters that you have to zoom in to see with the scroll wheel.
-academy.astraltome.text2=At the beginning, the only chapter you can see is Discovery. The further you progress, the more chapters you will unlock.
+academy.astraltome.title=더 많이 알아가다
+academy.astraltome.desc=별의 책 만들기
+academy.astraltome.text1=별의 책은 아스트랄 소서리에 대한 최고의 가이드북 입니다. 휠 스크롤로 확대해서 보는 여러 챕터가 있습니다.
+academy.astraltome.text2=처음에 보이는 챕터는 발견뿐입니다. 더 발전할수록 더 많은 챕터를 열게 될 것입니다.
 
-academy.constellationpaper.desc=Find a Constellation Paper
-academy.constellationpaper.text1=Constellations are one of the most important parts of the mod, and can be found in Shrines. There are five you can get right now.
-academy.constellationpaper.text2=Sneak right click the Astral Tome and insert Constellation Papers into its inventory. This will create a new page in the Astral Tome that has a list of constellations, though they will be missing any important information.
+academy.constellationpaper.desc=별자리 종이 찾기
+academy.constellationpaper.text1=별자리는 이 모드의 가장 중요한 부분 중 하나이며, 성소에서 찾을 수 있습니다. 지금 당장 구할 수 있는 것이 5개 있습니다.
+academy.constellationpaper.text2=별의 책을 쉬프트 우클릭으로 열어 별자리 종이를 내부 인벤토리에 넣으세요. 이것은 별의 책의 누락된 별자리 목록에 새로운 정보 페이지를 만들 것입니다.
 
-academy.reswand.title=Magical Tuning Fork
-academy.reswand.desc=Make a Resonating Wand
-academy.reswand.text1=To begin Astral Sorcery, you must find an Ancient Shrine somewhere in the world. You can find them in mountainous areas; they are large marble structures with flowing water.
-academy.reswand.text2=Dig into the Ancient Shrine's basement to find a Floating Crystal. This is important later, but for now just place a Crafting Table anywhere nearby. This will allow you to craft items that require Starlight in that Crafting Table.
-academy.reswand.text3=While holding the Resonating Wand and walking around the world, floating white sparkles will mark certain areas as having Rock Crystal Ore deep underneath them.
+academy.reswand.title=마법 조음기
+academy.reswand.desc=공명의 지팡이 만들기
+academy.reswand.text1=아스트랄 소서리를 시작하려면 월드 어딘가에 있는 고대 성소를 찾아야 합니다. 산지 등에서 흐르는 물이 있는 큰 대리석 구조물을 찾을 수 있습니다.
+academy.reswand.text2=떠 있는 크리스탈을 찾기 위해 고대 성소의 지하로 파고드세요. 이것은 나중에 중요하지만, 지금은 제작대를 크리스탈 가까운 곳에 놓으세요. 이렇게 하면 해당 제작대에서 별빛이 필요한 아이템을 만들 수 있습니다.
+academy.reswand.text3=공명의 지팡이를 든 채 월드를 거닐다보면, 떠다니는 하얀 연기는 그 아래 깊숙한 곳에 락크리스탈 광물을 가지고 있는 특정 지역을 나타낼 것입니다.
 
-academy.luminouscraftingtable.title=Night Shift
-academy.luminouscraftingtable.desc=Make a Luminous Crafting Table
-academy.luminouscraftingtable.text1=The Luminous Crafting Table allows you to craft with Starlight without having to be near a Floating Crystal, though it does need to be able to see the night sky directly above it.
-academy.luminouscraftingtable.text2=The amount of Starlight it has access to depends on its altitude and location.
-academy.luminouscraftingtable.text3=To craft with the Luminous Crafting Table, make sure it has enough Starlight and then right click it with a Resonating Wand.
-academy.luminouscraftingtable.text4=Once you've crafted the Luminous Crafting Table, the Exploration chapter is unlocked in the Astral Tome.
+academy.luminouscraftingtable.title=밤
+academy.luminouscraftingtable.desc=루미너스 제작대 만들기
+academy.luminouscraftingtable.text1=루미너스 제작대는 떠 있는 크리스탈 근처에 있을 필요없이 별빛으로 제작을 할 수 있게 해줍니다. 하지만 이것은 위로 밤하늘을 볼 수 있어야 합니다.
+academy.luminouscraftingtable.text2=별빛의 양은 고도와 위치에 따라 달라집니다.
+academy.luminouscraftingtable.text3=루미너스 제작대로 제작하려면 별빛이 충분한지 확인한 다음, 공명의 지팡이로 우클릭 하세요.
+academy.luminouscraftingtable.text4=일단 루미너스 제작대를 만들고 나면, 탐험 챕터가 별의 책에서 열리게 됩니다.
 
 academy.sextant.title=Building Helper
 academy.sextant.desc=Make a Sextant
@@ -1715,10 +1714,10 @@ academy.xpsolidifier.desc=Make an Experience Solidifier
 academy.xpsolidifier.text1=The Experience Solidifier allows you to turn your xp into Soldified Experience so you can store it as an item.
 academy.xpsolidifier.text2=It will also collect any experience orbs on the ground within 5 blocks of itself and convert those into Solidified Experience as well.
 
-academy.atmagnet.title=Animal Magnetism
-academy.atmagnet.desc=Make a Ring Of Magnetism
-academy.atmagnet.text1=While on, the Ring of Magnetism uses RF to collect items around you.
-academy.atmagnet.text2=You can toggle it on and off by sneak right clicking it.
+academy.atmagnet.title=동물적인 매력
+academy.atmagnet.desc=자성의 반지 만들기
+academy.atmagnet.text1=이것을 착용하고 있는 동안, 자성의 반지는 RF를 사용하여 주변의 아이템들을 수집합니다.
+academy.atmagnet.text2=쉬프트 우클릭하여 기능을 켜거나 끌 수 있습니다.
 
 academy.atgrowth.title=Green Thumb
 academy.atgrowth.desc=Make a Ring Of Growth
