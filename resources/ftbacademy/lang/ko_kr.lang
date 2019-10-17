@@ -1461,10 +1461,10 @@ academy.lookingglass.desc=Make a Looking Glass
 academy.lookingglass.text1=By using the Looking Glass, you can search the night sky for any Constellations whose Papers you've found. Only one constellation is visible per night using the Looking Glass, so it may take multiple nights for the one you are searching for to appear.
 academy.lookingglass.text2=Stars that belong to constellations will be larger and fade in and out. If it is a constellation you've discovered already, hold sneak to unlock the mouse and trace lines between the stars in the pattern of the constellation.
 
-academy.lightwell.title=Moonlit Bath
-academy.lightwell.desc=Make a Lightwell
-academy.lightwell.text1=Lightwells are used to create Liquid Starlight, which is done by right clicking one with Aquamarine or a Rock Crystal while the Lightwell can see the night sky. More expensive ones will make more and will last longer.
-academy.lightwell.text2=You can throw a Rock Crystal into some Liquid Starlight and it will slowly increase its Size. Large Rock Crystals will increase the durability of tools made with them.
+academy.lightwell.title=달빛이 비치는 욕조
+academy.lightwell.desc=라이트웰 만들기
+academy.lightwell.text1=라이트웰은 액체 별빛을 만드는 데 사용되는데, 라이트웰이 밤 하늘을 보고 있는 동안, 아쿠아마린이나 락 크리스탈을 들고 우클릭하여 액체 별빛을 만듭니다.
+academy.lightwell.text2=락 크리스탈을 액체 별빛안에 던지면 크기가 서서히 커집니다. 큰 락 크리스탈로 만든 도구는 도구의 내구성을 높힐것 입니다.
 
 academy.fosicresonator.title=Constructive Interference
 academy.fosicresonator.desc=Make a Fosic Resonator
