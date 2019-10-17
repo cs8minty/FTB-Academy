@@ -86,7 +86,7 @@ academy.aquaaffin1.reward=친수성
 academy.resp1.reward=호흡 II
 
 academy.prot1.reward=보호 II
-academy.fireprot1.reward=화염으로부터 보호n III
+academy.fireprot1.reward=화염으로부터 보호 III
 academy.blastprot1.reward=폭발으로부터 보호 III
 academy.projprot1.reward=투사체로부터 보호 III
 academy.thorns1.reward=가시 II
@@ -217,7 +217,7 @@ academy.introfilters.task3=광물 필터 설정하기
 academy.introfluidtransfer.title=액체 수송
 academy.introfluidtransfer.desc=물 옮기기
 academy.introfluidtransfer.text1=아이템덕트가 아이템을 이동시키는 것과 같이, 플루이드덕트는 액체를 이동시킨다.
-academy.introfluidtransfer.text2=휴대용 탱크는 자동으로 블럭의 아래로 출력되도록 설정할 수 있다. 크레센트 해머(Crescent Hammer)를 휴대용 탱크 상단부에 사용하여, 물을 탱크아래로 이동시키게 만드세요.
+academy.introfluidtransfer.text2=휴대용 탱크는 자동으로 블럭의 아래로 출력되도록 설정할 수 있다. 크레센트 해머를 휴대용 탱크 상단부에 사용하여, 물을 탱크아래로 이동시키게 만드세요.
 academy.introfluidtransfer.text3=서보를 열어 오른쪽의 레드스톤 버튼을 눌러 레드스톤 신호가 없을 때 작동하도록 설장할 수 있다. 이 작업을 수행한 후 서보를 레드스톤 무시 또는 Low로 설정하세요.
 
 academy.introtech.title=기술 소개
@@ -531,16 +531,16 @@ academy.itemducts.text1=아이템덕트는 모든 방향으로 아이템을 이�
 academy.itemducts.text2=불투명한 아이템덕트는 동일하게 작동하지만, 아이템덕트를 통해 흐르는 것을 볼 수 없습니다. 이것은 렉을 예방하는 데 도움이 될 수 있습니다.
 academy.itemducts.task=아이템덕트
 
-academy.basicfluiducts.title=액체덕트
-academy.basicfluiducts.desc=액체덕트 만들기
-academy.basicfluiducts.text1=액체덕트는 액체를 전달하는 데 사용됩니다. 기본 액체덕트는 용암이나 크리오시움처럼 온도가 극심하지 않은 액체만 옮길 수 있습니다.
-academy.basicfluiducts.text2=불투명한 액체덕트는 정확히 동일하게 작동하지만, 액체가 액체덕트를 통해 흐르는 것을 볼 수 없습니다. 이것은 렉을 예방하는 데 도움이 될 수 있습니다.
-academy.basicfluiducts.task=액체덕트
+academy.basicfluiducts.title=플루이드덕트
+academy.basicfluiducts.desc=플루이드덕트 만들기
+academy.basicfluiducts.text1=플루이드덕트는 액체를 전달하는 데 사용됩니다. 기본 플루이드덕트는 용암이나 크리오시움처럼 온도가 극심하지 않은 액체만 옮길 수 있습니다.
+academy.basicfluiducts.text2=불투명한 플루이드덕트는 정확히 동일하게 작동하지만, 액체가 플루이드덕트를 통해 흐르는 것을 볼 수 없습니다. 이것은 렉을 예방하는 데 도움이 될 수 있습니다.
+academy.basicfluiducts.task=플루이드덕트
 
 academy.hardenedfluiducts.title=라바덕트
-academy.hardenedfluiducts.desc=경화 액체덕트 만들기
-academy.hardenedfluiducts.text=경화 액체덕트는 모든 액체를 옮길 수 있습니다.
-academy.hardenedfluiducts.task=경화 액체덕트
+academy.hardenedfluiducts.desc=경화 플루이드덕트 만들기
+academy.hardenedfluiducts.text=경화 플루이드덕트는 모든 액체를 옮길 수 있습니다.
+academy.hardenedfluiducts.task=경화 플루이드덕트
 
 academy.servo.title=작업 시작하기
 academy.servo.desc=서보 만들기
@@ -554,12 +554,12 @@ academy.signalumfluiduct.desc=Make a Signalum-Plated Fluiduct
 academy.signalumfluiduct.text=Signalum-Plated Fluiducts work just like Hardened Fluiducts, except they can also transfer 4,000 RF/t per connection.
 academy.signalumfluiduct.task=Signalum-Plated Fluiduct
 
-academy.laminar.title=압력 아래에
-academy.laminar.desc=초증류 액체덕트 만들기
-academy.laminar.text1=초증류 액체덕트는 완전히 압력이 차게되면 초당 수백개의 양동이를 옮길 수 있습니다.
+academy.laminar.title=압력
+academy.laminar.desc=초증류 플루이드덕트 만들기
+academy.laminar.text1=초증류 플루이드덕트는 완전히 압력이 차게되면 초당 수백개의 양동이를 옮길 수 있습니다.
 academy.laminar.text2=압력을 가하는 데 몇 초가 걸리는데, 그 동안 전송 속도가 빨라집니다.
 academy.laminar.text3=이것은 서보로 뽑아내기 보다는 액체가 액체 원천에 의해 밀려날 때 가장 잘 작용합니다.
-academy.laminar.task=초증류 액체덕트
+academy.laminar.task=초증류 플루이드덕트
 
 academy.signalumitemduct.title=Item Energyducts
 academy.signalumitemduct.desc=Make Signalum-Plated Itemducts
@@ -707,11 +707,11 @@ academy.extstorage.text2=외장 스토리지가 디스크 드라이브와 같은
 
 # Refined Storage - Advanced
 
-academy.patterngrid.desc=Make a Pattern Grid
-academy.patterngrid.text1=The first step to automatic crafting is the Pattern Grid.
-academy.patterngrid.text2=Place one down and give it a Pattern, and input the recipe you want to be able to autocraft.
-academy.patterngrid.text3=If it isn't a regular crafting recipe (that is, if it isn't done in a 3x3 crafting grid, like smelting), check the Processing box.
-academy.patterngrid.text4=If you want it to use the Ore Dictionary (like being able to use any Planks to make a Chest), check the OreDic box.
+academy.patterngrid.desc=패턴 그리드 만들기
+academy.patterngrid.text1=자동 제작의 첫 단계는 패턴 그리드입니다.
+academy.patterngrid.text2=자동 제작을 원하는 레시피를 입력하세요.
+academy.patterngrid.text3=만약 일반적인 제작 방법이 아닌 경우(3x3 제작 그리드에서 작업되지 않는 경우), 처리 박스에 체크하세요.
+academy.patterngrid.text4=광물 사전(어떤 나무 판자로 만든 상자도 사용 가능한 것처럼)을 사용하려면 광물 사전 박스에 체크하세요.
 
 academy.crafter.desc=Make a Crafter
 academy.crafter.text1=Place Patterns into a Crafter and you will be able to craft those recipes from your Grid.
@@ -817,10 +817,10 @@ academy.fluxducts1.desc=납 플럭스덕트 만들기
 academy.fluxducts1.text1=RF를 전송하는데 플럭스덕트가 사용됩니다. 높은 티어는 RF를 더 빨리 전송할 수 있습니다.
 academy.fluxducts1.text2=납 플럭스덕트는 연결당 1,000 RF/t를 전송할 수 있습니다.
 
-academy.fluxducts2.title=Better, Harder
-academy.fluxducts2.desc=Make Hardened Fluxducts
-academy.fluxducts2.text1=Hardened Fluxducts can transfer 4,000 RF/t per connection.
-academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
+academy.fluxducts2.title=좋고, 단단하게
+academy.fluxducts2.desc=경화 플럭스덕트 만들기
+academy.fluxducts2.text1=경화 플럭스덕트는 연결당 4,000 RF/t를 전송할 수 있습니다.
+academy.fluxducts2.text2=플럭스덕트는 다른 티어의 플럭스덕트에 연결할 수 있습니다.
 
 academy.basicenergytess.title=파이프 보다 안좋은
 academy.basicenergytess.desc=기본 에너지 테슬로케이터 만들기
@@ -889,10 +889,10 @@ academy.ifpump.desc=Make a Fluid Pump
 academy.ifpump.text1=The Fluid Pump will check the fluid directly underneath it and then pump all of that fluid in the working area into its internal tank, where it can be piped out. Pumped fluids will be replaced with Cobblestone.
 academy.ifpump.text2=Like all Industrial Foregoing machines, its default range is 1 block. You will have to use Range Addons to increase the working area. Do this before providing it with power.
 
-academy.rangeaddon.title=Bigger, Better
-academy.rangeaddon.desc=Make a Range Addon
-academy.rangeaddon.text=By default, all Industrial Foregoings have a range of 1 block. Range Addons are used to increase this. A Range +2 Addon adds 2 to the range, so it would be 3x3.
-academy.rangeaddon.task=Any Range Addon
+academy.rangeaddon.title=크게, 좋게
+academy.rangeaddon.desc=범위 에드온 만들기
+academy.rangeaddon.text=기본적으로 모든 Industrial Foregoing의 기계들은 1블록의 범위를 가집니다. 이것을 증가시키기 위해 범위 에드온이 사용됩니다. 범위 +2 에드온은 범위에 2를 추가하므로 3x3이 됩니다.
+academy.rangeaddon.task=모든 범위 에드온
 
 academy.DEgrinder.title=킬 박스
 academy.DEgrinder.desc=몹 분쇄기 만들기
@@ -1321,29 +1321,29 @@ academy.farreach.text=이름이 암시하는 바와 같이 장거리의 반지�
 academy.luminizer.title=햇살 위를 걷다
 academy.luminizer.desc=루미나이저 만들기
 academy.luminizer.text1=루미나이저는 플레이어와 몹들을 빛의 궤도에 태워 서로 움직이게 할 수 있습니다.
-academy.luminizer.text2=두 개의 루미나이저를 서로 20블록 이내에 두세요. 숲의 지팡이로 루미나이저를 쉬프트 우클릭하여 단방향 연결을 만듭니다. 첫 번째 루미나이저를 우클릭하여 다른 루미나이저로 이동하여 다른 루미나이저와 연결되면 해당 루미나이저도 함께 전송됩니다.
+academy.luminizer.text2=두 개의 루미나이저를 서로 20블록 이내에 두고, 숲의 지팡이로 루미나이저를 쉬프트 우클릭하여 단방향 연결을 만듭니다.
 
 academy.conjuration.desc=Make a Conjuration Catalyst
 academy.conjuration.text1=The Conjuration Catalyst is placed under the Mana Pool to allow it to duplicate certain items using Mana.
 academy.conjuration.text2=Look at the Conjuration Catalyst's uses in JEI with the U button to see what can be duplicated.
 
-academy.elvenspreader.desc=Make an Elven Mana Spreader
-academy.elvenspreader.text=The Elven Mana Spreader can send much larger bursts of Mana, though it also fires less often.
+academy.elvenspreader.desc=엘프의 마나 공급기 만들기
+academy.elvenspreader.text=엘프의 마나 공급기는 훨씬 더 큰 마나를 보낼 수 있지만, 대신 가끔씩 발사됩니다.
 
-academy.globetrotter.desc=Make a Globetrotter's Sash
-academy.globetrotter.text=The Globetrotter's Sash is essentially a direct upgrade to the Soujourner's Sash. You can run faster, jump higher, and pronounce it easier!
+academy.globetrotter.desc=여행자의 띠 만들기
+academy.globetrotter.text=여행자의 띠는 마법사의 띠를 업그레이드한 것입니다. 더 빨리 달리고, 더 높이 점프합니다.
 
-academy.gaiaspreader.desc=Make a Gaia Mana Spreader
-academy.gaiaspreader.text=the Gaia Mana Spreader is the final tier of Mana Spreader. It larger Mana bursts which travel farther.
+academy.gaiaspreader.desc=대지의 마나 공급기 만들기
+academy.gaiaspreader.text=대지의 마나 공급기는 마나 공급기의 최종 티어입니다. 이것은 더 멀리 이동하는 더 큰 마나를 발사합니다.
 
-academy.gaia.title=Crank it Up!
-academy.gaia.desc=Fight the Guardian of Gaia
-academy.gaia.text=You have to construct a battle arena to summon the Guardian of Gaia (see the Lexica Botania for details). After defeating them, it will drop some Gaia Spirits and some other useful things.
+academy.gaia.title=정신 차려!
+academy.gaia.desc=대지의 수호자와 전투하기
+academy.gaia.text=대지의 수호자를 소환하기 위해서는 제단(배틀 아레나)를 건설해야 합니다(자세한 내용은 렉시카 보타니아 참조). 수호자를 물리치고 나면, 몇몇 대지의 정수와 다른 유용한 것들을 떨어뜨릴 것입니다.
 
-academy.gaia2.title=Loot Crate
-academy.gaia2.desc=Fight the stronger Guardian of Gaia
-academy.gaia2.text1=You can challenge the Guardian to a more difficult fight to get better rewards. Use a Gaia Spirit Ingot instead of Terrasteel Ingot to begin the battle.
-academy.gaia2.text2=The second fight will be much, much harder. Come prepared for a battle. It drops Loot Dice, which turn into 1 of 6 possible legendary Relics.
+academy.gaia2.title=전리품 상자
+academy.gaia2.desc=더 강한 대지의 수호자와 전투하기
+academy.gaia2.text1=더 좋은 보상을 얻기 위해 더 강한 수호자와의 전투에 도전하세요. 전투를 시작하려면 테라스틸 주괴 대신 대지의 정령 주괴를 사용하세요.
+academy.gaia2.text2=두 번째 싸움은 훨씬 더 힘들어, 전투를 대비해야 할 것입니다. 수호자는 전리품 주사위를 떨어뜨리며, 주사위를 굴려 전설적인 유물 6개 중 1개를 얻을 수 있습니다.
 
 #Twilight Forest
 academy.twilightportal.title=순수한 가상의 세계
