@@ -1451,47 +1451,47 @@ academy.luminouscraftingtable.text2=별빛의 양은 고도와 위치에 따라 
 academy.luminouscraftingtable.text3=루미너스 제작대로 제작하려면 별빛이 충분한지 확인한 다음, 공명의 지팡이로 우클릭 하세요.
 academy.luminouscraftingtable.text4=일단 루미너스 제작대를 만들고 나면, 탐험 챕터가 별의 책에서 열리게 됩니다.
 
-academy.sextant.title=Building Helper
-academy.sextant.desc=Make a Sextant
-academy.sextant.text1=Astral Sorcery has several multiblock structures which can be a big confusing to build. If you use a Sextant on the main part of a multiblock, it will show you where to place the blocks to complete it.
-academy.sextant.text2=Use the Sextant on air at night and look to the stars, and you might see a large coloured star. Hold sneak to unlock the mouse and hover over it, and it will change to one of the icons on the right. Drag that icon onto the star to mark it, and you will be able to see it in the night sky. Follow it to find that structure in the world.
+academy.sextant.title=건축 도우미
+academy.sextant.desc=육분의 만들기
+academy.sextant.text1=아스트랄 소서리에는 여러개의 멀티블록이 있는데, 이것들을 짓는데 너무 복잡해서 혼란스러울 수 있습니다. 멀티블록의 메인 부분에 육분의를 사용하면 블록을 배치하여 완성할 위치를 알려줍니다.
+academy.sextant.text2=밤에 공중에서 육분의를 사용해 별을 보면, 여러분은 큰 색깔의 별을 볼 수 있을 것입니다. 마우스의 잠금을 해제하기 위해 쉬프트를 누른채 마우스를 위로 올리면 오른쪽 아이콘 중 하나로 바뀝니다. 그 아이콘을 별 위로 끌어 올리면 밤하늘에서 볼 수 있을 것입니다. 월드에서 구조물을 찾으려면 그것을 따르세요.
 
-academy.lookingglass.title=Through the Looking Glass
-academy.lookingglass.desc=Make a Looking Glass
-academy.lookingglass.text1=By using the Looking Glass, you can search the night sky for any Constellations whose Papers you've found. Only one constellation is visible per night using the Looking Glass, so it may take multiple nights for the one you are searching for to appear.
-academy.lookingglass.text2=Stars that belong to constellations will be larger and fade in and out. If it is a constellation you've discovered already, hold sneak to unlock the mouse and trace lines between the stars in the pattern of the constellation.
+academy.lookingglass.title=망원경을 통해
+academy.lookingglass.desc=망원경 만들기
+academy.lookingglass.text1=망원경을 사용하여, 별자리 종이에 그려진 별을 찾기 위해 밤하늘을 둘러볼 수 있습니다. 망원경을 사용하여 하룻밤에 하나의 별자리만 볼 수 있으므로, 여러분이 찾고 있는 별자리가 나타나려면 여러 밤이 걸릴 수도 있습니다.
+academy.lookingglass.text2=별자리에 속하는 별들은 더 크고 안과 밖은 희미할 것입니다. 이미 발견한 별자리라면, 쉬프트를 누른채 마우스로 별과 별을 선으로 그어 별자리의 패턴을 완성하세요.
 
 academy.lightwell.title=달빛이 비치는 욕조
 academy.lightwell.desc=라이트웰 만들기
 academy.lightwell.text1=라이트웰은 액체 별빛을 만드는 데 사용되는데, 라이트웰이 밤 하늘을 보고 있는 동안, 아쿠아마린이나 락 크리스탈을 들고 우클릭하여 액체 별빛을 만듭니다.
 academy.lightwell.text2=락 크리스탈을 액체 별빛안에 던지면 크기가 서서히 커집니다. 큰 락 크리스탈로 만든 도구는 도구의 내구성을 높힐것 입니다.
 
-academy.fosicresonator.title=Constructive Interference
-academy.fosicresonator.desc=Make a Fosic Resonator
-academy.fosicresonator.text1=Some areas are better than others for getting Starlight, and it can be hard to find a location that works well.
-academy.fosicresonator.text2=Explore the land at night while holding a Fosic Resonator in your hand, and you can find areas that glow blue. The more intense the glow, the more Starlight can be found there.
+academy.fosicresonator.title=건설을 위한 간섭
+academy.fosicresonator.desc=포식 공명기 만들기
+academy.fosicresonator.text1=별빛을 받기 좋은 곳을 찾는것은 어려울 수 있습니다.
+academy.fosicresonator.text2=밤에 포식 공명기를 손에 들고 탐험하면 푸른 빛을 발산하는 지역을 발견할 수 있습니다. 빛이 강렬할수록 그 지역은 별빛을 더 많이 받을 수 있습니다.
 
-academy.spectralrelay.title=Starlight Boost
-academy.spectralrelay.desc=Make a Spectral Relay
-academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and it will boost it.
-academy.spectralrelay.text2=If Spectral Relays are within 16 blocks of each other, they will lose a lot of efficiency.
+academy.spectralrelay.title=별빛 증폭
+academy.spectralrelay.desc=스펙트럴 중계기 만들기
+academy.spectralrelay.text1=만약 완벽한 장소를 찾을 수 없다면, 중계기를 사용하여 별빛을 증폭할 수 있습니다. 별빛을 주고 싶은 구조물 근처에 멀티블록으로 만들면 별빛을 증폭시켜 줄 것입니다.
+academy.spectralrelay.text2=만약 스펙트럴 중계기가 서로 16블록 이내에 있으면 효율이 많이 떨어질 것입니다.
 
-academy.illuminationpowder.title=Night Light
-academy.illuminationpowder.desc=Make Illumination Powder
-academy.illuminationpowder.text1=Illumination Powder is a great source of light. It doesn't take up a block space, it can't be touched, and it doesn't need to be supported.
-academy.illuminationpowder.text2=The only way to destroy it is to place a block on it.
+academy.illuminationpowder.title=밤의 빛
+academy.illuminationpowder.desc=조명 가루 만들기
+academy.illuminationpowder.text1=조명 가루는 훌륭한 광원입니다. 블록 공간을 차지하지 않으며, 건들 수도 없으며, 뭘 받쳐놓을 필요도 없습니다.
+academy.illuminationpowder.text2=이것을 부술 수 있는 유일한 방법은 그 위에 블록을 놓는 것 입니다.
 
-academy.caveilluminator.desc=Make a Cave Illuminator
-academy.caveilluminator.text=The Cave Illuminator will slowly light up all dark areas beneath it in a large area.
+academy.caveilluminator.desc=동굴 조광기 만들기
+academy.caveilluminator.text=동굴 조광기는 넓은 지역의 아래의 어두운 곳을 서서히 밝힐 것입니다.
 
-academy.nocturnalpowder.title=Black Light
-academy.nocturnalpowder.desc=Make Nocturnal Powder
-academy.nocturnalpowder.text=When Nocturnal Powder is thrown, it will create a dark cloud that spawns monsters.
+academy.nocturnalpowder.title=검은 빛
+academy.nocturnalpowder.desc=어둠의 가루 만들기
+academy.nocturnalpowder.text=어둠의 가루를 던지면, 몹을 소환하는 어두운 구름이 생성될 것입니다.
 
-academy.grindstone.title=Quality over Quantity
-academy.grindstone.desc=Make a Grindstone
-academy.grindstone.text1=The Grindstone can be used to sharpen Swords, adding 10%% damage.
-academy.grindstone.text2=You can also use them to sharpen Rock Crystals, which will increase the damage/speed of tools crafted with them at the cost of lowering their size.
+academy.grindstone.title=양보다 질
+academy.grindstone.desc=숫돌 만들기
+academy.grindstone.text1=숫돌은 검을 갈아서 10%%의 데미지를 추가할 수 있습니다.
+academy.grindstone.text2=또한 락 크리스탈을 갈아서, 크기를 줄이는 대신 도구의 피해/속도를 올릴 수 있습니다.
 
 academy.starlightcraftingaltar.desc=Make a Starlight Crafting Altar
 academy.starlightcraftingaltar.text1=The Starlight Crafting Altar is the second tier of crafting tables that use Starlight. When you craft it in the Luminous Crafting Table, instead of popping out it will just convert into the Starlight Crafting Altar.
@@ -1859,7 +1859,7 @@ academy.overlay.as.3=하얀색 양털 위에 제작대를 놓으세요
 academy.overlay.as.4=공명의 지팡이 제작하기 (레시피는 JEI를 참조)
 academy.overlay.as.5=루미너스 제작대 제작하기 (레시피는 JEI를 참조)
 academy.overlay.as.6=조각된 석영 블록 위에 루미너스 제작대를 놓으세요
-academy.overlay.as.7=조광 가루 몇 개 만들기 (레시피는 JEI를 참조)
+academy.overlay.as.7=조명 가루 몇 개 만들기 (레시피는 JEI를 참조)
 academy.overlay.as.8=공명의 지팡이로 루미너스 제작대를 우클릭하여 제작 과정을 시작하세요
 
 academy.overlay.botania.title=보타니아
