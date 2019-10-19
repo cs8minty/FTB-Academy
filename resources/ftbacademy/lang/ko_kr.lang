@@ -1481,8 +1481,8 @@ academy.illuminationpowder.desc=조명 가루 만들기
 academy.illuminationpowder.text1=조명 가루는 훌륭한 광원입니다. 블록 공간을 차지하지 않으며, 건들 수도 없으며, 뭘 받쳐놓을 필요도 없습니다.
 academy.illuminationpowder.text2=이것을 부술 수 있는 유일한 방법은 그 위에 블록을 놓는 것 입니다.
 
-academy.caveilluminator.desc=동굴 조광기 만들기
-academy.caveilluminator.text=동굴 조광기는 넓은 지역의 아래의 어두운 곳을 서서히 밝힐 것입니다.
+academy.caveilluminator.desc=동굴 조명기 만들기
+academy.caveilluminator.text=동굴 조명기는 넓은 지역의 아래의 어두운 곳을 서서히 밝힐 것입니다.
 
 academy.nocturnalpowder.title=검은 빛
 academy.nocturnalpowder.desc=어둠의 가루 만들기
@@ -1677,11 +1677,11 @@ academy.wateringcan.desc=물 뿌리개 만들기
 academy.wateringcan.text1=물 뿌리개를 사용하면 일정 영역의 작물의 성장을 가속화 합니다. 이것은 물을 필요로 하고, 물에 쉬프트 우클릭하면 채울 수 있습니다.
 academy.wateringcan.text2=높은 티어의 물 뿌리개는 더 많은 물을 저장할 수 있고, 효과 영역이 넓어지며, 식물이 성장할 확률이 더 높습니다.
 
-academy.slimechannel.title=Gelatinous
-academy.slimechannel.desc=Make a Slime Channel
-academy.slimechannel.text1=Slime Channels will push all entities (items and mobs) in the direction they are facing, including up and along walls.
-academy.slimechannel.text2=They don't block mobs from spawning, so they work great in mob grinders.
-academy.slimechannel.task=Any Slime Channel
+academy.slimechannel.title=물컹물컹
+academy.slimechannel.desc=슬라임 채널 만들기
+academy.slimechannel.text1=슬라임 채널은 모든 엔티티(아이템과 몹)를 벽을 따라 위로, 그리고 그 방향으로 밀어넣을 것입니다.
+academy.slimechannel.text2=채널은 몹들이 생성되는 것을 막지 않기 때문에, 몹 분쇄기에서 훌륭하게 일합니다.
+academy.slimechannel.task=아무 슬라임 채널
 
 academy.craftingtableonastick.title=제작대 + 막대기 = ?
 academy.craftingtableonastick.desc=제작막대 만들기
