@@ -851,7 +851,7 @@ academy.IFbook.title=진보의 꿈
 academy.IFbook.desc=Industrial Foregoing의 메뉴얼 만들기
 academy.IFbook.text=Industrial Foregoing의 메뉴얼은 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
-academy.DEinfotab.title=우리는 가이드를 위한 가이드를 만들었다.
+academy.DEinfotab.title=가이드를 위한 가이드
 academy.DEinfotab.desc=드라코닉 에볼루션 안내책자 만들기
 academy.DEinfotab.text=드라코닉 에볼루션 안내책자는 모드에 의해 추가된 블록과 아이템에 대한 모든 정보를 가지고 있습니다.
 
@@ -1511,7 +1511,7 @@ academy.starmetal.title=락 스타
 academy.starmetal.desc=스타메탈 만들기
 academy.starmetal.text=떠있는 크리스탈과 철광석을 연결하면 스타메탈 광석이 됩니다.
 
-academy.astralsorcerylens.title=Starlight Redirection Lens
+academy.astralsorcerylens.title=별빛 튕겨내기
 academy.astralsorcerylens.desc=렌즈 만들기
 academy.astralsorcerylens.text1=렌즈로 별빛을 원천에서 먼 곳으로 옮길 수 있습니다. 원천을 렌즈에 연결한 다음 렌즈와 목적지를 연결하기만 하면 됩니다. 원천은 얼마든지 가질 수 있지만 목적지는 한 곳밖에 가질 수 없습니다.
 academy.astralsorcerylens.text2=렌즈 블록에 컬러 렌즈를 삽입하여 이를 통과하는 별빛이 기능을 수행하도록 할 수 있습니다. 각각의 색상은 다른 기능을 가지고 있는데, 렌즈 툴팁에 적혀 있습니다.
