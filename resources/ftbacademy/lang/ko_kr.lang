@@ -1493,52 +1493,52 @@ academy.grindstone.desc=숫돌 만들기
 academy.grindstone.text1=숫돌은 검을 갈아서 10%%의 데미지를 추가할 수 있습니다.
 academy.grindstone.text2=또한 락 크리스탈을 갈아서, 크기를 줄이는 대신 도구의 피해/속도를 올릴 수 있습니다.
 
-academy.starlightcraftingaltar.desc=Make a Starlight Crafting Altar
-academy.starlightcraftingaltar.text1=The Starlight Crafting Altar is the second tier of crafting tables that use Starlight. When you craft it in the Luminous Crafting Table, instead of popping out it will just convert into the Starlight Crafting Altar.
-academy.starlightcraftingaltar.text2=In order for the Starlight Crafting Altar to work, you will have to build a structure around it. You can use the Sextant to see where to place the blocks.
-academy.starlightcraftingaltar.text3=Once you've crafted the Starlight Crafting Altar, the Attunement chapter is unlocked in the Astral Tome.
+academy.starlightcraftingaltar.desc=별빛 제작 제단 만들기
+academy.starlightcraftingaltar.text1=별빛 제작 제단은 별빛을 사용하는 두 번째 단계의 제작대입니다. 루미너스 제작대에서 제작하면, 별빛 입자가 튀는 대신 별빛 제작 제단으로 변환됩니다.
+academy.starlightcraftingaltar.text2=별빛 제작 제단이 작동하려면, 주위에 구조물을 만들어야 할 것입니다. 육분의를 사용하여 블록을 배치할 위치를 볼 수 있습니다.
+academy.starlightcraftingaltar.text3=별빛 제작 제단을 제작하면, 아스트랄 소서리의 동조 챕터가 잠금 해제됩니다.
 
-academy.telescope.title=I Spy With My Little Eye
-academy.telescope.desc=Make a Telescope
-academy.telescope.text=The Telescope is essentially an upgraded Looking Glass. Place it down in the world and use it to see a section of the night sky. Other than that, it works exactly like the Looking Glass.
+academy.telescope.title=작은 눈으로 지켜 보다
+academy.telescope.desc=천체 망원경 만들기
+academy.telescope.text=천체 망원경은 업그레이드 된 망원경입니다. 이것을 설치하고 밤 하늘의 한 구획을 보기 위해 사용합니다. 이것말고도 망원경과 기본적으로 사용법이 같습니다.
 
-academy.linkingtool.title=Hey, Listen!
-academy.linkingtool.desc=Make a Linking Tool
-academy.linkingtool.text1=The Linking Crystal allows you to create connections between Floating Crystals and other blocks. Simply sneak right click on the source of Starlight, then right click on everything you wish to connect it to.
-academy.linkingtool.text2=Some blocks are changed into other blocks when connected to Floating Crystals. To see the list, check JEI for the uses for the Lens.
+academy.linkingtool.title=이봐, 들어봐!
+academy.linkingtool.desc=연결 도구 만들기
+academy.linkingtool.text1=연결 도구는 떠있는 크리스탈과 다른 블록들 사이에 연결을 할 수 있게 해줍니다. 별빛의 원천을 쉬프트 우클릭한 다음 연결할 모든 것에 우클릭하세요.
+academy.linkingtool.text2=일부 블록은 떠있는 크리스탈에 연결되면 다른 블록으로 변경됩니다. 해당되는 블록의 목록을 보려면 렌즈의 용도를 JEI에서 확인하세요.
 
-academy.starmetal.title=Rock Star
-academy.starmetal.desc=Make Starmetal
-academy.starmetal.text=If you link a Floating Crystal to Iron Ore, it gets turned into Starmetal Ore.
+academy.starmetal.title=락 스타
+academy.starmetal.desc=스타메탈 만들기
+academy.starmetal.text=떠있는 크리스탈과 철광석을 연결하면 스타메탈 광석이 됩니다.
 
 academy.astralsorcerylens.title=Starlight Redirection Lens
-academy.astralsorcerylens.desc=Make a Lens
-academy.astralsorcerylens.text1=You can use a Lens to move Starlight from a source to a distant location. Simply link a source to the Lens, then link the Lens to the destination. You can have as many sources as you want, but you can only have one destination.
-academy.astralsorcerylens.text2=You can insert a Colored Lens into a Lens block to make the Starlight that passes through it perform a function. Each color has a different function, which is given in its tooltip.
+academy.astralsorcerylens.desc=렌즈 만들기
+academy.astralsorcerylens.text1=렌즈로 별빛을 원천에서 먼 곳으로 옮길 수 있습니다. 원천을 렌즈에 연결한 다음 렌즈와 목적지를 연결하기만 하면 됩니다. 원천은 얼마든지 가질 수 있지만 목적지는 한 곳밖에 가질 수 없습니다.
+academy.astralsorcerylens.text2=렌즈 블록에 컬러 렌즈를 삽입하여 이를 통과하는 별빛이 기능을 수행하도록 할 수 있습니다. 각각의 색상은 다른 기능을 가지고 있는데, 렌즈 툴팁에 적혀 있습니다.
 
-academy.celestialgateway.title=Intrastellar Travel
-academy.celestialgateway.desc=Make a Celestial Gateway
-academy.celestialgateway.text1=Celestial Gateways are a multiblock structure that allow you to teleport to other Celestial Gateways. While standing near the center of the platform, your surroundings will disappear and you will be able to see the location of other Celestial Gateways. Sneak while looking at your destination, and you will be sent to it.
-academy.celestialgateway.text2=You can name a Celestial Gateway in an Anvil to make it easier to tell it from others.
+academy.celestialgateway.title=우주 여행
+academy.celestialgateway.desc=천상의 게이트웨이
+academy.celestialgateway.text1=천상의 게이트웨이는 멀티블록 구조로, 다른 천상의 게이트웨이로 텔레포트를 할 수 있습니다. 플랫폼 중앙에 서 있는 동안, 주변이 서서히 어두워지며 다른 게이트웨이의 위치를 볼 수 있을 것입니다. 목적지를 바라보면서 쉬프트를 누르면 그곳으로 이동 될 것입니다.
+academy.celestialgateway.text2=모루로 게이트웨이의 이름을 붙이면 다른 것들과 쉽게 구별할 수 있습니다.
 
-academy.impulsionwand.title=Grappling Hook!
-academy.impulsionwand.desc=Make an Impulsion Wand
-academy.impulsionwand.text=Right click with the Impulsion Wand to send out a projectile. When it lands, it will rapidly pull you towards itself. You will not take fall damage.
+academy.impulsionwand.title=그래플링 훅!
+academy.impulsionwand.desc=충동의 지팡이 만들기
+academy.impulsionwand.text=충동의 지팡이를 우클릭하여 발사체를 발사하세요. 발사체가 착지하면, 그것은 빠르게 발사체로 당신을 끌어들일 것입니다. 낙사 피해는 입지 않습니다.
 
-academy.attunementaltar.title=Arguably the Coolest Thing Ever
-academy.attunementaltar.desc=Make an Attunement Altar
-academy.attunementaltar.text1=The Attunement Altar gives you the ability to attune yourself or certain items to the constellations, granting awesome powers. Hold a Constellation Paper in your hand and place down Relays in the glowing areas. If that constellation is in the night sky, it will attune whatever is on top of the Altar to that constellation.
-academy.attunementaltar.text2=While you can attune items like Rock Crystals, the really interesting part is the ability to attune YOURSELF to a constellation. Attuning yourself to a constellation will unlock a massive perk tree, and you can gain experience by performing actions depending on the theme of the constellation.
+academy.attunementaltar.title=틀림없이 가장 멋진 것
+academy.attunementaltar.desc=동조 제단 만들기
+academy.attunementaltar.text1=별자리에는 자신의 신체나 어떤 아이템에 별자리를 할당할 수 있는 능력이 주어지며, 굉장한 힘을 부여합니다. 별자리 종이를 손에 들고 빛나는 곳에 중계기를 설치하세요. 만약 그 별자리가 밤 하늘에 있다면, 제단의 윗부분에 있는 것은 무엇이든지 별자리의 힘이 부여될 것입니다.
+academy.attunementaltar.text2=락 크리스탈과 같은 것들을 동조할 수 있지만, 정말 흥미로운 부분은 자신의 신체를 별자리에 동조하는 능력입니다. 별자리에 자신을 동조하면 특성 트리가 잠금 해제되고, 별자리의 테마에 따라 행동을 함으로써 경험치를 얻을 수 있습니다.
 
-academy.shiftingstar.title=Respec
-academy.shiftingstar.desc=Make a Shifting Star
-academy.shiftingstar.text=If you are unhappy with the constellation you attuned with or the perks you've chosen, you can use a Shifting Star to completely reset your perk progress and attunement.
+academy.shiftingstar.title=재구성
+academy.shiftingstar.desc=변화의 별 만들기
+academy.shiftingstar.text=만약 당신이 동조한 별자리나 선택한 특성에 만족하지 못한다면, 특성과 동조를 재설정하기 위해 변화의 별을 사용할 수 있습니다.
 
-academy.ritualpedestal.title=Area of Effect
-academy.ritualpedestal.desc=Make a Ritual Pedestal
-academy.ritualpedestal.text1=Ritual Pedestals act somewhat like a Beacon, except instead of giving a potion effect they perform some function, such as allowing flight or preventing monsters from spawning within their area (depending on the Size and Purity).
-academy.ritualpedestal.text2=The function they perform is dependent on the constellation that the Rock Crystal inside is attuned to. You can see what each constellation does in the Constellations page.
-academy.ritualpedestal.text3=You can boost the effectiveness of a ritual by providing it Starlight directly through Floating Crystals and Lenses. Doing so will also reflect some of it away, so you will have to place more Lenses to send the wasted Starlight back towards the Ritual Pedestal. This does have a greater risk of destroying the Attuned Crystal, however.
+academy.ritualpedestal.title=효과 영역
+academy.ritualpedestal.desc=의식 받침대 만들기
+academy.ritualpedestal.text1=의식 받침대들은 비콘처럼 작동하지만, 비행을 허용하거나 몬스터 들이 그 지역 내에서 생성되는 것을 막는 것과 같은 어떤 기능을 수행할 수 있습니다. (크기 및 순수도에 따라 다름)
+academy.ritualpedestal.text2=수행하는 기능은 안에 있는 락 크리스탈에 부착된 별자리에 따라 달라집니다. 각 별자리는 별자리 페이지에서 어떤것을 하는지 볼 수 있습니다.
+academy.ritualpedestal.text3=떠있는 크리스탈과 렌즈를 통해 별빛을 직접적으로 제공함으로써 의식의 효과를 높일 수 있습니다. 이렇게 하는 것은 별빛의 일부를 반사할 것이기 때문에 낭비된 별빛을 다시 의식 받침대로 보내기 위해 더 많은 렌즈를 배치해야 할 것입니다. 하지만 이것은 동조된 크리스탈을 파괴할 위험이 더 큽니다.
 
 academy.domicresonator.title=DOMA, DOMA DOMA DOMA!
 academy.domicresonator.desc=Make a Domic Resonator
