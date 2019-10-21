@@ -1540,15 +1540,15 @@ academy.ritualpedestal.text1=의식 받침대들은 비콘처럼 작동하지만
 academy.ritualpedestal.text2=수행하는 기능은 안에 있는 락 크리스탈에 부착된 별자리에 따라 달라집니다. 각 별자리는 별자리 페이지에서 어떤것을 하는지 볼 수 있습니다.
 academy.ritualpedestal.text3=떠있는 크리스탈과 렌즈를 통해 별빛을 직접적으로 제공함으로써 의식의 효과를 높일 수 있습니다. 이렇게 하는 것은 별빛의 일부를 반사할 것이기 때문에 낭비된 별빛을 다시 의식 받침대로 보내기 위해 더 많은 렌즈를 배치해야 할 것입니다. 하지만 이것은 동조된 크리스탈을 파괴할 위험이 더 큽니다.
 
-academy.domicresonator.title=DOMA, DOMA DOMA DOMA!
-academy.domicresonator.desc=Make a Domic Resonator
-academy.domicresonator.text1=The Domic Resonator is an upgrade to the Fosic Resonator. You can swap between the modes by sneak right clicking it.
-academy.domicresonator.text2=The Domic Resonator will show you the range of rituals and similar things by right clicking on the main block (such as the Ritual Pedestal or Tree Beacon).
+academy.domicresonator.title=도믹, 도믹 도믹 도믹!
+academy.domicresonator.desc=도믹 공명기 만들기
+academy.domicresonator.text1=도믹 공명기는 포식 공명기를 업그레이드 한 것입니다. 이것을 들고 쉬프트 우클릭 함으로써 모드를 서로 전환할 수 있습니다.
+academy.domicresonator.text2=도믹 공명기는 메인 블록(의식 받침대나 나무 비콘과 같은)을 우클릭하여 의식의 범위 등을 보여줄 것입니다.
 
-academy.celestialaltar.desc=Make a Celestial Altar
-academy.celestialaltar.text1=The Celestial Altar is the third tier of crafting tables that use Starlight. When you craft it in the Starlight Crafting Altar, instead of popping out it will just convert into the Celestial Altar.
-academy.celestialaltar.text2=The Celestial Altar will not function without a new, larger multiblock structure surrounding it. You can use the Sextant to see where to place the blocks.
-academy.celestialaltar.text3=Once you've crafted the Celestial Altar, the Constellation chapter is unlocked in the Astral Tome.
+academy.celestialaltar.desc=천상의 제단 만들기
+academy.celestialaltar.text1=천상의 제단은 별빛을 사용하는 세번째 단계의 제작대입니다. 별빛 제작 제단에서 제작하면, 별빛 입자가 튀는 대신 천상의 제단으로 변환됩니다.
+academy.celestialaltar.text2=천상의 제단은 주위를 둘러싸고 있는 새롭고 더 큰 멀티블록 구조물이 필요합니다. 육분의를 사용하여 블록을 배치할 위치를 볼 수 있습니다.
+academy.celestialaltar.text3=천상의 제단을 만들면, 별의 책의 별자리 챕터가 잠금해제 될 것입니다.
 
 academy.starlightinfuser.title=Starlight, Star Bright
 academy.starlightinfuser.desc=Make a Starlight Infuser
@@ -1691,7 +1691,7 @@ academy.tinytorch.title=내 삶의 빛
 academy.tinytorch.desc=작은 횃불 만들기
 academy.tinytorch.text=작은 횃불은 일반 횃불보다 더 저렴한 대체제입니다. 그러나 밝기 수준이 횃불의 14와 비교하면 12 밖에 되지 않습니다.
 
-academy.foodxl.title=변화가 인생을 즐겁게 한다.
+academy.foodxl.title=먹는 것의 즐거움
 academy.foodxl.desc=XL Food 모드의 아이템 얻기
 academy.foodxl.text=XL Food 모드는 매우 다양한 음식 아이템들을 추가합니다. 치즈버거부터 스파게티까지 다양하게!
 academy.foodxl.task=XL Food 모드의 아무 음식
